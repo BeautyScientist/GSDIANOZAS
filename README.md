@@ -147,4 +147,8 @@ One of the things I would love to be able to do is work on my phone more. This w
 
 However, I haven't found the speech to text option works very well on most of the software I routinely use. It is positively dreadful on the iPhone version of Google Docs for example. But somehow I had a hunch that it might work better on the GitHub app. GitHub is for geeky people after all. So I'm giving it a go right now.
 
+Having had good results with GitHub, I tried speech to text on a few other applications on my phone. It looks like the improvement quality is down to the overall technology rather than any special source from GitHub itself. This is a course better news. So I think I can now look forward to being able to compose documents whilst getting some exercise. This does actually have more than one benefit. Not only am I keeping fit, I’m also far less distracted when I’m away from my Desk and where I can focus on thinking about one thing at a time.
+
+Quite apart from anything else, it is a very satisfying feeling to be getting two things done at the same time. This is something that is rarely possible.
+
 © Colin Sanders 2025
