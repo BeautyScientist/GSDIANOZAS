@@ -1,9 +1,3 @@
-# The Cult of Done Manifesto: Expanded
-
-Let me expand on each of the 13 principles to help you better understand and apply them:
-
-### 1. There are three states of being: Not knowing, action, and completion.
-This principle recognizes that we all start from a place of uncertainty. Rather than staying stuck in that uncertainty, the path forward is to take action and move toward completion. Don't get trapped in endless research or planning - recognize these three distinct states and keep moving through them.
 
 ### 2. Accept that everything is a draft. It helps to get it done.
 Nothing is ever truly perfect or final. When you view your work as a draft, you remove the pressure of perfection. This mindset frees you to actually produce something rather than being paralyzed by the fear of imperfection. The goal is progress, not perfection.
