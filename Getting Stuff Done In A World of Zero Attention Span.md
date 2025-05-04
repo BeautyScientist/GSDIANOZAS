@@ -132,4 +132,10 @@ I really like this approach. I find it difficult to use because I am a perfectio
 
 I've decided to switch this project from Google Docs to GitHub. The initial impetus for this was simply that using a GitHub repository (actual thing) as a repository (metaphor) was mentioned in the Cult of Done video that I listened to. It sounded like a cool thing to do. But more seriously there is a lot to be said for keeping key information at least backed up away from the big tech giants given that it turns out that the United States may not be as trustworthy as previous experience has led us to believe. It will be interesting to see how much functionality I lose by switching tools. 
 
+**Cult of Done Principle 1 - The Three States of Being**
+
+There are three states of being: Not knowing, action, and completion.
+This principle recognizes that we all start from a place of uncertainty. Rather than staying stuck in that uncertainty, the path forward is to take action and move toward completion. Don't get trapped in endless research or planning - recognize these three distinct states and keep moving through them.
+
+This is the first principle of the Cult of Done. On the whole, I don’t think that being overly taxanomic about activities is a good thing. Being actually active is a good thing. But this broad classification is helpful, largely because it labels that initial feeling when starting out on a project where there are lots of procrastination options available. It is always fun to do research. It is less arduous to compile a list of actions than to actually carry them out. But both researching and planning are necessary activities. When you are getting going on a project it is helpful to start by working out what you don’t know and deciding how you are going to go about finding out.
 © Colin Sanders 2025
