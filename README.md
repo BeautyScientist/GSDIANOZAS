@@ -76,8 +76,6 @@ As a result I have decided that whatever else I do, I am no longer going to take
 
 I am a big fan of the pomodoro method and use it a lot. It was originally proposed as a method for studying, but I use it to cope with my perennial problem of having too many different projects on the go at a time. My strategy is typically to assign sequential pomodoro sessions to different projects so that I make at least some progress on all the main projects I am working on. The suggested length of pomodoro sessions is 25 minutes. I’ve done a lot of experimenting with this and I’d say that most of the time for most things, that is the optimum. But longer sessions can be good for big projects, and shorter ones are better when I don’t have the focus to get started. I’ve gone down to as short as 5 minutes and still made good progress \- or at least made some progress when it would have been easy to make no progress. Doing multiple short pomodoros also has the great advantage of avoiding tasks going ‘stale’ so that when you get back to them you’ve forgotten what you should be doing.
 
-#### 
-
 #### **Simple Procrastination Buster**
 
 I have set up a system that I find helpful. Using Apple’ script language Shortcuts I have created a routine that selects a random URL from a list and opens it. I add trello cards, emails and documents I am working to to the list. I can then set it up to run these tasks for a period of time I define and for a specific number of the items on the list to be run.
