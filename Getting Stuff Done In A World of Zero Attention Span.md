@@ -128,4 +128,8 @@ The bit it leaves out is tweaking and editing. You do something and reach a fini
 
 I really like this approach. I find it difficult to use because I am a perfectionist. But I shouldn’t be. All those emails I spent 30 minutes polishing to read really well have brought me very little benefit. I should have set a timer and settled for what I had. And so on for most of my other activities.
 
+**Switching to GitHub**
+
+I've decided to switch this project from Google Docs to GitHub. The initial impetus for this was simply that using a GitHub repository (actual thing) as a repository (metaphor) was mentioned in the Cult of Done video that I listened to. It sounded like a cool thing to do. But more seriously there is a lot to be said for keeping key information at least backed up away from the big tech giants given that it turns out that the United States may not be as trustworthy as previous experience has led us to believe. It will be interesting to see how much functionality I lose by switching tools. 
+
 © Colin Sanders 2025
