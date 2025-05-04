@@ -104,17 +104,17 @@ I’ve just posted this on Bluesky \-
 
 I am just too easily distracted by social media. I know I’m not the only one \- because of all the people I meet on social media. The thing that triggered this was reading about a thing called the 5am Club, which I came across by chance on social media. I didn’t read the details but I didn’t have to. Focusing on what you want to achieve not on what gives you a dopamine hit is what is important.
 
-**Back after 3 month pause**
+#### **Back after 3 month pause**
 
 My experiment to see if I can slyly write a book in between all my other tasks in 10 minute blocks isn’t working out very well. I haven’t made any progress on it for months. It is the softest task on my list and consequently gets dropped nearly every day. (To be scrupulously fair, I have been suffering with several bouts of a nasty bug for the first few months of this year.)
 
 It turns out that keeping to a strict schedule isn’t all that easy and doesn’t in fact create any new time for new projects. However I have been findining it easier to break big tasks down into smaller chunks as I have been practicing it more. And having lists of tasks that I pick from randomly helps in avoiding procrastination. These two things are helping me get more done in the sense of not leaving so many projects neglected to the point of me not knowing what I am doing with them. 
 
-**Procrastination Busting when you have a lot of time**
+#### **Procrastination Busting when you have a lot of time**
 
 I have just spent several hours getting about half an hour’s work done. I do this every so often. The situation is I have a fair bit of time spare and no particular deadline, but a lot I want to get done. Sundays and bank holidays are good examples. But I somehow never manage to get started, even though I have a really good level of motivation. Why is it so hard to get going? I don’t know. I think I might try a variation on the trick that often works of breaking things down to really small bits of jobs that only take a few minutes. This isn’t a great way to be productive but it is a good way of busting procrastination. So I’ll try doing some literally 2 minute sessions. This might work because 2 minutes is nothing and I’ll know I am not really comitting myself to anything in particular. Let’s see how it goes. 
 
-**Cult of Done**
+#### **Cult of Done**
 
 The Cult of Done is a document I think more people should know. Its history is not particularly interesting and if my online world is representitive it doesn’t come up very often.
 
@@ -126,14 +126,19 @@ The bit it leaves out is tweaking and editing. You do something and reach a fini
 
 I really like this approach. I find it difficult to use because I am a perfectionist. But I shouldn’t be. All those emails I spent 30 minutes polishing to read really well have brought me very little benefit. I should have set a timer and settled for what I had. And so on for most of my other activities.
 
-**Switching to GitHub**
+#### **Switching to GitHub**
 
 I've decided to switch this project from Google Docs to GitHub. The initial impetus for this was simply that using a GitHub repository (actual thing) as a repository (metaphor) was mentioned in the Cult of Done video that I listened to. It sounded like a cool thing to do. But more seriously there is a lot to be said for keeping key information at least backed up away from the big tech giants given that it turns out that the United States may not be as trustworthy as previous experience has led us to believe. It will be interesting to see how much functionality I lose by switching tools. 
 
-**Cult of Done Principle 1 - The Three States of Being**
+#### **Cult of Done Principle 1 - The Three States of Being**
 
 There are three states of being: Not knowing, action, and completion.
 This principle recognizes that we all start from a place of uncertainty. Rather than staying stuck in that uncertainty, the path forward is to take action and move toward completion. Don't get trapped in endless research or planning - recognize these three distinct states and keep moving through them.
 
 This is the first principle of the Cult of Done. On the whole, I don’t think that being overly taxanomic about activities is a good thing. Being actually active is a good thing. But this broad classification is helpful, largely because it labels that initial feeling when starting out on a project where there are lots of procrastination options available. It is always fun to do research. It is less arduous to compile a list of actions than to actually carry them out. But both researching and planning are necessary activities. When you are getting going on a project it is helpful to start by working out what you don’t know and deciding how you are going to go about finding out.
+
+#### **Switching To GitHub update**
+
+I've broken the golden rule today and spent more than a 5 minute burst on this project. I did this pretty much on a whim. I don't know if Github is going to prove to be a good move for this book. So far it has been a big consumer of time. It is a very geeky interface. This doesn't intimidate me, but it does mean there are lots of rabbit holes I can go down. There are terriers less attracted to rabbit holes than me. So today I have been trying to replicate the way Google Docs enables you to let others see your work via a link. Google Docs does this fairly well. GitHub does it, but so far it has proved a lot more involved. Okay, I can accept that. I should accept that. But I suspect that there is an easier way than the one I have found. Am I going to spend potentially productive time searching for it? I think I probably am. Is this a good thing to do? I don't know.
+
 © Colin Sanders 2025
