@@ -1,7 +1,3 @@
-
-### 2. Accept that everything is a draft. It helps to get it done.
-Nothing is ever truly perfect or final. When you view your work as a draft, you remove the pressure of perfection. This mindset frees you to actually produce something rather than being paralyzed by the fear of imperfection. The goal is progress, not perfection.
-
 ### 3. There is no editing stage.
 Rather than creating something and then spending endless time editing, integrate your improvements as you go. This principle challenges the idea that creation and refinement are separate processes. Instead, create, improve, and move on, treating each new iteration as a fresh creation rather than an edited version of the previous one.
 
