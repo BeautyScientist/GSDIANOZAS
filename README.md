@@ -141,7 +141,7 @@ This is the first principle of the Cult of Done. On the whole, I don’t think t
 
 I've broken the golden rule today and spent more than a 5 minute burst on this project. I did this pretty much on a whim. I don't know if Github is going to prove to be a good move for this book. So far it has been a big consumer of time. It is a very geeky interface. This doesn't intimidate me, but it does mean there are lots of rabbit holes I can go down. There are terriers less attracted to rabbit holes than me. So today I have been trying to replicate the way Google Docs enables you to let others see your work via a link. Google Docs does this fairly well. GitHub does it, but so far it has proved a lot more involved. Okay, I can accept that. I should accept that. But I suspect that there is an easier way than the one I have found. Am I going to spend potentially productive time searching for it? I think I probably am. Is this a good thing to do? I don't know.
 
-#### ** Working on my phone**
+#### **Working on my phone**
 
 One of the things I would love to be able to do is work on my phone more. This will enable me to go for a walk while also getting stuff done.
 
