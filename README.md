@@ -151,4 +151,11 @@ Having had good results with GitHub, I tried speech to text on a few other appli
 
 Quite apart from anything else, it is a very satisfying feeling to be getting two things done at the same time. This is something that is rarely possible.
 
+#### **Cult of Done Principle 2 - Accept that everything is a draft. It helps to get it done**
+
+Nothing is ever truly perfect or final. When you view your work as a draft, you remove the pressure of perfection. This mindset frees you to actually produce something rather than being paralyzed by the fear of imperfection. The goal is progress, not perfection.
+
+Excessive perfectionism is something that has definitely held me back over the years. The most routine example is spending half an hour getting the wording of an email just right - often making it harder for the recipient to read it. But the worst form is the paralysis induced by some bit of work where I don’t know quite how it should be done 
+
+
 © Colin Sanders 2025
