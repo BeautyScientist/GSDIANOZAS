@@ -157,5 +157,13 @@ Nothing is ever truly perfect or final. When you view your work as a draft, you 
 
 Excessive perfectionism is something that has definitely held me back over the years. The most routine example is spending half an hour getting the wording of an email just right - often making it harder for the recipient to read it. But the worst form is the paralysis induced by some bit of work where I don’t know quite how it should be done 
 
+#### **There is no editing stage**
+
+Don't create something and then spending a lot of time editing. Integrate your improvements as you go. This principle challenges the idea that creation and refinement are separate processes. Instead, create, improve, and move on, treating each new iteration as a fresh creation rather than an edited version of the previous one.
+
+This principle is one that at first sight seems to be a bit questionable. Sure, sometimes getting something right as you go along makes sense. But there will be cases where getting a rough draft done first, and then getting it right afterwards might be a good tactic. But the trouble is, editing and correcting stuff is actually quite hard work when you come back to something. Heraclitus said you can't step into the same river twice. This is equally true of your brain. Your current thoughts, ideas and habits will never occur again. It is very unlikely you will ever be in as good a position to edit something as you will be just after you wrote it. If it turns out not to be suitable, forget the sunk cost fallacy and just write it again.
+
+I'm convinced of the truth of this, but it is going to take some work to break my long ingrained habit of putting off the hard bit of committing to getting something really finished.
+
 
 © Colin Sanders 2025
