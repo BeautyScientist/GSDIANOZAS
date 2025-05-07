@@ -165,5 +165,18 @@ This principle is one that at first sight seems to be a bit questionable. Sure, 
 
 I'm convinced of the truth of this, but it is going to take some work to break my long ingrained habit of putting off the hard bit of committing to getting something really finished.
 
+#### **Is artificial intelligence saving any time?**
+
+
+This is very much a personal question. I’ve signed up to a couple of the AI options and I’ve been trying them out on various tasks. I’ve had the most success with compiling monographs for reports that I have to do quite often.
+
+These used to take me anywhere between Three minutes and an hour. With the assistance of a large language model they take a pretty uniform 10 minutes as they were way more three minute ones than one hour ones overall length of time I spend on them has gone up. The quality of the results has gone up as well.
+
+But the reason I carry on using this new assistance is that they now take less brain power. This means I can do them when I would otherwise have been too tired. It also means the resistance to starting working on them has broken down. So basically they have changed the nature of the task. It hasn’t knocked any time off the clock. But it has made the final product better.
+
+The other thing about it is that I think it will make it easier for people to compete with me on this particular service.
+
+So overall, it’s hard to say whether it is a good thing or a bad thing for this particular piece of my life. My feeling is that it’s a bit like That famous analogy that new technology is very much like handing out boxes at a football match. While the boxes are being handed out the people with the boxes can stand higher and get a better view. But when everybody has a box, they’re all much the same as they were before. But now you need a box.
+
 
 © Colin Sanders 2025
