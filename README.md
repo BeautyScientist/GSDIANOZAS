@@ -147,7 +147,7 @@ One of the things I would love to be able to do is work on my phone more. This w
 
 However, I haven't found the speech to text option works very well on most of the software I routinely use. It is positively dreadful on the iPhone version of Google Docs for example. But somehow I had a hunch that it might work better on the GitHub app. GitHub is for geeky people after all. So I'm giving it a go right now.
 
-Having had good results with GitHub, I tried speech to text on a few other applications on my phone. It looks like the improvement quality is down to the overall technology rather than any special source from GitHub itself. This is a course better news. So I think I can now look forward to being able to compose documents whilst getting some exercise. This does actually have more than one benefit. Not only am I keeping fit, I’m also far less distracted when I’m away from my Desk and where I can focus on thinking about one thing at a time.
+Having had good results with GitHub, I tried speech to text on a few other applications on my phone. It looks like the improvement quality is down to the overall technology rather than any secret sauce from GitHub itself. This is a course better news. So I think I can now look forward to being able to compose documents whilst getting some exercise. This does actually have more than one benefit. Not only am I keeping fit, I’m also far less distracted when I’m away from my Desk and where I can focus on thinking about one thing at a time.
 
 Quite apart from anything else, it is a very satisfying feeling to be getting two things done at the same time. This is something that is rarely possible.
 
@@ -184,12 +184,12 @@ Cal Newport’s “Deep Work” argues that the ability to focus without distrac
 
 When I read the book, it certainly struck some chords with me. It chimed with my experience but but it also poses some pretty serious practical difficulties if you want to try it out.
 
-As a busy tactical manager, it felt very much as if my job description and management structure had been designed by a group of people who had intensively brainstormed Ways of making it impossible to concentrate on anything much for any length of time. Since going into consultancy, it’s become even worse.
+As a busy technical manager, it felt very much as if my job description and management structure had been designed by a group of people who had intensively brainstormed Ways of making it impossible to concentrate on anything much for any length of time. Since going into consultancy, it’s become even worse.
 
 The book outlines strategies for cultivating this skill, including scheduling dedicated deep work blocks, embracing boredom to train focus, quitting social media, setting rigid boundaries between work and leisure, and creating rituals around your deep work sessions. Newport contends that by prioritizing deep work over “shallow work” (non-cognitively demanding tasks often performed while distracted), professionals can dramatically increase both the quality and quantity of their work output while finding more meaning in their professional lives.​​​​​​​​​​​​​​​​
 
 This is all good stuff, but how do you actually put it into practice when almost everybody you meet is melting your attention, your inbox is full of unavoidable demands on your time and the people who do have time to concentrate on developing new information technology keep coming up with stuff you are unable to ignore.
 
-Has luck would have it, tomorrow I have a relatively distraction free day ahead. I also have a big project to work on. I will treat it as an experiment in deepening the way I work. I’ll keep notes as I go along. If I come up with anything insightful, I will share it on here.
+As luck would have it, tomorrow I have a relatively distraction free day ahead. I also have a big project to work on. I will treat it as an experiment in deepening the way I work. I’ll keep notes as I go along. If I come up with anything insightful, I will share it on here.
 
 © Colin Sanders 2025
