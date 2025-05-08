@@ -178,5 +178,18 @@ The other thing about it is that I think it will make it easier for people to co
 
 So overall, it’s hard to say whether it is a good thing or a bad thing for this particular piece of my life. My feeling is that it’s a bit like That famous analogy that new technology is very much like handing out boxes at a football match. While the boxes are being handed out the people with the boxes can stand higher and get a better view. But when everybody has a box, they’re all much the same as they were before. But now you need a box.
 
+#### **Cal Newport’s “Deep Work”**
+
+Cal Newport’s “Deep Work” argues that the ability to focus without distraction on cognitively demanding tasks is becoming increasingly rare and valuable in our distraction-filled world. Newport defines deep work as “professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit,” which create new value and improve skills.
+
+When I read the book, it certainly struck some chords with me. It chimed with my experience but but it also poses some pretty serious practical difficulties if you want to try it out.
+
+As a busy tactical manager, it felt very much as if my job description and management structure had been designed by a group of people who had intensively brainstormed Ways of making it impossible to concentrate on anything much for any length of time. Since going into consultancy, it’s become even worse.
+
+The book outlines strategies for cultivating this skill, including scheduling dedicated deep work blocks, embracing boredom to train focus, quitting social media, setting rigid boundaries between work and leisure, and creating rituals around your deep work sessions. Newport contends that by prioritizing deep work over “shallow work” (non-cognitively demanding tasks often performed while distracted), professionals can dramatically increase both the quality and quantity of their work output while finding more meaning in their professional lives.​​​​​​​​​​​​​​​​
+
+This is all good stuff, but how do you actually put it into practice when almost everybody you meet is melting your attention, your inbox is full of unavoidable demands on your time and the people who do have time to concentrate on developing new information technology keep coming up with stuff you are unable to ignore.
+
+Has luck would have it, tomorrow I have a relatively distraction free day ahead. I also have a big project to work on. I will treat it as an experiment in deepening the way I work. I’ll keep notes as I go along. If I come up with anything insightful, I will share it on here.
 
 © Colin Sanders 2025
