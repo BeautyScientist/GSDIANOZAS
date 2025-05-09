@@ -200,5 +200,23 @@ Confidence often precedes competence. By acting as if you know what you're doing
 
 Dishonesty is a bad thing. When it is deployed to enhance your own wealth and power at the expense of others it is a very bad thing. But I think adopting a frame of mind that gives you more confidence and so allows you to overcome your own and other’s misgivings is okay. Just remember it’s a hack. Don’t fool others. And definitely don’t believe your own bullshit. 
 
+#### **Lists For Busting Procastination**
+
+There are quite a few resources online which address the problem of how to overcome procrastination. I generally find them interesting. I read them with great attention. In fact, I find them a great source of procrastination. This isn’t really a reflection on the articles themselves which are often very good. But for me, the question isn’t really how do I overcome procrastination. I already know the answer to that. I cannot overcome procrastination.
+
+What I need is to identify the causes procrastination, and do what I can to prevent those causes. I am not remotely tough on procrastination. Perhaps I could be tough on the causes of procrastination?
+
+So, I had a classic bout of procrastination this morning. Much like a rare conjunction of the planets, I had a rare conjunction of pressing tasks. I’d promised somebody in Australia something by the end of the day. My biggest customer wanted me to get something done urgently. And another big job was waiting to be done by my team who just needed some input from me. 
+
+Most of what I needed to do was a bit vague or ambiguous or both. I coped with the situation the way I normally cope with such situations. I found something more interesting to do instead. Unusually, I managed to shake myself out of it. Instead, I drafted a list of all the things I need to do. I then revisited each item on the list and as far as possible broke it down into all the various tasks I needed to carry out and questions to which I needed an answer. I was expecting to also have some decisions that needed making. It took me by surprise when I actually looked into detail.My mini crisis had less work involved than I initially imagined.
+
+It was however still a long list and it was clear I could not get all that done in time to please everybody. It was at this point that I felt the need to empty some bins. This is my normal pattern of backsliding in the face of urgent and important stuff the accomplishment of which would allow me to sleep easily.
+
+But weirdly, my subconscious brain helped me out for once. While I was dithering around doing about the lowest value task available to me somehow unbidden an effective plan for tackling the list formed. When I got back to my desk which was now equipped with a very satisfying the empty bin, I started working on my list with great efficiency. I didn’t get everything done, but I did get messages out to the people who are waiting with a realistic estimate of when they would hear from me. And I know exactly what I will be doing first thing on Monday morning.
+
+Drawing up the list certainly did provide me with a list of things to do, which is always helpful. But my feeling is that it was the compilation of the list itself and the thought process I had to go through to come up with it that made the difference. And I think that emptying the bin was an important part of the process. Without that I may not have been able to process the information. I hadn’t been able to conquer procrastination. But I had managed to, more by luck and judgement to be honest, remove the reason I was procrastinating. 
+
+I think I will try using this approach again.
+
 
 © Colin Sanders 2025
