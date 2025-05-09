@@ -192,4 +192,13 @@ This is all good stuff, but how do you actually put it into practice when almost
 
 As luck would have it, tomorrow I have a relatively distraction free day ahead. I also have a big project to work on. I will treat it as an experiment in deepening the way I work. I’ll keep notes as I go along. If I come up with anything insightful, I will share it on here.
 
+#### **Cult of Done Principle 4 - Pretending you know what you're doing is almost the same as knowing what you are doing**
+
+I’m a fan of stoicism and also of the Cult of Done. They aren’t the same. The stoic accepts their ignorance as the way things are. They might choose to do something about it, but it’s not something to be ashamed of or to hide. It’s simply the way it is. For now. Just be honest about it. The Cult of Done’s 4th principle treats It quite differently. Pretending you know what you're doing is almost the same as knowing what you are doing, so accept that you know what you're doing even if you don't, and do it.
+
+Confidence often precedes competence. By acting as if you know what you're doing, you push past the paralysis of self-doubt. This "fake it till you make it" approach acknowledges that action itself builds the knowledge and skills you need. Trust yourself and start moving.
+
+Dishonesty is a bad thing. When it is deployed to enhance your own wealth and power at the expense of others it is a very bad thing. But I think adopting a frame of mind that gives you more confidence and so allows you to overcome your own and other’s misgivings is okay. Just remember it’s a hack. Don’t fool others. And definitely don’t believe your own bullshit. 
+
+
 © Colin Sanders 2025
