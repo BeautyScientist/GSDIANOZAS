@@ -218,5 +218,17 @@ Drawing up the list certainly did provide me with a list of things to do, which 
 
 I think I will try using this approach again.
 
+#### ** Cult of Done Principle 5 - Banish procrastination.**
+
+If you wait more than a week to get an idea done, abandon it.
+
+Ideas have energy and momentum. If you don't capitalise on the initial enthusiasm, that energy dissipates. This principle enforces urgency - either act quickly on your ideas or let them go. This prevents an endless backlog of "someday" projects that drain your mental energy.
+
+Procrastination is a big problem for a lot of people and is certainly so for me. Banishing it is a lot easier said than done. I don’t think just putting an arbitrary shelf life on ideas is the answer. But it can be part of the answer. 
+
+I am really guilty of accumulating projects which I am making little or no progress on. They do drain my energy. Dropping them would be heart wrenching. Some have been my companions for many years. 
+
+I am not ready to dump a load of stuff. But I will start asking the question when I am working on something - is this really the best use of my time and is it ever going to get finished. 
+
 
 © Colin Sanders 2025
