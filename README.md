@@ -218,7 +218,7 @@ Drawing up the list certainly did provide me with a list of things to do, which 
 
 I think I will try using this approach again.
 
-#### ** Cult of Done Principle 5 - Banish procrastination.**
+#### **Cult of Done Principle 5 - Banish procrastination.**
 
 If you wait more than a week to get an idea done, abandon it.
 
