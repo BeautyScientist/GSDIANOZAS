@@ -230,5 +230,18 @@ I am really guilty of accumulating projects which I am making little or no progr
 
 I am not ready to dump a load of stuff. But I will start asking the question when I am working on something - is this really the best use of my time and is it ever going to get finished. 
 
+#### ** Turning Goal Setting Into a Habit**
+
+One of the things I have noticed over the years about myself, and also about people I’ve managed is that everybody loves doing jobs that are fairly easy but a bit boring. everybody hates doing jobs that are both important and difficult. The important but difficult job that most people and certainly I hate the most is thinking about goals and priorities.
+
+An important clarification to that is that talking about goals and priorities vaguely is quite easy and fun. Breaking that down into what is the most important thing you should be doing right now is really really hard. I’ve been aware of this for quite a while, and have tended to think that the problem is one of concentration and aptitude. If only I can force myself to focus on this issue more,things will get better. And I will become a better person.
+
+But maybe the answer isn’t to try and become somebody different to who I am. Perhaps it will be better to try and turn the difficult job of analysing what I want to do and turning it into a detailed action plan into an easier job.
+
+So for example, one of the things I find easy to do is take an early morning walk. The goal of this activity is to make sure I start the day with at least some exercise. But now it’s possible to combine this activity with writing. Maybe I can add a daily goal setting session (I’m writing this on my phone whilst standing in a stream right now. Technology has finally reached the stage where I can both walk think and write simultaneously.)
+
+I will see how it goes. Habits like this always difficult to form initially. And a big part is breaking the project down into each individual tasks that are small enough to be managed in the time available.
+
+In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.
 
 © Colin Sanders 2025
