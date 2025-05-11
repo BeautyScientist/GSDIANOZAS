@@ -230,7 +230,7 @@ I am really guilty of accumulating projects which I am making little or no progr
 
 I am not ready to dump a load of stuff. But I will start asking the question when I am working on something - is this really the best use of my time and is it ever going to get finished. 
 
-#### **Turning Goal Setting Into a Habit **
+#### **Turning Goal Setting Into a Habit**
 
 One of the things I have noticed over the years about myself, and also about people I’ve managed is that everybody loves doing jobs that are fairly easy but a bit boring. everybody hates doing jobs that are both important and difficult. The important but difficult job that most people and certainly I hate the most is thinking about goals and priorities.
 
