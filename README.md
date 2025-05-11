@@ -230,7 +230,7 @@ I am really guilty of accumulating projects which I am making little or no progr
 
 I am not ready to dump a load of stuff. But I will start asking the question when I am working on something - is this really the best use of my time and is it ever going to get finished. 
 
-#### ** Turning Goal Setting Into a Habit**
+#### **Turning Goal Setting Into a Habit **
 
 One of the things I have noticed over the years about myself, and also about people I’ve managed is that everybody loves doing jobs that are fairly easy but a bit boring. everybody hates doing jobs that are both important and difficult. The important but difficult job that most people and certainly I hate the most is thinking about goals and priorities.
 
@@ -242,6 +242,6 @@ So for example, one of the things I find easy to do is take an early morning wal
 
 I will see how it goes. Habits like this always difficult to form initially. And a big part is breaking the project down into each individual tasks that are small enough to be managed in the time available.
 
-In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.
+In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.x
 
 © Colin Sanders 2025
