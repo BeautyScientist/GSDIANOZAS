@@ -244,4 +244,16 @@ I will see how it goes. Habits like this always difficult to form initially. And
 
 In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.x
 
+#### **Are Trade fairs worth attending?**
+
+Yesterday, I spent around four hours in travelling time to attend a trade fair in London. It took about four hours to walk the show. I saw a few interesting things, chatted with a few old friends and gave my card out to some people who could conceivably be sources of business in the future .
+
+On the face of it, it really wasn’t a great use of my time. I cannot point to a single tangible benefit of having been there. But it was a long day and I came back very tired. It’s very hard to avoid the sunk cost fallacy. Anything that took that much effort surely must have some kind of reward.
+
+I have to say that although emotionally I feel like it was your day well spent the reality is in the online world a solid eight hours of creating searchable content would have been a much better way of promoting my business. I can’t help being human. I’d much rather come up with a justification for my misjudgment. But the reality is the world has changed.
+
+This was already brought home to me when I offered a person my business card expecting to get there in return. They got out their phone and offered me a QR code instead. I’d actually go to the trouble of Updating my card and getting some printed specifically for the show. I handed out nine I think. On reflection, I don’t think there’s much a chance of a single one of them ever being looked at by the recipient again.
+
+I’m sure Trade fairs themselves continue to be an important part of the business world. There are some things for which only a face-to-face contact will suffice. And let’s be honest, for a lot of sales people a trip to an exotic city on expenses is a perk of the job . But for me personally I have to come to terms with the fact that most of the time I can have something much better to do. And more generally, sometimes I do things purely because I’ve always done them not because they do me any good.
+
 © Colin Sanders 2025
