@@ -96,7 +96,7 @@ Poor Performance
 
 That’s not what happened. In fact I spent all day from 10:30 to 5:00pm and still got nowhere near my goal \- just 1hr 40 minutes of actual work. I was distracted by Bluesky, YouTube, the latest events in the US. I did do some thinking and get some stuff clear in my mind. But even so if I had focused I would have got it all done by lunchtime. Why do I do this?
 
-Social Media is my biggest problem 
+#### **Social Media is my biggest problem** 
 
 I’ve just posted this on Bluesky \-
 
@@ -242,7 +242,7 @@ So for example, one of the things I find easy to do is take an early morning wal
 
 I will see how it goes. Habits like this always difficult to form initially. And a big part is breaking the project down into each individual tasks that are small enough to be managed in the time available.
 
-In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.x
+In that spirit, I will start by creating a list of my goals, and link that list to the documents that are relevant to it. In theory goal should not change very often. But I think I need to look at the list at least weekly. So step one is to create a weekly reminder. In fact I won’t make it weekly I will make it every eight days. This is a kind of job that Google Keep is very good for. let’s see how I get on.
 
 #### **Are Trade fairs worth attending?**
 
