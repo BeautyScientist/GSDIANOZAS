@@ -256,4 +256,11 @@ This was already brought home to me when I offered a person my business card exp
 
 I’m sure Trade fairs themselves continue to be an important part of the business world. There are some things for which only a face-to-face contact will suffice. And let’s be honest, for a lot of sales people a trip to an exotic city on expenses is a perk of the job . But for me personally I have to come to terms with the fact that most of the time I can have something much better to do. And more generally, sometimes I do things purely because I’ve always done them not because they do me any good.
 
+#### ** Cult of Done Principle 6- The point of being done is not to finish but to get other things done.
+
+Completion isn't an end in itself but a gateway to new beginnings. The true value of finishing something is the freedom it gives you to start something new. This principle is the most important one from my point of view.
+
+Creating things is what humans do. It’s sort of all we do really. This principle doesn’t give any clues as to how it should be implemented. But it does tell you what frame of mind you should be in. Just   spend as much time as you can creating and even if you don’t get very far you are setting yourself up for your next session.
+
+
 © Colin Sanders 2025
