@@ -262,5 +262,23 @@ Completion isn't an end in itself but a gateway to new beginnings. The true valu
 
 Creating things is what humans do. It’s sort of all we do really. This principle doesn’t give any clues as to how it should be implemented. But it does tell you what frame of mind you should be in. Just   spend as much time as you can creating and even if you don’t get very far you are setting yourself up for your next session.
 
+#### **The Opposite of Procrastination**
+
+I think nearly everybody suffers from procrastination at some point or another. Some of us suffer it chronically. But there is another feeling which is I think related. It’s when you want to do something on a project or even just do something. But you can’t think of what to do. I’m in just that state now
+
+I’ve had what For most people will be a reasonably good days worked today. By my standards, it’s a stunningly successful day. I’m not only got started, I carried on and even completed some stuff. And I’m now going for a walk in the evening feeling there must be something I can do that will be of some benefit. But I can’t think of anything.
+
+So in the absence of a serious task, I’ll address the problem of how you decide what to do when you don’t know what to do. I’ll try thinking of all the things that I’ve been putting off while I’ve been busy. But not just any things. I will apply the filter that they must be important but they mustn’t be urgent. I don’t want to spend any time on the unimportant and the non-urgent. I already give that category way more attention than it deserves.
+
+I’m a big fan of the rule of three. Somehow, as many people have noticed, things just seem right when there were three of them. Two’s company, three’s a trikolon.
+
+So let’s think of three broad categories of things I could be working on. I suppose he obvious ones are health, wealth, and learning.
+
+That automatically helps. My health is in good shape. I don’t feel the need to fill in any lacunae in my knowledge right now. So let’s focus on wealth.
+
+And what I focus on wealth I instantly start thinking about what I need to do to improve my business. Is there anything I can do to grow it? Once I frame the request in those terms a very obvious candidate pops up to the surface. A couple of years ago During a busy spell I stopped working on my newsletter for my clients. The main reason was at that point I had more work than I could cope with. So now would be a great time to start creating content for it.
+
+One last thing – what should I call this mood of not knowing what to do that has just overcome? Loose end doesn’t really match. Negative procrastination doesn’t really work either. I think I’ll go for task turpour.
+
 
 © Colin Sanders 2025
