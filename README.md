@@ -280,8 +280,6 @@ And what I focus on wealth I instantly start thinking about what I need to do to
 
 One last thing – what should I call this mood of not knowing what to do that has just overcome? Loose end doesn’t really match. Negative procrastination doesn’t really work either. I think I’ll go for task turpour.
 
-# The Cult of Done Manifesto: Expanded
-
 #### *Cult of Done Principle 7 – Once you're done, you can throw it away*
 
 Detachment from outcomes is liberating. Not everything you create needs to be preserved or shared. The process often matters more than the product. This principle encourages you to value the experience and learning gained from creation, even if the final product isn't kept.
