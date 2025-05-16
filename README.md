@@ -280,5 +280,16 @@ And what I focus on wealth I instantly start thinking about what I need to do to
 
 One last thing – what should I call this mood of not knowing what to do that has just overcome? Loose end doesn’t really match. Negative procrastination doesn’t really work either. I think I’ll go for task turpour.
 
+# The Cult of Done Manifesto: Expanded
+
+#### *Cult of Done Principle 7 – Once you're done, you can throw it away*
+
+Detachment from outcomes is liberating. Not everything you create needs to be preserved or shared. The process often matters more than the product. This principle encourages you to value the experience and learning gained from creation, even if the final product isn't kept.
+
+This really is hard-core advice. Making something to just throw it away, well that’s really taking the principle that doing is the most important part of the process to its final and logical conclusion. 
+
+It feels wrong at first. But maybe it isn’t. Humans really define themselves by doing stuff. When we hear about a factory closing down, as sympathies are with the workers who no longer have work to do. We don’t generally worry about the availability of what it was they were making. And there are relatively few creators where we wish they had created more stuff. I could’ve done with a few more Beatles LPs. But I certainly don’t need any more Rolling Stones ones. At time of writing more Rolling Stones LPs is possible. maybe they will surprise us, but I suspect they’ve already done all they had to do.
+
+So given that I’m unlikely to ever get anywhere near that kind of level I should probably accept that nothing I do will ever have enough intrinsic value to be worth keeping for a very long and certainly not for my whole life. Ditching it to do something new is probably the best thing.
 
 © Colin Sanders 2025
