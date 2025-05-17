@@ -1,3 +1,9 @@
+#### **Mission Creep**
+
+My project to write this book in 10 minute bursts between other distractions has, as projects often do, drifted a bit. I used it to try out how effectively I can write stuff on my phone during my daily walk. This has proved to be quite successful and I have found I can get a reasonable section written, edited and uploaded by the time I get back. But my walk takes 25 minutes rather than 10 minutes. This is quite a good discovery and I am going to use it more. But it does mean I can no longer claim to be writing only in 10 minute bursts. 
+
+But I am very prone to mission creep, and this is quite a good development. I am now using the speech option a lot more during the day and it is saving me a lot of time. I don’t think that sitting down and typing will ever cease to be a thing - and this post is done this way. But it’s a good example of how actually doing something pushes you to improve.
+
 A quick note – up until this point I’ve been appending new items to the bottom of the document. That’s proving to be more work the longer the document gets. From now on, I’m going to add new stuff at the top.
 
 
