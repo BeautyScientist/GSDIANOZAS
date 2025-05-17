@@ -1,4 +1,21 @@
+A quick note – up until this point I’ve been appending new items to the bottom of the document. That’s proving to be more work the longer the document gets. From now on, I’m going to add new stuff at the top.
 
+
+#### **How I’m learning Toxicology**
+
+Toxicology has been something that I’ve been sort of involved with since I was a teenager. Back then I was a radical youth campaigning to get the lead out of petrol. Like most enthusiastic partisans I learnt all the details and to this day and surprisingly well informed about heavy metals. I went onto do a degree in environmental science and of spent most of the rest of my life in product development where toxicology was relevant consideration.
+
+It’s a handy subject therefore for my professional life. It is also something that comes up in every day life quite a lot. There’s usually some kind of health scare around some chemical or other. So while back I decided to revise an upgrade my knowledge of the subject. I purchased a audio book version of a textbook which came with multiple choice quizzes at the end of every chapter. I listen to this through twice whilst driving. This proved to be quite a good exercise.
+
+But could I do even better? 
+
+I wondered if I could persuade ChatGPT to ask me the questions from the end of the chapters randomly to see what level my comprehension was. This proved to be fairly straightforward. The audiobook came with a full PDF transcript. After a few misunderstandings, the AI got the idea and I started working through the 200 or so questions set in the text. The trick is that was getting it to understand that I didn’t want the same question again if I had got it right several times.
+
+Needless to say, the path to perfect learning did not prove to be smooth. The AI completely scrambled the set up one day for no obvious reason. I got it going again and added a score system. To my surprise of its own back ChatGPT chose to start generating its own questions rather than using the one supplied. This is much better because I no longer have an idea of what questions are coming.
+
+With a bit of experimenting, I’ve come up with what seems to be the Optimum strategy for using this that suits my particular needs. Google task serves up a link to the AI question thread every workday morning. I answer two questions. I look at what percentage I’ve got right. At the moment I’m around 50%, but getting steadily better. I will continue the process until I reach 75%. It takes less than 10 minutes a day. I usually do the session not long after I wake up. If I miss any days, I allow myself to do extra questions to fill in the gaps. I don’t allow myself to do more than six per day.
+
+This set up works well for me. I’m learning toxicology that wouldn’t normally cross my path by chance. This is both satisfying in itself and potentially useful. It’s not interfering with anything else I do. I may read  a bit less of something else. But nothing I would miss. Equally importantly, from my point of view, is that the time I spent it is limited. I’m very prone to mission creep. If I see something interesting during a project I’m quite capable of devoting huge amounts of time and resources to satisfy my curiosity without getting the project done, but with this arrangement, I do no more than answer two questions a day.
 
 ## **Getting Stuff Done In A World of Zero Attention Span**
 
