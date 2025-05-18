@@ -1,3 +1,23 @@
+## **Getting Stuff Done In A World of Zero Attention Span**
+
+#### **Introduction**
+
+Like many people, maybe most people, I am struggling with a poor attention span.   There are so many distractions. And they are all bright and shiny and  are literally designed to grab our eyeballs.
+
+I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration? 
+
+So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
+
+
+### **Laugh at perfection. It's boring and keeps you from being done.**
+
+Perfection is not only unattainable but often uninteresting. Flaws and quirks give work character and humanity. By rejecting perfectionism, you not only complete more work but often create more interesting, authentic results that connect with others.
+
+Do flaws in great works of art detract from them? There’s no question in my mind that they don’t. So why do I spend so much time getting emails just right? This is clearly a waste oftime. But it goes a bit deeper than just being good time management. When you are focused on something you are seeing it through a distorted lens. My email is not just overpolished. Nobody is going to look back fondly on a well worded email. There is every chance that I could be doing something much more rewarding with my time than writing it. 
+
+Good enough is the perfect goal.
+
+
 #### **Mission Creep**
 
 My project to write this book in 10 minute bursts between other distractions has, as projects often do, drifted a bit. I used it to try out how effectively I can write stuff on my phone during my daily walk. This has proved to be quite successful and I have found I can get a reasonable section written, edited and uploaded by the time I get back. But my walk takes 25 minutes rather than 10 minutes. This is quite a good discovery and I am going to use it more. But it does mean I can no longer claim to be writing only in 10 minute bursts. 
@@ -23,15 +43,6 @@ With a bit of experimenting, I’ve come up with what seems to be the Optimum st
 
 This set up works well for me. I’m learning toxicology that wouldn’t normally cross my path by chance. This is both satisfying in itself and potentially useful. It’s not interfering with anything else I do. I may read  a bit less of something else. But nothing I would miss. Equally importantly, from my point of view, is that the time I spent it is limited. I’m very prone to mission creep. If I see something interesting during a project I’m quite capable of devoting huge amounts of time and resources to satisfy my curiosity without getting the project done, but with this arrangement, I do no more than answer two questions a day.
 
-## **Getting Stuff Done In A World of Zero Attention Span**
-
-#### **Introduction**
-
-Like many people, maybe most people, I am struggling with a poor attention span.   There are so many distractions. And they are all bright and shiny and  are literally designed to grab our eyeballs.
-
-I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration? 
-
-So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
 #### **Can I Use The Social Pressure Of Social Media To My Advantage?**
 
