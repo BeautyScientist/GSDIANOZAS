@@ -9,7 +9,7 @@ I was having a particularly bad day with this and decided it was time to try and
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
 
-### **Laugh at perfection. It's boring and keeps you from being done.**
+#### **Cult of Done Principle 8 - Laugh at perfection. It's boring and keeps you from being done.**
 
 Perfection is not only unattainable but often uninteresting. Flaws and quirks give work character and humanity. By rejecting perfectionism, you not only complete more work but often create more interesting, authentic results that connect with others.
 
