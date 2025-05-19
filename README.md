@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Cult of Done Principle 9 - People without dirty hands are wrong. Doing something makes you right**
+
+Theory without practice has limited value. This principle values practical experience over pure theory - the wisdom gained from actual doing over hypothetical knowing. Getting your hands "dirty" with real work gives you insights that can't be gained any other way.
+
+This principle is worded rather provocatively. But it is certainly true. Outside the worlds of theoretical physics and abstract philosophy - having a handle on something by doing it is invariably going to give you a better understanding. Constant practice is the way to improve that understanding. I am hoping that the quality of these short articles improves as I do them every other day and I get a feel for how they work. One thing I've already learned is that keeping the sentences short improves them. 
+
+Keeping the overall length short is good too. So I'll stop now.
+
 
 #### **Cult of Done Principle 8 - Laugh at perfection. It's boring and keeps you from being done.**
 
