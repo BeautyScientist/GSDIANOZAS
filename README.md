@@ -8,6 +8,20 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **My current workflow for producing these articles**
+
+It was always my intention to work in the most minimal way possible. When I started this project, I was using Google Docs combined with Omniflow. I gave myself five minutes on Omniflow to come up with a text. I then opened the Google document and pasted it in With a bit of light editing. I was then able to use the publish to web option on Google Docs. The final stage was to embed the most recent section of the Google doc into a blue sky post.
+
+It was a pretty slick operation. And I was able to create a post in a total of 10 minutes. Without any posting or other complications I could be being ignored by the Internet was instantaneously.
+
+A couple weeks ago on a whim I decided to try using GitHub instead. I was willing to sacrifice some slickness to do this. It just seemed a cool thing to do. In fact, my workflow is barely different to using Google. I can still use Omni flow if I wish. I tend to use Google Keep though. Now instead of editing a Google doc I pass into a markdown document enables me to cut and paste the URL directly into Bluesky. 
+
+This is forced me to learn markdown. In doing so, I have discovered that it is quicker to write in markdown and convert it for a lot of documents. Formatting buttons are perfectly good of course. But keeping your fingers on the keyboard close to the letters is slightly faster. I would never have learned this any other way.
+
+The GitHub interface is scary and hard to navigate around when you’re not used to it. But once you get the hang of it, it’s faster and more responsive than the Google alternative. So all in all my new approach is an improvement. It’s not a vast improvement to be honest. But there is something rather satisfying about working in very close to plain text.
+
+Sometimes just giving something a try without thinking it through first just works out. 
+
 #### **Cult of Done Principle 9 - People without dirty hands are wrong. Doing something makes you right**
 
 Theory without practice has limited value. This principle values practical experience over pure theory - the wisdom gained from actual doing over hypothetical knowing. Getting your hands "dirty" with real work gives you insights that can't be gained any other way.
