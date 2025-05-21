@@ -8,6 +8,12 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **What To Do When I First Wake Up**
+
+The emperor Vespasian boasted that he could be working within 30 seconds of waking up in the morning. I have to admire that as a habit. I am usually distracted by the radio, more recently by podcasts, and the now electronically delivered news. And once I’ve checked out global and national crises, I have then got the horrors of my current email inbox and bank balance. So in my case I can be distracted and have my day ruined within 30 seconds. 
+
+The thing is though, the first couple of hours of the day are for me - and I suspect for a lot of people - the time when I am most energetic and able to be most productive. So I really ought to be using those hours to tackle the things that will bring me most long term benefit. It’s six in the morning. Let’s see how I get on between now and nine.
+
 #### **My current workflow for producing these articles**
 
 It was always my intention to work in the most minimal way possible. When I started this project, I was using Google Docs combined with Omniflow. I gave myself five minutes on Omniflow to come up with a text. I then opened the Google document and pasted it in With a bit of light editing. I was then able to use the publish to web option on Google Docs. The final stage was to embed the most recent section of the Google doc into a blue sky post.
