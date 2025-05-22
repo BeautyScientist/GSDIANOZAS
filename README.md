@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Anger Management As Time Management**
+
+The key to productivity is squeezing as much as possible out of an hour. The opposite is putting in more hours. I had a particularly bad day yesterday trying to put this into practice. Main reason being I had a dispute with a client that was on my mind. As a business dispute is a fairly minor one which has a low monetary value. However, for reasons that will make no sense to anybody else it has a strong emotional resonance for me. I have a fragile ego.
+
+So I found myself using my brain to run over cycles of why what he has done so bad and all the different scenarios I could respond to him with. In other words a complete distraction. At least scrolling BlueSky is enjoyable.
+
+So the question is how do I stop my emotions getting the better of me - at least during working hours? I think I need to look into anger management.
+
 #### **What To Do When I First Wake Up**
 
 The emperor Vespasian boasted that he could be working within 30 seconds of waking up in the morning. I have to admire that as a habit. I am usually distracted by the radio, more recently by podcasts, and the now electronically delivered news. And once I’ve checked out global and national crises, I have then got the horrors of my current email inbox and bank balance. So in my case I can be distracted and have my day ruined within 30 seconds. 
