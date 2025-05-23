@@ -8,6 +8,13 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### Cult of  Done Principle - 10  **Failure counts as done. So do mistakes**
+
+Failure and mistakes are valid forms of completion, not reasons to avoid starting. They provide crucial feedback and learning opportunities. By counting failures as "done," you reframe them as valuable outcomes rather than things to be avoided at all costs.
+
+I think I might go even further. In a sense everything is ultimately a failure. Something that works is still going to be replaced by something better down the line. Kipling had it right. Triumph and disaster are both imposters.
+
+
 #### **Anger Management As Time Management**
 
 The key to productivity is squeezing as much as possible out of an hour. The opposite is putting in more hours. I had a particularly bad day yesterday trying to put this into practice. Main reason being I had a dispute with a client that was on my mind. As a business dispute is a fairly minor one which has a low monetary value. However, for reasons that will make no sense to anybody else it has a strong emotional resonance for me. I have a fragile ego.
@@ -350,7 +357,7 @@ And what I focus on wealth I instantly start thinking about what I need to do to
 
 One last thing – what should I call this mood of not knowing what to do that has just overcome? Loose end doesn’t really match. Negative procrastination doesn’t really work either. I think I’ll go for task turpour.
 
-#### *Cult of Done Principle 7 – Once you're done, you can throw it away*
+#### **Cult of Done Principle 7 – Once you're done, you can throw it away**
 
 Detachment from outcomes is liberating. Not everything you create needs to be preserved or shared. The process often matters more than the product. This principle encourages you to value the experience and learning gained from creation, even if the final product isn't kept.
 
