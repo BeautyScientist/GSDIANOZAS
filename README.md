@@ -14,6 +14,34 @@ Failure and mistakes are valid forms of completion, not reasons to avoid startin
 
 I think I might go even further. In a sense everything is ultimately a failure. Something that works is still going to be replaced by something better down the line. Kipling had it right. Triumph and disaster are both imposters.
 
+I think I’m most concerned about right now is controlling my emotions. I find myself wasting a lot of time getting annoyed by things and people. This is bad in two ways. I don’t enjoy the process itself. And I’ve got much better things to do with the time. So I thought I would write something about it as a way of clarifying my thoughts.
+
+#### **Controlling my emotions**
+
+My way of working on this kind of thing recently has been to frame what I want to work on as a question. It’s an easy to pop it into an AI program and get a rough draft. I can then edit it into a final shape that I find satisfying. Up until now, I’ve never got anything from the AI that is usable as is.
+
+So I do that this morning using Claude 4. When I read the response, I was surprised to find that there really wasn’t anything to add or subtract from it. I judged it to be a perfectly good bit of writing that I would be happy to have done myself. I’m really not sure what I think about this. Here’s the prompt I used.
+
+“What is some succinct advice for managing ones emotions? I find I devote too much thought to people and things that annoy me. I’d rather focus my brain on positive things and achieving my goals.”
+
+
+And here is the response.
+
+Here are some practical strategies for redirecting your mental energy:
+
+**Catch and redirect quickly.** When you notice yourself dwelling on something irritating, immediately ask "Is this worth my mental real estate right now?" Then consciously shift to something constructive - a project you're working on, a problem you want to solve, or something you're looking forward to.
+
+**Use the 2-minute rule.** If something bothers you, give yourself exactly 2 minutes to feel annoyed, then move on. Setting a timer can help make this concrete.
+
+**Channel irritation into action.** When possible, convert that mental energy into doing something productive. Feeling frustrated about a work situation? Use that energy to tackle a different task or make progress on a goal.
+
+**Create positive anchors.** Keep a mental list of 3-5 things that genuinely excite or motivate you. When you catch yourself ruminating, deliberately think about one of these instead.
+
+**Practice the "so what" test.** Ask yourself: "Will this matter in a week? A month? A year?" Most daily annoyances fail this test, making it easier to let them go.
+
+**Physical reset.** Sometimes a quick walk, deep breathing, or even changing your physical position can break the mental loop and create space for refocusing.
+
+The goal isn't to never feel annoyed - that's human. It's building the habit of noticing when you're stuck in unproductive thought patterns and having reliable ways to shift your attention back to what actually matters to you.​​​​​​​​​​​​​​​​
 
 #### **Anger Management As Time Management**
 
