@@ -8,6 +8,17 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### Cult of  Done Principle - 12 **If you have an idea and publish it on the internet, that counts as a ghost of done**
+
+I’m not sure I understand this one. 
+
+I suppose the idea is that sharing ideas publicly creates a form of accountability and completion. Even if the idea isn't fully realised, putting it into the world gives it life and creates possibilities for collaboration or inspiration. Public sharing creates a tangible record of thought.
+
+This might work for some people, but it doesn’t do much for me. Or at least it doesn’t in the way it is phrased. It is true that social pressure can be a strong motivator. But I find that this really only works for outcomes not intentions. I’m not impressed by someone saying they are going to get a great job. It takes the job offer itself. And nobody listens to your plan of how you are going to get a great job. And I don’t think online social pressure is as great as real life. 
+
+So I’m going to park this one. I may come back to it later.
+
+
 #### Cult of  Done Principle - 10  **Failure counts as done. So do mistakes**
 
 Failure and mistakes are valid forms of completion, not reasons to avoid starting. They provide crucial feedback and learning opportunities. By counting failures as "done," you reframe them as valuable outcomes rather than things to be avoided at all costs.
