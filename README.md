@@ -8,7 +8,13 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
-#### Cult of  Done Principle - 12 **If you have an idea and publish it on the internet, that counts as a ghost of done**
+#### **Researching Stoics and AI**
+
+I’m back to the 5 minutes writing, 5 minutes editing and publishing model for this article. I am quite happy that I’ve worked out how to write an article while going for a walk. But I need to keep up the original vision of getting a book sized bit of writing done in the odd moments between jobs, distractions and periods of indecision.
+
+My two main focuses of my thought at the moment are getting better control of my emotions and working out the optimum way to use AI tools. On the former I think I’ll tackle it by reading and making notes. I’ll start with the classical stoics and then move on to more recent stuff. With AI it is down to increasing the amount of experimentation I do with it. My gut feeling is that it can be used for working out strategies more effectively than I can do myself. But I haven’t even worked out how to start on that yet.
+
+#### **If you have an idea and publish it on the internet, that counts as a ghost of done**
 
 I’m not sure I understand this one. 
 
