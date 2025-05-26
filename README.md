@@ -49,7 +49,7 @@ This might work for some people, but it doesn’t do much for me. Or at least it
 So I’m going to park this one. I may come back to it later.
 
 
-#### Cult of  Done Principle - 10  **Failure counts as done. So do mistakes**
+#### **Cult of  Done Principle 10 - Failure counts as done. So do mistakes**
 
 Failure and mistakes are valid forms of completion, not reasons to avoid starting. They provide crucial feedback and learning opportunities. By counting failures as "done," you reframe them as valuable outcomes rather than things to be avoided at all costs.
 
@@ -68,7 +68,7 @@ So I do that this morning using Claude 4. When I read the response, I was surpri
 
 And here is the response.
 
-Here are some practical strategies for redirecting your mental energy:
+<mark>Here are some practical strategies for redirecting your mental energy:
 
 **Catch and redirect quickly.** When you notice yourself dwelling on something irritating, immediately ask "Is this worth my mental real estate right now?" Then consciously shift to something constructive - a project you're working on, a problem you want to solve, or something you're looking forward to.
 
@@ -82,7 +82,7 @@ Here are some practical strategies for redirecting your mental energy:
 
 **Physical reset.** Sometimes a quick walk, deep breathing, or even changing your physical position can break the mental loop and create space for refocusing.
 
-The goal isn't to never feel annoyed - that's human. It's building the habit of noticing when you're stuck in unproductive thought patterns and having reliable ways to shift your attention back to what actually matters to you.​​​​​​​​​​​​​​​​
+The goal isn't to never feel annoyed - that's human. It's building the habit of noticing when you're stuck in unproductive thought patterns and having reliable ways to shift your attention back to what actually matters to you.​​​​​​​​​​​​​​​​</mark>
 
 #### **Anger Management As Time Management**
 
