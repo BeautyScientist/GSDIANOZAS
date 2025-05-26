@@ -8,6 +8,15 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### Cult of  Done Principle - 13 **Done is the engine of more**
+
+Completion generates momentum. Each finished project builds confidence and energy for the next one. The habit of finishing things creates a positive cycle of productivity and creativity. Done isn't just an end state—it's the fuel that powers future achievements.
+
+This principle isn’t so much a guide for action or an analysis of the way things are. It is much more simply a description of the outcome of following the other 12 principles. If you get things done, you’re going to get more things done.
+
+These principles collectively create a mindset that values action, embraces imperfection, and celebrates the process of creation and completion over endless refinement or theoretical perfection.
+
+I have found them to be extremely helpful IN guiding my decision-making when trying to get things done. They’re also quite motivating. i’m going to carry on thinking about them and finding ways of implementing them until I’ve thoroughly internalised them.
 
 #### **Did I do Well or Badly?**
 
