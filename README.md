@@ -68,21 +68,21 @@ So I do that this morning using Claude 4. When I read the response, I was surpri
 
 And here is the response.
 
-<mark>Here are some practical strategies for redirecting your mental energy:
+<mark>Here are some practical strategies for redirecting your mental energy:​​​​​​​​​​​​​​​​</mark>
 
-**Catch and redirect quickly.** When you notice yourself dwelling on something irritating, immediately ask "Is this worth my mental real estate right now?" Then consciously shift to something constructive - a project you're working on, a problem you want to solve, or something you're looking forward to.
+​​​​​​​​​​​​​​​​<mark>**Catch and redirect quickly.** When you notice yourself dwelling on something irritating, immediately ask "Is this worth my mental real estate right now?" Then consciously shift to something constructive - a project you're working on, a problem you want to solve, or something you're looking forward to.​​​​​​​​​​​​​​​​</mark>
 
-**Use the 2-minute rule.** If something bothers you, give yourself exactly 2 minutes to feel annoyed, then move on. Setting a timer can help make this concrete.
+​​​​​​​​​​​​​​​​<mark>**Use the 2-minute rule.** If something bothers you, give yourself exactly 2 minutes to feel annoyed, then move on. Setting a timer can help make this concrete.​​​​​​​​​​​​​​​​</mark>
 
-**Channel irritation into action.** When possible, convert that mental energy into doing something productive. Feeling frustrated about a work situation? Use that energy to tackle a different task or make progress on a goal.
+​​​​​​​​​​​​​​​​<mark>**Channel irritation into action.** When possible, convert that mental energy into doing something productive. Feeling frustrated about a work situation? Use that energy to tackle a different task or make progress on a goal.​​​​​​​​​​​​​​​​</mark>
 
-**Create positive anchors.** Keep a mental list of 3-5 things that genuinely excite or motivate you. When you catch yourself ruminating, deliberately think about one of these instead.
+​​​​​​​​​​​​​​​​<mark>**Create positive anchors.** Keep a mental list of 3-5 things that genuinely excite or motivate you. When you catch yourself ruminating, deliberately think about one of these instead.​​​​​​​​​​​​​​​​</mark>
 
-**Practice the "so what" test.** Ask yourself: "Will this matter in a week? A month? A year?" Most daily annoyances fail this test, making it easier to let them go.
+​​​​​​​​​​​​​​​​<mark>**Practice the "so what" test.** Ask yourself: "Will this matter in a week? A month? A year?" Most daily annoyances fail this test, making it easier to let them go.​​​​​​​​​​​​​​​​</mark>
 
-**Physical reset.** Sometimes a quick walk, deep breathing, or even changing your physical position can break the mental loop and create space for refocusing.
+​​​​​​​​​​​​​​​​<mark>**Physical reset.** Sometimes a quick walk, deep breathing, or even changing your physical position can break the mental loop and create space for refocusing.​​​​​​​​​​​​​​​​</mark>
 
-The goal isn't to never feel annoyed - that's human. It's building the habit of noticing when you're stuck in unproductive thought patterns and having reliable ways to shift your attention back to what actually matters to you.​​​​​​​​​​​​​​​​</mark>
+​​​​​​​​​​​​​​​​<mark>The goal isn't to never feel annoyed - that's human. It's building the habit of noticing when you're stuck in unproductive thought patterns and having reliable ways to shift your attention back to what actually matters to you.​​​​​​​​​​​​​​​​</mark>
 
 #### **Anger Management As Time Management**
 
