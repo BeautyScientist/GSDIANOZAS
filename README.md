@@ -8,6 +8,21 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+
+#### **Did I do Well or Badly?**
+
+So last night, whilst doing my ironing, I watched a YouTube video about how to use Claude more effectively. It was a very good video. It inspired me to have a go at using some of the ideas it had presented.
+
+So I set myself the project of writing a quick blog post about how stoicism can be a helpful philosophy in the modern world. So far so good. Using some of Claud‘s more advanced features resulted in it suggesting that my idea could be spread over several blog posts. In fact, I ended up with seven.
+
+Once I decided to go with this, it became obvious that this should be a weekly series spreading over seven weeks. All good stuff. I tried to do it as much as possible of this work on my phone. But that didn’t prove to be very practical. So ended up finishing it off on my laptop. All in all I spent about four hours on this. Not all hours are equal. Two of those were earlier this morning when I’m at my most productive.
+
+So did I do well or badly? I certainly think the improvement in my skill at using AI interfaces will prove useful in the future. I’m also quite pleased with the series I created. I don’t think it was as good as it would’ve been had I written all from scratch. But it took less than half the time a more polished and personal version would’ve done. And of course I wouldn’t have had the idea in the first place left my own devices.
+
+When it comes to time, you can only use it once. I’m currently running a larger backlog than usual, even by my rather low standards. And to bring the point home when I got back to my work inbox after finishing my modest contribution to the world of stoicism, I found that I had lost it out on a job that would’ve been a perfect opportunity to develop the same skills I’ve just done on something with no monetary value.
+
+So my conclusion is that I did well that could’ve done better with more discipline. If I done the work job first, for which Only an adequate level of quality was sufficient, I would’ve had more money. I could also have done a better job of the stoicism blogs. Live and learn.
+
 #### **Researching Stoics and AI**
 
 I’m back to the 5 minutes writing, 5 minutes editing and publishing model for this article. I am quite happy that I’ve worked out how to write an article while going for a walk. But I need to keep up the original vision of getting a book sized bit of writing done in the odd moments between jobs, distractions and periods of indecision.
