@@ -23,13 +23,22 @@ When it comes to time, you can only use it once. I’m currently running a large
 
 So my conclusion is that I did well that could’ve done better with more discipline. If I done the work job first, for which Only an adequate level of quality was sufficient, I would’ve had more money. I could also have done a better job of the stoicism blogs. Live and learn.
 
+#### **Cult of Done Principle 11 - Destruction is a variant of done**
+
+Sometimes the most productive thing you can do is to tear something down and start fresh. This principle acknowledges that demolition can be as creative and necessary as construction. Clearing away what doesn’t work makes room for what might.
+
+This one really resonates with me. There is nothing I enjoy more than the feeling of having got rid of something holding me back and starting afresh. My personality is very much that of a starter rather than a finisher. So a fresh start is something I find very motivating.
+
+The mysterious thing is why I do it so infrequently. I threw away some clothes earlier this week and feel much better for it. And yet I had given them houseroom for several years. I suppose deep down I was worried about the expense of buying new ones to replace them. But the reality is that moving on give you the kind of energy you need. Filling space with stuff you don’t love doesn’t.
+
+
 #### **Researching Stoics and AI**
 
 I’m back to the 5 minutes writing, 5 minutes editing and publishing model for this article. I am quite happy that I’ve worked out how to write an article while going for a walk. But I need to keep up the original vision of getting a book sized bit of writing done in the odd moments between jobs, distractions and periods of indecision.
 
 My two main focuses of my thought at the moment are getting better control of my emotions and working out the optimum way to use AI tools. On the former I think I’ll tackle it by reading and making notes. I’ll start with the classical stoics and then move on to more recent stuff. With AI it is down to increasing the amount of experimentation I do with it. My gut feeling is that it can be used for working out strategies more effectively than I can do myself. But I haven’t even worked out how to start on that yet.
 
-#### **If you have an idea and publish it on the internet, that counts as a ghost of done**
+#### **Cult of Done Principle 12 - If you have an idea and publish it on the internet, that counts as a ghost of done**
 
 I’m not sure I understand this one. 
 
