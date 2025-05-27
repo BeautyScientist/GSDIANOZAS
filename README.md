@@ -8,6 +8,17 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### ** Idea to Improve my Job List**
+
+I am a big user of cloud computing. One of the consequences of this is that I have a lot of jobs that have URLs. If I’m writing a report in Google Docs, I can get onto that report with the URL for that report.
+
+I’ve taken advantage of this feature to have lists of URL‘s in text files. I can then pick up One from the list at random. I find this helps with motivation. But I don’t know what job to start picking a random one reduces the resistance I have to anything. It also means I don’t have to prioritise things. If it’s on the list, I will get round to it.
+
+This is proving Grace successful but I want to take it further. I want to have one single list which has various categories. I can then have one job list That tells me one time just how much I have committed myself by
+
+Next job, work out a plan by which I can achieve all this. 
+
+
 #### Cult of  Done Principle - 13 **Done is the engine of more**
 
 Completion generates momentum. Each finished project builds confidence and energy for the next one. The habit of finishing things creates a positive cycle of productivity and creativity. Done isn't just an end state—it's the fuel that powers future achievements.
