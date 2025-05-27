@@ -19,7 +19,7 @@ This is proving Grace successful but I want to take it further. I want to have o
 Next job, work out a plan by which I can achieve all this. 
 
 
-#### **Cult of  Done Principle - 13 Done is the engine of more**
+#### **Cult of  Done Principle 13 - Done is the engine of more**
 
 Completion generates momentum. Each finished project builds confidence and energy for the next one. The habit of finishing things creates a positive cycle of productivity and creativity. Done isn't just an end state—it's the fuel that powers future achievements.
 
