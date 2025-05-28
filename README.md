@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### ** Idea to Improve my Job List**
+
+I am a big user of cloud computing. One of the consequences of this is that I have a lot of jobs that have URLs. If I’m writing a report in Google Docs, I can get onto that report with the URL for that report.
+
+I’ve taken advantage of this feature to have lists of URL‘s in text files. I can then pick up ne from the list at random. I find this helps with motivation. When I don’t know what job to start picking a random one reduces the resistance I have to anything. It also means I don’t have to prioritise things. If it’s on the list, I will get round to it. Prioritising is one of those things that absorbs a lot of brain power. Anything that minimises that effort is a good thing..
+
+This is all proving successful but I want to take it further. I want to have one single list which has various categories. I can then have one job list That tells me one time just how much I have committed myself by
+
+Next job, work out a plan by which I can achieve all this. 
+
 #### **Idea to Improve my Job List**
 
 I am a big user of cloud computing. One of the consequences of this is that I have a lot of jobs that have URLs. If I’m writing a report in Google Docs, I can get onto that report with the URL for that report.
