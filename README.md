@@ -8,6 +8,18 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **What can you get done in 10 minutes?**
+
+My biggest problem is starting jobs that I never finish. And I also hate killing off things I’m working on. So not surprisingly I have a massive number of unfinished jobs. But I wonder, is finishing a job a skill you can learn? So for example Can I finish this little article? I’m writing and get it posted to the book I’m writing and completely finished within 10 minutes?
+
+So I’m literally trying to do that now. I’ve set a 10 minute timer on my wrist watch. And I’m writing, or rather dictating into my phone, as I walk around the field. 
+
+The thing with 10 minutes is it doesn’t sound like a lot of time. But really it is. If you arrived at the train station and found you had 10 minutes to wait for the train, you would certainly want to find something to do with that time. And there are certainly things you can usually do in 10 minutes. And this includes quite serious things. For example, I read the whole of Madame Bovardi in French in 10 minutes sessions some years ago. The job I had at the time entitled me to two 10 minute breaks. So that’s what I use them for.
+
+It took a total of 65 hours to complete the book. When I started it, my French was distinctly shaky. When I finished it, it was much better. Now I’m quite sure that if I were to spend 65 hours solidly studying French, working out the grammar and diligently memorising vocabulary as I went along I could no doubt have got much better at speaking French for the same amount of time. But in a normal life, when do you ever get 65 hours spare time?
+
+So I think 10 minutes breaks are much under appreciated resource. I’m going to see how much more use I can make of them in the future.
+
 #### **Idea to Improve my Job List**
 
 I am a big user of cloud computing. One of the consequences of this is that I have a lot of jobs that have URLs. If I’m writing a report in Google Docs, I can get onto that report with the URL for that report.
