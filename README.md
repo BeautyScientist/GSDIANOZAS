@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Caffeine**
+
+I sometimes find it hard to get to sleep in the evening. I stay awake until one or later. Sometimes I work inefficiently on a particular project but more usually I aimlessly listen to odd bits of music or watch random videos. YouTube shorts are my drug of choice. 
+
+The result of this is I get a short night’s sleep that affects the next day badly. 
+
+I put it down to lack of willpower. And that’s no doubt part of it. But I have just spotted that it correlates with drinking low sugar coke drinks earlier in the day. And I mean much earlier. I’ve done the positive experiment and had the predicted bad night. I’ll leave off caffeine for av week and see what happens.
+
 #### **What can you get done in 10 minutes?**
 
 My biggest problem is starting jobs that I never finish. And I also hate killing off things I’m working on. So not surprisingly I have a massive number of unfinished jobs. But I wonder, is finishing a job a skill you can learn? So for example Can I finish this little article? I’m writing and get it posted to the book I’m writing and completely finished within 10 minutes?
