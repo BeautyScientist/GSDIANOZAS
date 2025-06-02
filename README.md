@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Habit Building**
+
+This is the subject people have written whole books on. But the fact is that a lot of what you achieve is down to your habits. I don’t know how unusual I am in this, but typically I’m most interested in things that are new and different. so if I decide I’m gonna write a book in 10 minute Burst initially it’s interesting and new and I have no trouble giving it my attention.
+
+I’m now at the stage where I’ve been doing it for awhile and it’s no longer has the novelty value to grab my attention. But equally, I don’t do it By force of habit either. So this is the grinding bit when it either takes as a habit or starts to fade out of my daily activities.
+
+So I have a couple of strategies for ensuring this habit takes. For a start, I’ve set up an automated reminder for every two days. Previous ones fit in my calendar and remain there until I take them off. This means I can backfill any that I miss. The psychology is that I want to continuous record of achievement. The other thing is I am tying this to my daily walk. I will check progress at the beginning of my walk. So every day there is something tangible that reminds me to work on it.
+
+Let’s see how it goes.
+
 #### **Caffeine**
 
 I sometimes find it hard to get to sleep in the evening. I stay awake until one or later. Sometimes I work inefficiently on a particular project but more usually I aimlessly listen to odd bits of music or watch random videos. YouTube shorts are my drug of choice. 
