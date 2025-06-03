@@ -68,7 +68,7 @@ Once I decided to go with this, it became obvious that this should be a weekly s
 
 So did I do well or badly? I certainly think the improvement in my skill at using AI interfaces will prove useful in the future. I’m also quite pleased with the series I created. I don’t think it was as good as it would’ve been had I written all from scratch. But it took less than half the time a more polished and personal version would’ve done. And of course I wouldn’t have had the idea in the first place left my own devices.
 
-When it comes to time, you can only use it once. I’m currently running a larger backlog than usual, even by my rather low standards. And to bring the point home when I got back to my work inbox after finishing my modest contribution to the world of stoicism, I found that I had lost it out on a job that would’ve been a perfect opportunity to develop the same skills I’ve just done on something with no monetary value.
+When it comes to time, you can only use it once. I’m currently running a larger backlog than usual, even by my rather low standards. And to bring the point home when I got back to my work inbox after finishing my modest contribution to the world of stoicism, I found that I had lost out on a job that would’ve been a perfect opportunity to develop the same skills I’ve just done on something with no monetary value.
 
 So my conclusion is that I did well that could’ve done better with more discipline. If I done the work job first, for which Only an adequate level of quality was sufficient, I would’ve had more money. I could also have done a better job of the stoicism blogs. Live and learn.
 
