@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Rote learning versus Genuine Understanding**
+
+I was educated during the 60s and 70s when it was a maximum that rote learning was bad and genuine understanding was good. It seemed quite a believable thing at the time. And all these decades later I still think it’s basically true. In fact, I don’t think I’ve ever questioned it. But I came across a video on YouTube the other day which trace this notion all the way back to Seneca in ancient Rome. I thought of it as a very modern debate. But it turns out to be something people have been aware of for a very long time. In fact, probably since education started as a thing.
+
+But I wonder if the argument is really that one-sided. I’ve been doing some rote learning over the last six months. I wanted to know more about toxicology. So every morning I have set up ChatGPT to ask me two questions about it from a textbook. This really is classic rote learning. I’m memorising facts about chemicals and their effects on the body’s biochemistry. but I’m finding that it is deepening my understanding of chemistry, biochemistry and biology. I am spotting links between structures and effects that I wouldn’t otherwise have known about.
+
+Like a lot of things, there’s usually more nuance than we realise. I’m not converted to the benefits of rote learning. I’ve just come round to thinking it might have its uses after all.
+
 #### **Habit Building**
 
 This is the subject people have written whole books on. But the fact is that a lot of what you achieve is down to your habits. I don’t know how unusual I am in this, but typically I’m most interested in things that are new and different. so if I decide I’m gonna write a book in 10 minute Burst initially it’s interesting and new and I have no trouble giving it my attention.
