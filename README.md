@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Agreeability**
+
+I’ve read a lot but the thing I read that changed me most was a book about beer. I think it was called Beer and Skittles. It just mentioned in passing that the goal of a pub conversation is to find things to agree about. I’ve applied this strategy inside and outside pubs ever since.
+
+I think that being agreeable is one of the things that makes life better both for yourself and the people you interact with. This isn’t a universally accepted truth. I remember hearing Jordan Peterson saying in an interview that there was a published paper that says that being disagreeable is predictive of being successful. My reaction was I wonder if the author had to wait ten years to get it published because all the journal editors hated him. 
+
+But peer reviewed empirical research notwithstanding, my experience is that agreeability is in fact a good predictor of financial success. Certainly the most successful of my friends from a financial point of view is also the most agreeable. 
+
 #### **Rote learning versus Genuine Understanding**
 
 I was educated during the 60s and 70s when it was a maximum that rote learning was bad and genuine understanding was good. It seemed quite a believable thing at the time. And all these decades later I still think it’s basically true. In fact, I don’t think I’ve ever questioned it. But I came across a video on YouTube the other day which trace this notion all the way back to Seneca in ancient Rome. I thought of it as a very modern debate. But it turns out to be something people have been aware of for a very long time. In fact, probably since education started as a thing.
