@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **The Biggest Problem with Time Management**
+
+At some point in my life, I was working in an office where a new telephone system was installed. This had the innovation that it gave you the length of your phone call just after you put the phone down. Shortly after I started using it I made a 10 minute call to a colleague to sort something out. At least I expected it to take 10 minutes. After making it I thought to take 10 minutes. But the phone told me otherwise. It had actually taken 25 minutes. Both my prognosis for the length of the call, and the actual length of the call were significantly wrong. In fact I was out by 250%. Without the phone telling me I would’ve had no idea how wrong I was.
+
+I don’t think I’m particularly unusual in this respect. Any manager who has had to look at their teams timesheets will know that their estimates of how long tasks take bares only the most minimal relationship with how long they actually take.
+
+Our perception of the passage of time does not relate at all closely to how the clock measures it. This is something we all know at some level. But somehow it’s not something we take much account of. So it is really not at all surprising that none of us make much of a fist of managing our time.
+
 #### **Agreeability**
 
 I’ve read a lot but the thing I read that changed me most was a book about beer. I think it was called Beer and Skittles. It just mentioned in passing that the goal of a pub conversation is to find things to agree about. I’ve applied this strategy inside and outside pubs ever since.
