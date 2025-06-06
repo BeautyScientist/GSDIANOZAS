@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **CPD**
+
+Like a lot of people I have a CPD record as part of my job. I’ve only been doing it for about 10 years and I only started taking it seriously for the last 3. I’m old enough to think of systematically recording your continuous professional development as something that’s a bit of a new thing. But I imagine that younger people regard it as just one of those things. 
+
+The benefits of having a record of your achievements for someone trying to build their career are fairly obvious. But I am quite well established and don’t really need it for that reason. I’ve embraced it because I find it a really good framework for deciding what kind of thing I should be working on and which opportunities to take up. It’s easy to miss the importance of keeping your skills honed, and looking at your CPD record is a good way of keeping track of how you are doing. 
+
+I recommend it.
+
 #### **The Biggest Problem with Time Management**
 
 At some point in my life, I was working in an office where a new telephone system was installed. This had the innovation that it gave you the length of your phone call just after you put the phone down. Shortly after I started using it I made a 10 minute call to a colleague to sort something out. At least I expected it to take 10 minutes. After making it I thought to take 10 minutes. But the phone told me otherwise. It had actually taken 25 minutes. Both my prognosis for the length of the call, and the actual length of the call were significantly wrong. In fact I was out by 250%. Without the phone telling me I would’ve had no idea how wrong I was.
