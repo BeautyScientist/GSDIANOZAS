@@ -8,6 +8,18 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Make Things Systematic**
+
+My idea to write a book about coping with distractions whilst actually coping with distractions is turning out to be quite successful. The book exists. And it is gradually growing. I’ve slightly eased up on my original criteria of spending 10 minutes creating every other day. I allow myself a bit more than 10 minutes if I write whilst having my morning walk.
+
+The question is why a long-standing recidivist like myself can keep up a regular pattern like this?
+
+I think one of the biggest things is that there’s a very low barrier of entry to putting in one of my 10 minute sessions. I just pull up a text editor, and start writing against the clock. I can then have my new bit of content added to the book in less than a minute at the end of the session. And it is then done.
+
+This isn’t just efficient. It’s also motivating. 
+
+So can I use this discovery in other areas of my life? The key points about making it easy to get started and having a clear and point in mind aren’t as easy to apply to other things I do. What I need to do is split tasks down into stages that take in the region of 10 minutes. If I can make things systematic, I think I can make much more progress.
+
 #### **CPD**
 
 Like a lot of people I have a CPD record as part of my job. I’ve only been doing it for about 10 years and I only started taking it seriously for the last 3. I’m old enough to think of systematically recording your continuous professional development as something that’s a bit of a new thing. But I imagine that younger people regard it as just one of those things. 
