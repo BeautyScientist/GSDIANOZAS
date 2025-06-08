@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Finishing A Project**
+
+One of the things I am rubbish at is knowing when to stop. This is true both of my day to day activities and conversations, but also of projects. I have no problem starting projects. The problem is defining the end point clearly so I know when I am done and can get on to the next one.
+
+A good example of that is this project of writing a book in 10 minute bursts while distracted by other things. I’ve created the habit of working on it daily, and I’m already finding ways of honing it to do it more effectively. But there will come a point where it no longer makes sense to keep it going. I haven’t given it as much thought as I should, but I think I vaguely planned to stop when I run out of ideas. Initially I thouhgt that this was something that would happen fairly quickly.
+
+But it turns out that the more I do it the more ideas I have. I have a finite sized brain and so there must at some point arrive a time when I run out of ideas for bite-sized reflections on how to get stuff done. But my experience so far has been that the more I do the more ideas I have. In fact before my fingers hit the keyboard I am having to choose what I want to write about. 
+
+I still think that if a day arrives when I have nothing to say, then that is the day I stop working on it. I already have some ideas on how I’ll word that final post. But in the meantime I think I have to come up with another way of ending the project. I think I will stop when I’ve reached the normal length of a normal novel. I think the figure is 80,000 words - but I’ll check that. I’ll also look back on what I’ve done so far and calculate how long that will take to achieve and revise it. accordingly. But I will be happier knowing that for once I have a project with a clear end point.
+
 #### **Make Things Systematic**
 
 My idea to write a book about coping with distractions whilst actually coping with distractions is turning out to be quite successful. The book exists. And it is gradually growing. I’ve slightly eased up on my original criteria of spending 10 minutes creating every other day. I allow myself a bit more than 10 minutes if I write whilst having my morning walk.
