@@ -8,7 +8,7 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
-#### **Finishing A Project**
+#### **Knowing When To Stop**
 
 One of the things I am rubbish at is knowing when to stop. This is true both of my day to day activities and conversations, but also of projects. I have no problem starting projects. The problem is defining the end point clearly so I know when I am done and can get on to the next one.
 
