@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **How Long Does It Take To Write A Novel?**
+
+So my goal is to create a novel length book detailing my daily struggle with distractions in 10 minute sessions every other day. For the purposes of this exercise I’m treating novel length as 80,000 words. I’ve just checked and so far I have clocked up 12,700 words over 56 articles. 
+
+So 171 more articles at a rate of 1 every two days should take just a little less than a year from the time I am writing this.
+
+This is interesting because writing an actual novel is something that I've already dismissed as too big a project to undertake. There's also the facts that it requires a lot more talent than I possess and the prospects of making any money from it are exceedingly remote. And of course there's a lot more to writing a novel than just putting in the hours of typing. But the fact that the actual drafting can conceivably be done in a couple of years with all the other committments of a normal life is quite intriguing. 
+
 #### **Is Getting Up Early Worth It?**
 
 I’ve woken up early this morning as I am having a break in a rather nice hotel on the south coast of England. I’d hoped to see the sunrise - which happens before 5 at this time of year - but the sky was too cloudy. I settled on reading the paper instead. I’m a bit of an early riser very generally. I have been since I did a paper round as a teenager. I susbsequently discovered from reading William Cobbett that this is a virtuous thing to be. That was good news as I didn’t have much else to fell virtuous about.
