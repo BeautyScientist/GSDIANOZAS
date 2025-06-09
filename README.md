@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Is Getting Up Early Worth It?**
+
+I’ve woken up early this morning as I am having a break in a rather nice hotel on the south coast of England. I’d hoped to see the sunrise - which happens before 5 at this time of year - but the sky was too cloudy. I settled on reading the paper instead. I’m a bit of an early riser very generally. I have been since I did a paper round as a teenager. I susbsequently discovered from reading William Cobbett that this is a virtuous thing to be. That was good news as I didn’t have much else to fell virtuous about.
+
+More recently, since becoming self employed the time I get out of bed has varied a lot more. But I still tend to feel some guilt if I’m still between the sheets at 9, even though with modern technology it is quite possible to be extremely productive while remaining completely horizontal. 
+
+So is there really any virtue in early rising? Logically there isn’t. The parameter that ought to matter is how long you remain conscious. People’s body clocks vary, but I think most people start with more energy and gradually lose it as the day proceeds. But I still feel that getting at things earlier rather than later is better. Somehow the hours before 11 seem more valuable than those after it. But having tried both late and early starts I don’t think the difference is all that great. In the unlikely event of anyone asking my advice on the matter, I’d say get up early if you can. But it isn’t worth setting an alarm clock. Undisturbed sleep is probably more valuable.
+
 #### **Knowing When To Stop**
 
 One of the things I am rubbish at is knowing when to stop. This is true both of my day to day activities and conversations, but also of projects. I have no problem starting projects. The problem is defining the end point clearly so I know when I am done and can get on to the next one.
