@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Squeezing Writing into a Working Day**
+
+The fundamental challenge of this book is whether it is possible to do meaningful work in between distractions. The main distraction I had in mind was the kind of media that the internet is serving up. That is a potent distraction because there is a Darwinian selection process at work whereby the most appealing content tends to get viewed more, gets more revenue and so it gets spread more widely.
+
+But there are other distractions available off-line, the biggest of which is work. I am in the middle of a big job that involves working with other people for most of the day. It is very difficult to carve out time from this sort of setup. But I am giving it a go right now. It is the lunch break so I have license to do as I please. Following the latest news on my phone is my first thought. But I have set the timer for 10 minutes and will instead try to write instead.
+
+One of the things about breaking bad habits is that it is important to have an alternative to the habit to fill the otherwise blank space. It is easier to give up smoking if you take up boiled sweets to replace the ciggies. I am enjoying the tactile feel of writing on my keyboard. I think I will try to develop a 10 minutes writing every lunchbreak habit. Apart from this one, I won’t include this in my writing a book while avoiding distractions project. It will be more appealing if it is a completely new project.
+
 #### **How Long Does It Take To Write A Novel?**
 
 So my goal is to create a novel length book detailing my daily struggle with distractions in 10 minute sessions every other day. For the purposes of this exercise I’m treating novel length as 80,000 words. I’ve just checked and so far I have clocked up 12,700 words over 56 articles. 
