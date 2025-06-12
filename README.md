@@ -8,6 +8,12 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Ten Minute Motivation**
+
+While it is undoubtedly true that if you really want to make progress on something important and meaningful that stretches your current abilities, you really need a solid three hour soak concentrating on that one thing, if you are working in an atmosphere rich in distractions much shorter blocks of time are way more suitable. The famous pomodoro technique advocates 25 minutes. My experience is that this is a very good length of time for making worthwhile progress. And running a session of multiple pomodoros all devoted to different projects can make some serious inroads. Alternating pomodoros between a highly desired long term goal and more urgent tasks can be a great way to balance current and future goals.
+
+But the reality most of us face is that we spend days in a hail of distractions, some unavoidable, some avoidable but tempting. I have found that 10 minute sessions are both effective and actually motivating. You can get way more done in 10 minutes than you imagine. I keep track of these 10 minute sessions and looking back over the day and seeing it fill up with small patches of progress gives me a feeling I am getting somewhere no matter how chaotic the day is proving.
+
 #### **Squeezing Writing into a Working Day**
 
 The fundamental challenge of this book is whether it is possible to do meaningful work in between distractions. The main distraction I had in mind was the kind of media that the internet is serving up. That is a potent distraction because there is a Darwinian selection process at work whereby the most appealing content tends to get viewed more, gets more revenue and so it gets spread more widely.
