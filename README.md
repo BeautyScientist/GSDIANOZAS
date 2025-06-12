@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Creativity as a Cure for Distraction**
+
+If, like me, you are in the habit of consuming social media and/or Youtube videos as a way of filling time between tasks and you’d like to do less of it, there are a number of strategies available. Willpower is one. Good luck with that. Time blocking software is another. This isn’t entirely useless, but the tempation to treat the limit as an allowance is always there. Also, working out creative ways around them is a pretty effective bit of time wasting in itself.
+
+But I saw one suggestion that is beginning to work well for me. This is to replace mouse potato time with creativity. So instead of watching a video you do a drawing, or write some code or do some writing. For example you could set yourself the challenge of spending 10 minutes writing an article to go in a book you are writing. In fact that’s just what I am doing right now. Of course exercising your creativity does take a bit more effort to get started. But if you keep it up for long enough you could end up with an actual book.  
+
+Keeping it going is exactly what I am doing right now. It seems to be working.
+
 #### **Ten Minute Motivation**
 
 While it is undoubtedly true that if you really want to make progress on something important and meaningful that stretches your current abilities, you really need a solid three hour soak concentrating on that one thing, if you are working in an atmosphere rich in distractions much shorter blocks of time are way more suitable. The famous pomodoro technique advocates 25 minutes. My experience is that this is a very good length of time for making worthwhile progress. And running a session of multiple pomodoros all devoted to different projects can make some serious inroads. Alternating pomodoros between a highly desired long term goal and more urgent tasks can be a great way to balance current and future goals.
