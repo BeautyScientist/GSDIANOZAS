@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Essay Crisis versus Inky Swot**
+
+Many years ago when I was a student there was a clear differentiation between the people who left things to the last minute and the people who got stuff that needed doing out of the way as quickly as possible. I tended towards the essay crisis approach, and often had to pull an all-nighter to meet a deadline. (An all-nighter for people who’ve never done one isn’t as heroic as it sounds. It would typically start at around 12:30am and would involve a toast break at about 6:00am before the final dash in the last hour before the deadline where a reasonable rate of work is finally reached.)
+
+But these things are really work patterns rather than personality features. I would do both, and I think that is true of most people. 
+
+It is tempting to treat being an inky swot who gets everything done well ahead of time as the ‘right’ way to do things and leaving things to the last minute almost literally is bad practice if not a sign of a bad character. 
+
+But in a way both are bad. Getting something out of the way as quickly as possible means you are minimising your contact with the task. This might be okay some of the time, but often you are doing something where there is much to learn from it. This is sort of obvious if you are cramming for an exam. You could speed read the textbook either on the first day of term, or just before the exam.
+
 #### **Creativity as a Cure for Distraction**
 
 If, like me, you are in the habit of consuming social media and/or Youtube videos as a way of filling time between tasks and you’d like to do less of it, there are a number of strategies available. Willpower is one. Good luck with that. Time blocking software is another. This isn’t entirely useless, but the tempation to treat the limit as an allowance is always there. Also, working out creative ways around them is a pretty effective bit of time wasting in itself.
