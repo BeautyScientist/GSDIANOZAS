@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Rapidly processing emails**
+
+The single thing I spent most of time on is my email inbox. I’ve made some progress to reducing this over the years. I make extensive use of the schedule button so I can deal with emails when it suits me rather than when they arrive. I also shunt emails Onto Trello if they look like they will take a lot of attention. And ones that can be quickly resolved I try to resolve quickly.
+
+I’m not doing too badly on all this. But given the number of hours involved , it is worth doing anything which scrapes even a small percentage of the time I spend in my inbox.
+
+One of my other strategies is having templates for replies to common queries. This is certainly a time saver, but it is quite clunky. It seems like something that an AI tool might be helpful for. To this end, I’ve just tried a program called Superhuman. It’s too early to say whether it’s any good or not. But I think this is one of those situations where getting in and trying things out is a good approach. Ideally, I would like to be able to press the button and get a range of potential replies Drafted which I can rapidly pick from and edit as necessary. All the stages should be controllable by voice commands for quick key strokes. Ideally, I would like to keep my time in my inbox down to 5 minutes an hour of working.
+
+Let’s see how it goes.
+
 #### **Essay Crisis versus Inky Swot**
 
 Many years ago when I was a student there was a clear differentiation between the people who left things to the last minute and the people who got stuff that needed doing out of the way as quickly as possible. I tended towards the essay crisis approach, and often had to pull an all-nighter to meet a deadline. (An all-nighter for people who’ve never done one isn’t as heroic as it sounds. It would typically start at around 12:30am and would involve a toast break at about 6:00am before the final dash in the last hour before the deadline where a reasonable rate of work is finally reached.)
