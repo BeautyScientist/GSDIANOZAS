@@ -8,6 +8,21 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### ** increasing the amount of work I get done**
+
+I’ve had a bit of an uptick in work coming in to my business. This is good news of course. But there is the matter of getting the work done. I don’t think there’s much doubt that I’m going to need to invest in more staff and/or improved technology to cope with this. And what I say and/or all it will almost certainly be and.
+
+But I do have the short-term problem of a rather long to-do list, which will soon be trying the patience of my existing and new clients. So in the short run, I think it is time to look at ways of increasing how much I can get done personally per hour. This is probably overdue. I’ve looked a lot into planning and organising over the last couple of years. But I think if you let yourself, you tend to default to bad habits when it comes to the minute to minute time usage. and ultimately I want to work less hours so getting more out of the hours I actually spend will be very worthwhile.
+
+Let’s do the basics first. I need to get started on the most important work first thing. I am very bad at focusing on the most important job. I need to bring that forward to being the first thing I do. I already have a list of the most urgent things that I need to get out of the way. Let’s put an alarm setting on it. I normally start work at about 9 am.
+so let’s go for 8:30 am. I’ll make that a hard point in the day. I’ve normally out having a walk at that time. So I will only get my walk tomorrow if I get up in time to start work at my desk at 8:30.
+
+The other thing that I spend a lot of time on his taking breaks between tasks. This isn’t necessarily a bad thing. Your brain does need a rest. And it’s also a nice reward. But I think I’ve gone a bit far in the direction of keeping my brain relaxed rather than actually using it.
+
+The other thing I must do is see how much I can use AI to replace real work. I’ll need to be careful of this. I’m a terrible tinkerer. I can easily spend huge amounts of time fiddling around and finding the features that are interesting.
+
+So that’s a plan. Let’s see how it goes. 
+
 #### **Brain Training Exercises**
 
 Can you exercise your brain like any other muscle to improve its performance? It doesn’t sound like a completely unbelievable suggestion. It is definitely the case, which we have all experienced, that you can train your brain to do particular tasks. And that training wears off over time. When I worked in a laboratory back in the days when pocket calculators were not common my mental arithmetic was very good. It started declining as soon as I got hold of a calculator.
