@@ -8,6 +8,22 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Brain Training Exercises**
+
+Can you exercise your brain like any other muscle to improve its performance? It doesn’t sound like a completely unbelievable suggestion. It is definitely the case, which we have all experienced, that you can train your brain to do particular tasks. And that training wears off over time. When I worked in a laboratory back in the days when pocket calculators were not common my mental arithmetic was very good. It started declining as soon as I got hold of a calculator.
+
+But the question is does exercising your brain on one task transfer to improving your performance on others? The analogy with muscles would suggest that it does. Somebody who does regular weight training would be able to cut down a tree more quickly than someone who never goes near a gym. Does the analogy actually work though? When you build muscle, you literally increase the size and efficiency of a bit of your body. Using your brain is more about creating connections and patterns. It is entirely possible that any practice you carry out to reinforce a particular set of patterns simply uses up capacity that would be better use for more practical purposes.
+
+This is the stage in a problem where a train Scientist will stop speculating and look at the available data. There is not much evidence that brain training improves performance in unrelated tasks. There is some. But not much. There is some support for the idea from the fact that Mental exercises do seem to help with the mitigation of dementia in old age. But stopping things from going wrong is very different to positively making them better.
+
+The brain exercise which seems to have the best supporting data when I did a very quick and not very thorough search seemed to be dual n-back. I thought I would give it a go. It turns out to be an excruciatingly difficult mind game. The principal behind it is forcing your brain to do two mildly difficult things at the same time. This turns out to be quite close to torture.
+
+I have to say that the effort involved in playing this game does feel like it ought to be doing some good. It was certainly tiring, which is the same thing you get from physical exercise.
+
+Trying it out didn’t help in my judging whether or not it was of any value. but he did help me come to a decision. it was a unpleasant experience. It was not an enjoyable fun game. So as the rewards of dubious but the effort is real, I’ve decided I won’t pursue this idea.
+
+But it does show me that there is one mental exercise which is helpful in improving performance in the real world. by forcing myself to write up this exercise, I came to what I think is the right decision much more quickly and I would’ve done without focusing my thought. So  while I won’t be playing any more mind games, I will carry on writing about things that matter.
+
 #### **Rapidly processing emails**
 
 The single thing I spent most of time on is my email inbox. I’ve made some progress to reducing this over the years. I make extensive use of the schedule button so I can deal with emails when it suits me rather than when they arrive. I also shunt emails Onto Trello if they look like they will take a lot of attention. And ones that can be quickly resolved I try to resolve quickly.
