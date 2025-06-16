@@ -8,7 +8,7 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
-#### ** increasing the amount of work I get done**
+#### **Increasing the amount of work I get done**
 
 I’ve had a bit of an uptick in work coming in to my business. This is good news of course. But there is the matter of getting the work done. I don’t think there’s much doubt that I’m going to need to invest in more staff and/or improved technology to cope with this. And what I say and/or all it will almost certainly be and.
 
