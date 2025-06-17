@@ -8,6 +8,17 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Wearing a Tie Means I get More Done**
+
+
+When self-employed is very easy for your work life and your home life to get more mixed up that is good for you. That’s certainly been my experience. Over the years I built up some habits that aren’t proving very helpful. For example, are used to start the day by catching up with all the news.
+
+When I say used to, I mean up until yesterday. But today I resolved that I was going to spend all the time at my desk working. And I was going to start early. I also thought I would try wearing my tie as a sign to myself that I am working and not doing anything else. Plans really survive their contact with reality. I took my tie with me, but forgot to put it on until mid morning. Another part of my plan was to have a very short lunch break. That didn’t work either.
+
+but I did manage to focus on work to a much greater extent than I have been doing for many years. This worked really well. By mid afternoon I was ploughing through my backlog faster than I’ve done in a long time. It was actually a very good feeling. It was also a good feeling taking my tie off, and therefore give myself permission to relax for the evening.
+
+I’m looking forward to rolling up my sleeves getting my tie on and starting again tomorrow morning. I didn’t achieve all of my objectives, but I’m keen to have another go. I think a lot of success comes down to simply putting yourself in the right frame of mind, but whatever means that works for you.
+
 #### **Backfilling**
 
 There’s an idea associated with Jerry Seinfeld that it is very motivating to keep track of your progress on something. Hey, according to the story at any rate, writes new comedy material every day and when he is fulfilled his session he puts a red cross on his calendar. He finds that the desire to keep a continuous run of red crosses makes him very keen to carry on in the habit. And the more red crosses he has the more he wants to avoid breaking the run.
