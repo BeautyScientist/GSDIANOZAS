@@ -10,7 +10,6 @@ So here’s the plan. Let’s try splitting the day up into 6-minute sessions \-
 
 #### **Wearing a Tie Means I get More Done**
 
-
 When self-employed is very easy for your work life and your home life to get more mixed up that is good for you. That’s certainly been my experience. Over the years I built up some habits that aren’t proving very helpful. For example, are used to start the day by catching up with all the news.
 
 When I say used to, I mean up until yesterday. But today I resolved that I was going to spend all the time at my desk working. And I was going to start early. I also thought I would try wearing my tie as a sign to myself that I am working and not doing anything else. Plans really survive their contact with reality. I took my tie with me, but forgot to put it on until mid morning. Another part of my plan was to have a very short lunch break. That didn’t work either.
