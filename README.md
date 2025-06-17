@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Backfilling**
+
+There’s an idea associated with Jerry Seinfeld that it is very motivating to keep track of your progress on something. Hey, according to the story at any rate, writes new comedy material every day and when he is fulfilled his session he puts a red cross on his calendar. He finds that the desire to keep a continuous run of red crosses makes him very keen to carry on in the habit. And the more red crosses he has the more he wants to avoid breaking the run.
+
+This certainly is a very strong motivator. It’s used in lots of contexts. I think the most impressive one is in the language app Duolingo. Not only do you keep track of how continuous your progress has been, you also have a cartoon owl who pops up to comment on how well or badly you are doing.
+
+The downside to it is that when you do break a run, you’re now motivated to give up all together. That’s what I found any rate. To overcome this, I allow myself to go back and fill in gaps. The deal with myself is if I committed to something I will get it done. But I won’t necessarily commit to doing it every day. In fact, I’m working to this system right now. My target is to write an article like this every other day. But for one reason or another I missed out half of February and most of March. I’m now diligently going through and writing an article to correspondence to all missing entries in my calendar. It’s not quite as satisfying as getting things done to clockwork on a schedule. But it’s not far off.
+
 #### **Increasing the amount of work I get done**
 
 I’ve had a bit of an uptick in work coming in to my business. This is good news of course. But there is the matter of getting the work done. I don’t think there’s much doubt that I’m going to need to invest in more staff and/or improved technology to cope with this. And what I say and/or all it will almost certainly be and.
