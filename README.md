@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **The Importance of Rest**
+
+I had a remarkably good day in terms of how much I got done yesterday. It was quite exciting, and after putting in a pretty solid day I also found myself ready to do a bit more in the evening and ending up working from half nine to nearly midnight. Then to my surprise I woke up at five this morning, and got off to a flying start this morning.
+
+It couldn’t last, and didn’t. I had a bit of a crash about 11am and achieved very little for the rest of the day. 
+
+It turns out that no matter how organised and motivated I am I can’t keep up a Stakhanovite rate of work day and day out. I think the better approach is to get a good night’s sleep rather than burn the midnight oil. The trick isn’t about long hours it is about achieving more in fewer hours. I don’t think the brain is like muscle and metaphors drawn from sport can be misleading. But even so, it isn’t possible to just keep thinking and working with your head than it is to keep jogging for hours on end.  
+
+Stop work early and get a good night's sleep.
+
 #### **Backups**
 
 My daily toxicology revision as I run through ChatGPT was interrupted this morning. For some reason ChatGPT wasn’t able to answer my questions. It wasn’t that big disruption to my life to be honest. But it was a good reminder that we will become very dependent on electrons running around in the silicon. It’s made me realise that in the event of a prolonged power cut almost all of my business activities wouldhave to cease. this isn’t a tremendously comfortable feeling.
