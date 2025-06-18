@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Backups**
+
+My daily toxicology revision as I run through ChatGPT was interrupted this morning. For some reason ChatGPT wasn’t able to answer my questions. It wasn’t that big disruption to my life to be honest. But it was a good reminder that we will become very dependent on electrons running around in the silicon. It’s made me realise that in the event of a prolonged power cut almost all of my business activities wouldhave to cease. this isn’t a tremendously comfortable feeling.
+
+I was wondering the same question yesterday funnily enough. I have for many years run the most basic low tech bit of organising technology. I just call it a tickle file. It may have some other more fancy names. Basically, it is a drawer in a filing cabinet. It contains (I think) 47 folders. 31 of them have a day of the month on them. 12 of them have months of the year. Every day I remove the contents of today’s folder. I then either work on them, throw them away, or reschedule them by putting them into a later folder.
+
+Over the years the tickle file has become less and less full. Typically nowadays there is nothing in it at all. I keep it going because the handful of things in it that can never be replaced electronically I still needed. For example, I have a photocopy of the front and back of all my credit cards. This is to enable me to rapidly contact all of the companies unwise enough to extend me credit in the event of one or multiple cards getting lost. The other reason I keep it going is that long ago I was having trouble keeping up the habit of using this file. My solution was to put a bar of chocolate in it and reward myself by having a piece of that chocolate bar when I did the daily turnaround on it. If I give up the file, I’ll have to give up the chocolate.
+
+But it does feel like there are things I could be doing on paper which it would be better to to keep on paper and up-to-date. I’ll give it some thought.
+
 #### **Wearing a Tie Means I get More Done**
 
 When self-employed is very easy for your work life and your home life to get more mixed up that is good for you. That’s certainly been my experience. Over the years I built up some habits that aren’t proving very helpful. For example, are used to start the day by catching up with all the news.
