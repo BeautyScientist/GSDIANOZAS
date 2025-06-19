@@ -8,6 +8,22 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Energy Levels**
+
+They think that attracted my attention most over the last couple of days is how important my energy levels are to achieving anything. On Tuesday I had a really solid days work getting a lot done. The following day many hours ended up disappearing while I just couldn’t get started .
+
+The thing about high energy level days isn’t just that you get more done. You enjoy life more as well. So it is probably well worthwhile considering what factors affect my energy level. I think there are three main ones.
+
+Most important is getting a good nights sleep. The poet Samuel Taylor Coleridge had it right. Sleep it is a gentle thing, beloved from Pole to Pole. getting into bed early with a good book and dozing off is a huge pleasure in itself. And it also sets you up for a great following day. I wonder why I do it so frequently?
+
+What I eat affects me greatly. As does when I eat. A few years ago I gave up eating breakfast. This has had a huge positive effect. I can now get stuff like writing this article done within minutes of being out of bed. I’ve also noticed that the late afternoon crash that I have and typically attributed to my bio rhythms is much bigger the more at lunchtime. What I eat matters as well. Basically the more carbohydrate and the more process that carbohydrate the sleepier I get.
+
+I really need to manage this aspect of my life better.
+
+And finally regular exercise and keeping my overall weight down helps. And again, I’ve wonder why I don’t pay these things more attention on a day-to-day basis.
+
+So there’s lots to think about there. my real passion in life is experimenting. I can see some good experiments coming up.
+
 #### **The Importance of Rest**
 
 I had a remarkably good day in terms of how much I got done yesterday. It was quite exciting, and after putting in a pretty solid day I also found myself ready to do a bit more in the evening and ending up working from half nine to nearly midnight. Then to my surprise I woke up at five this morning, and got off to a flying start this morning.
