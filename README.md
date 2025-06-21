@@ -8,6 +8,15 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
 
+#### **Can fasting give you a short term mental boost?**
+
+I follow the 5:2 intermittent fasting program. So two days a week, Friday and Monday, I restrict my calorie intake to 600. It’s a very modest intervention and it has moderate results. But I have noticed that the day after I tend to be a bit more alert and I’m better at tackling tougher jobs. I’ve also got a long-standing observation, which I imagine other people have noticed, that the day after an alcohol and all carbohydrate binge Tends to be fairly slow moving.
+
+So, I wonder if fasting in a more dramatic fashion might have an even stronger result. Maybe even a result that is worth the sacrifice. Yesterday I tried this out. So rather than 600 cal I just had one apple and one banana all day.
+
+I’m writing this the morning after. Observation so far – I’ve got a good night sleep. I woke up at 6 am which I always regard as the optimal time to wake up. However, I haven’t noticed much in the way of increased alertness yet. I will keep the experiment going by not eating at all until the evening. Let’s see how it goes.
+
+
 #### **Energy Levels**
 
 They think that attracted my attention most over the last couple of days is how important my energy levels are to achieving anything. On Tuesday I had a really solid days work getting a lot done. The following day many hours ended up disappearing while I just couldn’t get started .
