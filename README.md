@@ -6,7 +6,9 @@ Like many people, maybe most people, I am struggling with a poor attention span.
 
 I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration? 
 
-So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the #### ** is following the news a good idea?**
+So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
+
+#### ** is following the news a good idea?**
 
 I’ve been doing an unconscious experiment of my life. Most of the time I follow the news assiduously. I’ll get interesting in particular stories and follow them closely. Back in the days when the only source of opinion with the newspapers, I’d read the opinion columns. But when nothing was going on, that was interesting me very much I would go weeks sometimes months on end without checking out the headlines at all. Looking back on it, I can say with certainty that my level of interest in World events turned out to have no impact on them at all. So one thing is clear. I’m not duty bound to follow the news because of the impact that might have on anyone else.
 
