@@ -6,7 +6,17 @@ Like many people, maybe most people, I am struggling with a poor attention span.
 
 I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration? 
 
-So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the concept.
+So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the #### ** is following the news a good idea?**
+
+I’ve been doing an unconscious experiment of my life. Most of the time I follow the news assiduously. I’ll get interesting in particular stories and follow them closely. Back in the days when the only source of opinion with the newspapers, I’d read the opinion columns. But when nothing was going on, that was interesting me very much I would go weeks sometimes months on end without checking out the headlines at all. Looking back on it, I can say with certainty that my level of interest in World events turned out to have no impact on them at all. So one thing is clear. I’m not duty bound to follow the news because of the impact that might have on anyone else.
+
+But does it do me any good? Most of the time I think it’s just entertainment. It’s interesting to know what the powerful are up to. It might also have been some use in helping me make decisions. But looking back on it, I don’t think any of this was particularly great. I would’ve been just as well informed for my own purposes by reading books.
+
+I’m writing this on what feels like a big news day. But I’ve just done the mental exercise of thinking back to previous similar events. Many things which seemed highly significant at the time have turned out to be much less so in hindsight. It’s good to know what other people are talking about. But then, I dare say those other people are very happy to bring you up-to-date if you don’t know what’s going on.
+
+Of course it’s rather hard to avoid the news nowadays. So I don’t think becoming a hermit is feasible. But I’m going to make a conscious effort to make sure I devote the minimum attention to current affairs that I can.
+
+
 
 #### **Can fasting give you a short term mental boost?**
 
