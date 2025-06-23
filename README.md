@@ -8,6 +8,18 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **What should I use my tickle file for?**
+
+There was a time when my tickle file was an absolute mainstay of my daily organisation. I have to be honest. For a lot of that time it didn’t work very well. I found it difficult to keep up the habit of using it. In the end I resorted to self bribery. I bought a bar of chocolate. I allowed myself one square of it every day. I was soon reliably opening the tickle file as my first act on reaching my desk.
+
+But as the world has become more and more electronic, I’ve less and less need for it. Nowadays, it is more often empty than not. But it still has chocolate. So I’d like to see if there are other uses I can put it to.
+
+The biggest issue with the file was always that it is designed for and works very well for single sheets of paper or relatively small objects. I’m tempted to start a handwritten project. That would be good from the point of view of keeping my handwriting up to standard. But it does feel a lot like quitting work for the sake of work. And that’s definitely not what I want to be doing.
+
+There is one thing that I might want to go back to paper on. For the last few years I’ve been solving my birthday cards for friends and family problem by subscribing to a rather fun birthday card service. But perhaps I should take more care over my closest friends and relations. I think this is a good idea, but I don’t have that many friends and relations. It’s not going to justify the existence of the tickle file on its own.
+
+Maybe I should just bow down to the advance technology and accept it. But I’ll finish the chocolate first.
+
 #### **Checking is really important**
 
 A great way of losing time and expending energy to do so is to make mistakes. If you rush your job and get it wrong and you have to do it again, any idea of efficiency goes straight out the window.
