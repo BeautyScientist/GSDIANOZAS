@@ -8,6 +8,21 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **Checking is really important**
+
+A great way of losing time and expending energy to do so is to make mistakes. If you rush your job and get it wrong and you have to do it again, any idea of efficiency goes straight out the window.
+
+That’s an extreme case of course. But we’ll make clumsy slips from time to time. And these can turn out to be important when they end up in the finished product. But going back to check your work before releasing it always seems like really hard work. There’s a nice job apparently completed all you have to do is tick it off and you can get onto something exciting and new.
+
+As someone who is chronically clumsy and unusually impatient, this is always been and I suspect always will be a big problem for me personally. But as a manager, I’ve noticed it’s a very common problem with people in general.
+
+The most successful strategy I have found is to schedule checking several days or several weeks after completion. This is a disadvantage of adding to the time it takes to ship whatever it is I’m doing. But it does overcome over familiarity with the job which tends  to make you see what you expect to see rather than what you actually see.
+
+The least successful strategy is asking somebody else to check it for you. They rarely have as much insight into your work as you do. And of course, the time they’re spending checking your work means they can’t do their own work. I wouldn’t rule this out altogether though. I find the motivation to not let the checker find something helps me.
+
+But the most helpful strategy I have come across is the advice from the cult of done. This asserts that there is no editing stage. If you’re doing something, what you produce is the final version. Particularly on a piece of writing, the idea that once I’ve left paragraph I will never come back to it does make me pay more attention. And it is most of the time the reality. You don’t often come back and revise stuff you’ve done no matter what your intentions were at the time.
+
+
 #### **Is following the news a good idea?**
 
 I’ve been doing an unconscious experiment of my life. Most of the time I follow the news assiduously. I’ll get interesting in particular stories and follow them closely. Back in the days when the only source of opinion with the newspapers, I’d read the opinion columns. But when nothing was going on, that was interesting me very much I would go weeks sometimes months on end without checking out the headlines at all. Looking back on it, I can say with certainty that my level of interest in World events turned out to have no impact on them at all. So one thing is clear. I’m not duty bound to follow the news because of the impact that might have on anyone else.
