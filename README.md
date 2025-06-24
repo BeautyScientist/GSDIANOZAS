@@ -8,6 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **Keep writing all the time**
+
+One of the reasons social media is so distracting is the way it keeps you engaged by constantly seeking your opinion. YouTubers rarely finish a video without asking you what you think and suggesting you make a comment. There are also polls, like buttons, questions to find out your personality, intelligence, when you were born etc.
+
+It all works consciously to keep your attention on the platform. And it works pretty well. And one more post or one more video is so tempting. What harm can a few more minutes do?
+
+I am going to try and overcome this by using the same tactic back as far as I can. But instead of scrolling I am going to write. This means rather than watching a video I will write a blog post. Rather than spending time reading the news I’ll spend time writing a response to the news. 
+
+Let’s see if I can make creating stuff more compelling than consuming content.
+
 #### **Arguing is a waste of time**
 
 I’ve had a big job on this week which involved dealing with an auditor from accreditation company. To be entirely honest, there are some things I didn’t do as well as I could’ve done. To carry on being honest, I covered them up rather well. I was greatly help in this by the auditor finding a lot of completely unjustified problems. He was a young guy. I think he was looking to make an impression. He was probably a bit insecure as well – which I didn’t help.
