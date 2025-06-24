@@ -8,6 +8,24 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **Arguing is a waste of time**
+
+I’ve had a big job on this week which involved dealing with an auditor from accreditation company. To be entirely honest, there are some things I didn’t do as well as I could’ve done. To carry on being honest, I covered them up rather well. I was greatly help in this by the auditor finding a lot of completely unjustified problems. He was a young guy. I think he was looking to make an impression. He was probably a bit insecure as well – which I didn’t help.
+
+So not for the most reprehensible of behaviours on my part. But a bit below the standard I like to work at. However, I very foolishly allowed myself to cope but I dwelling on the mistakes the auditor made.
+
+I had some stuff to do to follow up. But found myself spending a lot of time thinking of ways I could have a go with the auditor. And when I say a lot of time, I mean a lot of time. I composed several emails in my head. I thought of some approaches I could use to get him into trouble with his employers. At worst of all I spent time going through the details of the standard he was working to to rub in his errors.
+
+I’ve now come to my senses I will simply do the minimum I need to get the issue solved. I can then forget about it altogether and concentrate on more profitable and enjoyable parts of my life.
+
+I don’t think I’m alone in  being sucked into arguments. they are a great way to have a miserable life, concentrate on an important things and increase your stress levels. So what can I do about it?
+
+The first thing is just to be aware of it. Spot the rabbit hole before you go into it. good advice, but easier said than done.
+
+If you can’t stop yourself entering the hole here are some ways of making it less damaging once you do. Make a list of all the stuff you need to do on the problem. And include all the cunning plans you have for scoring points and inflicting harm on your probably unsuspecting opponent. And then put all the revenge stuff to the end of the list. With luck, you will run out of time before you get to them. And thirdly, do your best to treat you as a learning opportunity rather than a flexing your muscles opportunity.
+
+I fell short this time. I’ll do better next.
+
 #### **What should I use my tickle file for?**
 
 There was a time when my tickle file was an absolute mainstay of my daily organisation. I have to be honest. For a lot of that time it didn’t work very well. I found it difficult to keep up the habit of using it. In the end I resorted to self bribery. I bought a bar of chocolate. I allowed myself one square of it every day. I was soon reliably opening the tickle file as my first act on reaching my desk.
