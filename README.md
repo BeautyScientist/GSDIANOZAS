@@ -8,6 +8,18 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **What is wrong with the perfect pleasure?**
+
+Oscar Wilde described a cigarette as the perfect pleasure. What he meant was that you could carry on smoking cigarette after cigarette without losing the hit you get from it. Other pleasures always came with a distinct end point. You can only eat so much food. You can only drink so much alcohol. You can only have so much sex. But you can puff away for as long as you like.
+
+I think there was probably something in Wilde’s character that made this particularly appealing to him. I dread to think how you would’ve got on with modern social media. Because these share exactly that quality with cigarettes. You can continue for hours, maybe even all day, reading or watching the all intense infinite output.
+
+I have a feeling that if wild was here with us today, we would never have heard of him.
+
+The same rule does not apply to creating stuff. And that must include the content of social media platforms that everybody goes to to read. There is a very distinct limit to how long you can carry on producing stuff. It varies of course with the subject matter and your energy levels. But writing something about even the most engaging of topics is not something that you find difficult to abandon.
+
+I’ve been returning this to my advantage recently. I’ve been losing many battles in my long war with distraction. But I have found one way to turn around from a hyperlink rabbit hole full of stuff I am at that moment intensity interested in is to write an essay about the subject. I hold out the hope that one day this will generate a valuable and incisive piece of writing. Maybe. But it certainly puts me into the frame of mind where I am able to stop.
+
 #### **Keep writing all the time**
 
 One of the reasons social media is so distracting is the way it keeps you engaged by constantly seeking your opinion. YouTubers rarely finish a video without asking you what you think and suggesting you make a comment. There are also polls, like buttons, questions to find out your personality, intelligence, when you were born etc.
