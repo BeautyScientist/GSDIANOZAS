@@ -8,6 +8,14 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
 
+#### **Going cold Turkey on social media**
+
+I suffered a tactical defeat in my long war of attrition on distraction yesterday. As is often the way with unsuccessful military campaigns, it all started off so well and the plan was so good. But in the end, I found that I had clocked up a huge number of YouTube videos Which I hadn’t even finished rather than a solid day of achievement. I tried to make a tactical retreat to an early night, but ended up con continuing my YouTube binge until nearly midnight.
+
+When you are trying to build a new habits, it’s rarely a good idea to take extreme measures. The best approach is to simply try and replace what you don’t want to do with what you do want to do steadily over time. But sometimes you just have to panic. I’m going to have a complete Van for the duration of this calendar day on any form of social media. YouTube is my current enemy but I need to avoid falling for its allies as well.
+
+Now I have fallen into this military metaphor. I’m going to treat today as a battle. Off to draw up my marching orders.
+
 #### **What is wrong with the perfect pleasure?**
 
 Oscar Wilde described a cigarette as the perfect pleasure. What he meant was that you could carry on smoking cigarette after cigarette without losing the hit you get from it. Other pleasures always came with a distinct end point. You can only eat so much food. You can only drink so much alcohol. You can only have so much sex. But you can puff away for as long as you like.
