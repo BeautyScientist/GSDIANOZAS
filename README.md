@@ -2,12 +2,13 @@
 
 #### **Introduction**
 
-Like many people, maybe most people, I am struggling with a poor attention span.   There are so many distractions. And they are all bright and shiny and  are literally designed to grab our eyeballs.
+Like many people, maybe most people, I am struggling with a poor attention span. There are so many distractions. And they are all bright and shiny and are literally designed to grab our eyeballs.
 
-I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration? 
+I was having a particularly bad day with this and decided it was time to try and run with the stream rather than against it. Can I use the atomised nature of time in a world run by tech to achieve the sort of long-term goals that I have always imagined can only be done with long bouts of concentration?
 
-So here’s the plan. Let’s try splitting the day up into 6-minute sessions \- 5 for working and 1 for admin \- and see if, even with this constraint, something worthwhile can be created. For example \- a book on how to cope with continual interruptions. This opening paragraph is my first trial with the 
+So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
+I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 #### **Going cold Turkey on social media**
 
 I suffered a tactical defeat in my long war of attrition on distraction yesterday. As is often the way with unsuccessful military campaigns, it all started off so well and the plan was so good. But in the end, I found that I had clocked up a huge number of YouTube videos Which I hadn’t even finished rather than a solid day of achievement. I tried to make a tactical retreat to an early night, but ended up con continuing my YouTube binge until nearly midnight.
