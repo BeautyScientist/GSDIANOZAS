@@ -9,6 +9,19 @@ I was having a particularly bad day with this and decided it was time to try and
 So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
+
+#### **Maintaining energy levels**
+
+When you are busy, and particularly when you are busy with urgent deadlines, it is very easy to overdo it. This results in you getting tired and unproductive. The reality is that you would be better off closing your laptop, packing up your papers and heading off for a walk or even going home for a snooze. This isn’t always a possibility. But you often don’t do it anyway, because one of the effects of being tired is reducing your bandwidth to actually work out what he should be doing. More importantly, whether or not you should be doing anything at all.
+
+It’s a bit like the worst time to decide whether or not you need another drink is when you’ve just had several of them.
+
+There aren’t many good strategies for coping with this current situation. And when you’re tired, thinking of strategies is one of the things you’re least likely to be able to do well.
+
+But one that I find works for me is stopping trying to work on whatever it is you’re trying to achieve and instead do a list of all the things you need to get done. And the trick is to do this very aggressively. Break things down into the shortest sections you are able to. If necessary, have several lists covering different aspects of the job you’re trying to cope with. When you’ve done that, you can start knocking off a few of the easier ones.
+
+It isn’t a panacea. Unfortunately, there is no real cure for having too much to do. It does feel a bit like adding an extra unnecessary stage in the process of getting things done. But it has got me out of more than one crisis.
+
 #### **Going cold Turkey on social media**
 
 I suffered a tactical defeat in my long war of attrition on distraction yesterday. As is often the way with unsuccessful military campaigns, it all started off so well and the plan was so good. But in the end, I found that I had clocked up a huge number of YouTube videos Which I hadn’t even finished rather than a solid day of achievement. I tried to make a tactical retreat to an early night, but ended up con continuing my YouTube binge until nearly midnight.
