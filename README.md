@@ -10,6 +10,12 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Shortcuts**
+
+I allow myself 10 minutes to write my GSDIANOZAS articles. I streamline the process as much as possible. That is as after all the point of the exercise. That’s reflected in using the acronym Getting Stuff Done In A Nexus Of Zero Attention Span. I regret the word Nexus now - but the Cult of Done principle of just getting it shipped applies.
+
+But I just noticed that I was so spending up to a minute finding the file I use to compose them. I have just set up a shortcut. I have gained a productivity advantage.
+
 #### **Maintaining energy levels**
 
 When you are busy, and particularly when you are busy with urgent deadlines, it is very easy to overdo it. This results in you getting tired and unproductive. The reality is that you would be better off closing your laptop, packing up your papers and heading off for a walk or even going home for a snooze. This isn’t always a possibility. But you often don’t do it anyway, because one of the effects of being tired is reducing your bandwidth to actually work out what he should be doing. More importantly, whether or not you should be doing anything at all.
