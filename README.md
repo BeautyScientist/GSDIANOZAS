@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Shortcuts Part 2**
+
+I have found a Shortcuts are tremendously useful ways of saving time. A few minutes or even a few seconds shaved off a job you do regularly soon mounts up but that isn’t even the biggest value. The sooner you can get from wondering about what you should be doing, through working out how you should be doing it and finally actually getting it started the better. I find that the mental blockage that needs to be overcome sometimes the biggest obstacle to getting something done.
+
+I compose most of these articles using Google Keep. It’s a very flexible tool. Its the biggest drawback is that I use it so much it sometimes hard to find stuff I’m working on. So for things like this that I do regularly, I create a tag for the article that means I can find this specific file almost simultaneously. Things like my current priority list also has a tag. That particular tag is preceeded with A1. Tags are listed alphabetically, so that makes sure that most important tag is the one on the top of the list.
+
+I have set up tags for categorising particular kinds of entry. I’m pretty sure that was completely a waste of my time. it’s a feature I never use.
+
+I also use the Shortcuts on my browser as a way of rapidly getting to webpages I use frequently. The good thing about that is that those are lists that I use regularly. So they are automatically near enough kept up-to-date. All in all, I regard shortcuts as almost an essential tool.
+
 #### **Shortcuts**
 
 I allow myself 10 minutes to write my GSDIANOZAS articles. I streamline the process as much as possible. That is as after all the point of the exercise. That’s reflected in using the acronym Getting Stuff Done In A Nexus Of Zero Attention Span. I regret the word Nexus now - but the Cult of Done principle of just getting it shipped applies.
