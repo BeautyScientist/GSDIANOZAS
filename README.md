@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Mimicking Marcus**
+
+It is highly unlikely that anybody is taking my writing a book in 10 minutes sessions every other day seriously enough to notice. But I’ve been posting articles more frequently than that recently. It’s more like one a day, and some days I’ve been getting two out. This was originally because I was backfilling a big chunk of the calendar when I’ve been too ill to do anything this frivolous. 
+
+But I’m also finding that it is quite a nice daily exercise to get my mind working and focused. In fact, I’m reminding myself of Marcus Aurelius and his famous meditations. I say famous, there is no evidence that they were particularly famous in his own time or indeed at any time until quite recently. Marcus seems to have followed a common stoic practice of keeping a daily journal to keep track of his thoughts and to keep himself online with his philosophical goals. you must certainly never intended anyone else to read them.
+
+I’m beginning to see what made him keep the practice up. There is something about the discipline of getting your thoughts down in writing that seems to make them stronger and easier to follow.
+
+
 #### **The opposite of AI and Google**
 
 Writing has become very divorced from sitting down with a bit of paper and covering it with lines of symbols from a thin tube of coloured liquid. You can now do research with the spoken voice, and ask an artificial intelligence to draft your text.
