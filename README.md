@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **The opposite of AI and Google**
+
+Writing has become very divorced from sitting down with a bit of paper and covering it with lines of symbols from a thin tube of coloured liquid. You can now do research with the spoken voice, and ask an artificial intelligence to draft your text.
+
+This is all great for a lot of things. But sometimes it’s the hard work of thinking stuff through that is the point. So there is still a place for the pencil.
+
+But one way of using tech is pretty much the opposite of utilising the computer to do your thinking. I use a program called Flowstate which forces you to type for a preset length of time. If you don’t keep up the keystrokes it deletes what you have written. There’s a very similar online tool called something like ‘The Most Dangerous Writing App’. 
+
+It takes a bit of getting used to. I definitely lost a lot of work when I first started. But if you want to focus it definitely has that effect. And you can often use what it produces with only light editing.
+
 #### **Shortcuts Part 2**
 
 I have found a Shortcuts are tremendously useful ways of saving time. A few minutes or even a few seconds shaved off a job you do regularly soon mounts up but that isn’t even the biggest value. The sooner you can get from wondering about what you should be doing, through working out how you should be doing it and finally actually getting it started the better. I find that the mental blockage that needs to be overcome sometimes the biggest obstacle to getting something done.
