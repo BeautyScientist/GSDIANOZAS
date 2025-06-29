@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Mission creep**
+
+i’m a very curious person. I’m highly motivated to find out how something works or what is going on. This has effect of making me extremely easily distracted. One of the strategies I’ve been investigating as a way of overcoming this is to deliberately work on stuff which is quite demanding. so rather than following my fancy on a trail of related blog posts and YouTube videos, accompanied with googling to find the fine details,, I’ve been working on writing and creating stuff myself. As that is a naturally tiring process which has a definable end point it stops me going down too many rabbit holes.
+
+That’s a theory at any rate.
+
+The problem is that it can become an even more compelling rabbit hole all of its own. This happened today. Instead of going into mouse potato mode I chose to write a blog post instead. The blog post got written alright. But having got into the mood I also spent quite a while working on other blog posts and generally getting a schedule of blog posts lined up for future release. All good stuff, in so far as it goes. But not What I really should’ve been working on.
+
+So I had a better day than I might’ve done. But not as good as I could’ve done. I think I need to work on prioritisation a bit harder.
+
 #### **Mimicking Marcus**
 
 It is highly unlikely that anybody is taking my writing a book in 10 minutes sessions every other day seriously enough to notice. But I’ve been posting articles more frequently than that recently. It’s more like one a day, and some days I’ve been getting two out. This was originally because I was backfilling a big chunk of the calendar when I’ve been too ill to do anything this frivolous. 
