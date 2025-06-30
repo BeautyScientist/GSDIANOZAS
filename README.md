@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Last Minute Merchant**
+
+At my school people who habitually left things to the last minute were referred to by the teachers as last minute merchants. From the fact that there was a name for it, it is possible to infer that the behaviour was widespread. From the fact that I remember it so clearly many years after it is possible to infer that this was a behaviour I was guilty of.
+
+I still am. 
+
+And I’m still doing it right now. I have had to wake up early on a Monday morning to deliver something late that I promised last week.
+
+Why do I do it? I don’t know. Some jobs seem to bring with them their own form of writer’s block. I’d love to solve this one. But it is very deeply ingrained.
+
 #### **Mission creep**
 
 i’m a very curious person. I’m highly motivated to find out how something works or what is going on. This has effect of making me extremely easily distracted. One of the strategies I’ve been investigating as a way of overcoming this is to deliberately work on stuff which is quite demanding. so rather than following my fancy on a trail of related blog posts and YouTube videos, accompanied with googling to find the fine details,, I’ve been working on writing and creating stuff myself. As that is a naturally tiring process which has a definable end point it stops me going down too many rabbit holes.
