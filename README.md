@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Should I take a siesta?**
+
+It has been unusually hot for the last couple of days. The heat belt up in my office by the mid afternoon making it very difficult to work. I found myself almost involuntarily taking a snooze. It turned out to work rather well I regained consciousness in time for dinner, and then felt wide-awake through the evening and was able to more than catch up.
+
+I wonder if this is a better work pattern even when the temperature returns to normal. I don’t think I’m particularly unusual in finding the period directly after lunch to be not especially productive. I try to schedule unavoidable but not especially demanding work for that time of the day. but maybe it would be better to suggest give up on it altogether. A mid afternoon snooze is a very pleasant experience. Forcing myself to do rewarding work whilst not in the mood is not.
+
+This is a course not a tremendous radical idea in any countries around the world. countries where having a siesta is normal don’t seem to be doing too badly.
+
+The biggest problem is, and I’m a bit shame faced about this, I don’t think my fellow workers customers and suppliers would appreciate not being able to get in touch with me for a big chunk of the normal working day. nonetheless, I think I’m going to give it a try.
+
 #### **Flow State**
 
 Last night I sat down to clear a few emails that I found myself pussy in a solid two hours of focus and productive work concentrating mainly on my top priorities. I was in that state that is called “flow“ where working seems to be not so much effort free as Something that it would require effort to stop.
