@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Letting it Soak**
+
+We’ve all had the experience of staring at a blank piece of paper knowing that filling it with something is absolutely crucial, but not being able to work out what to write. Writers block seems to be a variation of this. The harder you try the more difficult it becomes to get it done.
+
+Often the best solution is to go for a walk or do something else. Let your mind think about it subconsciously. Do something else. Then when you come back to it, it’s suddenly seems clear and straightforward. This doesn’t just work with essay crisis style problems. Quite a lot of things that seem insurmountable Will become tractable if you just let them soak.
+
+In fact, I think this is what’s really going on when you have a break with the intention of letting yourself have a rest. The theory, and it certainly sounds plausible, is that you need to give your brain a rest. Maybe you even need to give your body a rest. But I think the actual Gray matter itself is taking advantage of being let alone to work in its own way.
+
+If I’m right, the best working day is one where you split up your tasks into the difficult and the easy and schedule a few extracurricular activities. It doesn’t look like hard work. But I think it’s more productive.
+
 #### **Trying Out AI for Writing Blog Posts**
 
 I have just completed a very thorough trial of using AI to write stuff. I decided to do a set of 7 blog posts covering different aspects of the life of William Cobbett. Why William Cobbett? It was just something I felt like doing. I don’t need a reason.
