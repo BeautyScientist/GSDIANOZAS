@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Distractions From The Moment I Wake Up**
+
+There is no doubt about it, there are way too many distractions available in the modern world. This morning I have so far listened to about 10 minutes of a podcast about proteins, followed the fascinating story of how the Verve lost the rights to their best known song, got a fevered update on US politics and how some recent election result changes everything, seen a comic in Romania have a go at an Israeli member of the audience and get an analysis of why the Russians are in trouble economically and are having to increase their level of conscription.
+
+All this before I was even ready for a cup of tea. 
+
+I am not an entirely innocent victim of course. I do have a choice. And the choice I need to make is to avoid distraction. I need to adopt the attitude that an alcoholic does. I don’t have the willpower to dip in and out of distraction at will. I have to avoid it altogether. If I fall off the wagon it will be some time before I get back on, and that is time I can’t get back again.     
+
 #### **Should I take a siesta?**
 
 It has been unusually hot for the last couple of days. The heat belt up in my office by the mid afternoon making it very difficult to work. I found myself almost involuntarily taking a snooze. It turned out to work rather well I regained consciousness in time for dinner, and then felt wide-awake through the evening and was able to more than catch up.
