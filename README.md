@@ -10,6 +10,22 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Trying Out AI for Writing Blog Posts**
+
+I have just completed a very thorough trial of using AI to write stuff. I decided to do a set of 7 blog posts covering different aspects of the life of William Cobbett. Why William Cobbett? It was just something I felt like doing. I don’t need a reason.
+
+So how did it go?
+
+I started by writing a spec for the AI to work to. This took a surprisingly long time to come up with. I could certainly have rattled a quick single blog post in the time it took. I didn’t record it, but it was about an hour. I think there was a bit of learning curve in it, and I would have had to have done much the same thinking if I’d been working on my own.
+
+The results were initially impressive. All were well written at first glance. I started getting them in order directly in Wordpress. It was here that I noticed my first surprise. It had generated 8 rather than 7.  I later realised that it had in fact experienced a technical glitch and one was incomplete and had then been regenerated.
+
+As I was editing them all at the same time I didn’t notice this issue and ended up with two similar articles. This required a lot more work to sort out than it would have done if the problem hadn’t arisen.
+
+Although the writing was superficially quite good, when I got into the details it was repetitive and had some inaccuracies. By the time I’d finished I spent about as much time as I would have done writing without the AI. I think the end result was a bit better than I would have managed on my own. But it wasn’t as enjoyable. 
+
+Overall I think it will prove to be a useful tool, particularly for researching stuff. But I don’t think it can actually implement a good idea unaided.
+
 #### **Distractions From The Moment I Wake Up**
 
 There is no doubt about it, there are way too many distractions available in the modern world. This morning I have so far listened to about 10 minutes of a podcast about proteins, followed the fascinating story of how the Verve lost the rights to their best known song, got a fevered update on US politics and how some recent election result changes everything, seen a comic in Romania have a go at an Israeli member of the audience and get an analysis of why the Russians are in trouble economically and are having to increase their level of conscription.
