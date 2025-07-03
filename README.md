@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Confessions of a starter**
+
+There are two kinds of people in life. Starters and finishers. I am a starter. And when I say a starter, boy do I mean a starter. I’ve started a great many projects in my life, many more love will ever get finished in a single lifetime. As a couple being a starter with being a sentimental old fool, my life is cluttered with a great many unfinished things.
+
+The message is clear. Don’t start what you don’t have a clear plan and resource to finish. But I know I’m going to take notice no notice of that. what I do have the willpower to do, barely, is make sure I mothball projects efficiently to come back to later. This actually is quite valuable.
+
+For example, I have long neglected my history books review blog. But I now want to start doing it again. I’ve given myself a target of a blog post a week. Getting into this habit has been a lot easier because I had about 20 half written posts stashed away. So I was able to get a decent schedule of them ready fairly quickly. This has given me the momentum to get off to a good start.
+
 #### **Letting it Soak**
 
 We’ve all had the experience of staring at a blank piece of paper knowing that filling it with something is absolutely crucial, but not being able to work out what to write. Writers block seems to be a variation of this. The harder you try the more difficult it becomes to get it done.
