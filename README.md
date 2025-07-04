@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **AI’s rapid development piece is giving me headaches**
+
+When things go wrong, I like to do at least some kind of investigation into what went wrong. So today we shipped some reports witherrors in them. The mistake was made as a result of using AI. But it wasn’t really an error by the AI itself. It was more that we’re not used to using it yet. So as with any new technique is a bit of a learning curve.
+
+So I put some changes in place for next time. I also had to redo the job. All accompanied to the sound of profit margins flying out the window.
+
+This really is to be expected when you do something new. The potential long-term savings from getting Silicon to process stuff instead of human brains is going to be massively beneficial. 
+
+The only trouble is that because the AI interface is and the way the models work keeps changing, you never really settle down to a standard way of working. So you never really finalise on an optimum operating procedure.
+
+I didn’t see any way round this. The guys in Silicon Valley Are hellbent on rolling this technology out as fast as humanly possible. And humanly possible is becoming much faster with these tools. But maybe I need to become a bit more relaxed about mistakes and just roll with them.
+
 #### **Consequences of a bad night’s sleep**
 
 I had a bad night’s sleep last night. It would be nice if my life was exciting enough for that to be the result of a major trauma or a vital moral crisis. It was actually the result of eating too many baked potatoes. It turns out I’m now at the stage in my life, where I can’t manage digestion and sleeping at the same time.
