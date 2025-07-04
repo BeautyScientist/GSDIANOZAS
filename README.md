@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Consequences of a bad night’s sleep**
+
+I had a bad night’s sleep last night. It would be nice if my life was exciting enough for that to be the result of a major trauma or a vital moral crisis. It was actually the result of eating too many baked potatoes. It turns out I’m now at the stage in my life, where I can’t manage digestion and sleeping at the same time.
+
+But I’m finding that the lack of energy and mental clarity that comes from not sleeping well has some quite profound impacts. For example, I had writing this article down as one of my things to do for the day. I quite like knocking them off first thing if I can. But it turned out this morning that I couldn’t. I just couldn’t think of anything to write about. Instead, I did a fairly mundane and easy job. But even with that, I found that it took longer than I would have expected. I don’t know if this will persist through the whole day. But it is very noticeable that I’m not at top performance levels.
+
+But the interesting thing is that I have a feeling that if I didn’t have that ready explanation, I might be feeling very different differently about thanks. Would I be on the point of giving up writing this book because I had no inspiration? Would I be blaming my slow performance on some irrelevant factor like which software I was using for some shortcoming in the input I’ve got from my client?
+
+In fact, I wonder how many of the problems I’ve had in my life were down to low energy levels for some reason or other. I didn’t notice at the time.
+
 #### **Confessions of a starter**
 
 There are two kinds of people in life. Starters and finishers. I am a starter. And when I say a starter, boy do I mean a starter. I’ve started a great many projects in my life, many more love will ever get finished in a single lifetime. As a couple being a starter with being a sentimental old fool, my life is cluttered with a great many unfinished things.
