@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Mission creep 2.0**
+
+The thing I most regret spending time on is scrolling through social media and YouTube videos. In an attempt to overcome this, and bearing in mind the well-known fact that it is easier to replace a habit with another habit than to simply try to pronounce it, I have been Working on creating content rather than consuming it in the time I would have previously devoted to mindlessly absorbing it.
+
+The theory is that creating is much harder work and therefore I will find it easier to switch to doing something productive.
+
+This has been very successful. I am now behind on my podcast listening, I don’t automatically watch every broadcast by my favourite YouTubers and it is months since I got into an extended conversation with a stranger about an issue of no consequence to either of us.
+
+The problem I have now is that some of my mini projects started to distract myself from distraction have become distractions in their own right. for example, I was looking at some old blog posts that I’ve written but abandoned. Quickly rehabilitating them seemed like a nice quick and easy project. Well, it was nice and easy. But it was anything but quick. What I’d thought would be a quick bit of editing has now transformed into re-originating the artwork, rewarding some of the text quite extensively and most surprising of all considering what my original goal was installing a learning and more up-to-date editing system on my blog.
+
+I’m still happier than I was before I started. Getting the less important stuff done is a lot better than getting no stuff done. But it turns out that mission creep is an ever present threat. I need to work on my priorities.
+
 #### **Writing is insanely inefficient, but it doesn’t feel that way**
 
 I can still remember the difficulties I had learning to write. We all have our own issues- mine was writing the letter s. To this day my signature includes an s that I go back to to add an extra stroke. We were taught to believe that writing was the key skill in which all others rested. 
