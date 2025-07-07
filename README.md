@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Prioritising is really difficult**
+
+
+I was quite early into blogging. I started putting stuff online in 2004. And things really took off when I switched to WordPress in 2006. The raised profile this gave me in my industry enable me to start my business in 2013. I enjoyed it all so much that I started another blog for fun.
+
+Since the world has moved on quite a bit and I realised that I need to either stop bothering altogether or to dramatically raise my game on my professional blog. So this weekend as a practice run I did some quite intensive work on improving my fun blog. so far so good. It seemed like a sensible approach.
+
+The only trouble is that the revamp of my fun blog, whose readership is basically zero, took way longer than anticipated. In fact, I still got another half hour to finish it off completely.
+
+So here’s a question. Should I have abandoned this task as soon as I realised it was going to overrun? That would have got me onto more productive activities more quickly. Or does it make sense to completely finish what I started and get it out of my head. I don’t think there is any way of knowing the right answer to that question.
+
+What I do know is that I really wanted to get it finished and that was always going to overwhelm any logical reasoning I might have. I just don’t have the willpower to do anything differently. All I can do is try and strategise so I don’t end up in that situation.
+
 #### **Mission creep 2.0**
 
 The thing I most regret spending time on is scrolling through social media and YouTube videos. In an attempt to overcome this, and bearing in mind the well-known fact that it is easier to replace a habit with another habit than to simply try to pronounce it, I have been Working on creating content rather than consuming it in the time I would have previously devoted to mindlessly absorbing it.
