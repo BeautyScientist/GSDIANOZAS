@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Maintenance is important**
+
+There is a theory that the reason the Roman Empire grew so wide is that it was down to intense competition between the political actors in the upper classes. If you wanted to get on in the Senate you had to conquer some barbarians. If there were no barbarians to be had, you needed to impress with some spectacular infrastructure. Basically, you had to win a battle or build an aqueduct.
+
+This meant that Rome was always well provided with soldiers and with stuff that made life more bearable. They decline of the empire began when the Emperor took over and closed down political conflict. This meant that there was no longer any incentive to keep up the structure the had built the empire in the first place.
+
+Or maybe they just got complacent. Whatever.
+
+I have just wasted a huge amount of time sorting out a problem that was basically down to not keeping up regular maintenance. My blog, which is quite important to my promotional activities, crashed yesterday. It’s been running for nearly 20 years . And for the first 17 of those years, I diligently took it back up every day. But you know it is. When nothing has gone wrong for a long time, it’s easy to forget that something can go wrong. An easily automated task I have neglected has caused me a huge headache. It’s not quite as bad as being overrun by barbarians. But I still wish I’d been more conscientious.
+
 #### **Prioritising is really difficult**
 
 
