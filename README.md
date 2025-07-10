@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Signal to Noise Ratio**
+
+I suffered a tactical defeat in my war against distraction the other day and found myself watching YouTube shorts. They are pretty much cocaine to my attention span - what harm can one more minute do? But there was an interesting one that resonated. It was a guy who had worked with high performers, and he was explaining a concept that he had picked up from Steve Jobs.
+
+The idea is that if you have a primary goal in life, then that is the signal and everything else is noise. So you should focus your efforts on the signal and try to minimise the noise. And engineers who work on communications are able to quantify this ratio. 
+
+In a sense this is something that is pretty obvious. We all know we should prioritise. Some of us even do so from time to time. But how many people work on the basis of assigning a percentage to how well we are doing on it. The YouTuber claimed that Steve Jobs had a signal to noise ratio of 80%. This was the second highest of anyone he had encountered. It apparently meant that when you worked with him you had to focus on what he regarded as the most important thing, whatever it was. It didn't make him easy to work with. The highest ratio he'd experienced was Elon Musk.
+
+As I say, an interesting framework.
+
 #### **Maintenance is important**
 
 There is a theory that the reason the Roman Empire grew so wide is that it was down to intense competition between the political actors in the upper classes. If you wanted to get on in the Senate you had to conquer some barbarians. If there were no barbarians to be had, you needed to impress with some spectacular infrastructure. Basically, you had to win a battle or build an aqueduct.
