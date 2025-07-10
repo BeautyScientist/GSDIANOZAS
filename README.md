@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Blocking Software Doesn't Help**
+
+My two biggest distractions are Bluesky and YouTube. So I tried using blocking software to limit my access to them and thus free up time to do other things. The theory was that I'd use them less and so give my attention to other and more worthy matters. 
+
+So how did it go? Well the first problem is sort of obvious. There isn't any really effective way of blocking these distractions. In extremis you can simply disable the blocking software. But even without that it turned out that I could switch to my phone if I was on my laptop. The phone had some blocking software too, but that was really easy to switch off. It literally offered the option of turning it off.
+
+And in any case, both Bluesky and YouTube do have their uses. YouTube in particular has some very educational content. 
+
+So in the end, after an ignomious 3 months of constantly undermining myself I gave up.  But it wasn't a complete waste of time. Having to make a conscious effort to use them did give me time to think through what I was doing with my time. And I have managed to build some positive habits for how I use my time. For example, writing instead of reading and watching - as I am doing right now - turns out to be a good way of keeping out of the rabbit hole. Making a positive choice to do something is better.
+
 #### **Signal to Noise Ratio**
 
 I suffered a tactical defeat in my war against distraction the other day and found myself watching YouTube shorts. They are pretty much cocaine to my attention span - what harm can one more minute do? But there was an interesting one that resonated. It was a guy who had worked with high performers, and he was explaining a concept that he had picked up from Steve Jobs.
