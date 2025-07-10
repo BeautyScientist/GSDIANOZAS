@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Vertical Dramas**
+
+I have just seen a news article describing  a new genre called vertical dramas. This is mini-series comprising 1 minute episodes edited to work in the vertical format used on mobile phones. These are apparently made by skilled film makers who are able to get the most out of the visual constraints imposed by the technology. Apparently the script writers are less skilled and the format has already got a reputation for cheesiness.
+
+I haven't seen any of these yet, though I must admit that the adaptation of Pride and Prejudice sounds intriguing.
+
+But it doesn't seem to me that this is necessarily a bad thing. If people are highly distracted and have a short attention span, then that is a challenge which the makers can rise to. In fact, they might well be able to be highly creative in it. Short form isn't fundamentally a problem. In fact often it is constraints that make things special. It could be argued that the novel form is overcoming the constraints of the print media where illustrations were necessarily scarce and colour almost unkown. So I am going to keep an open mind. After all, it's not as if I am going to have waste a lot of time if I don't like them.
+
 #### **Blocking Software Doesn't Help**
 
 My two biggest distractions are Bluesky and YouTube. So I tried using blocking software to limit my access to them and thus free up time to do other things. The theory was that I'd use them less and so give my attention to other and more worthy matters. 
