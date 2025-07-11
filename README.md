@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Eat That Frog**
+
+Mark Twain’s advice about making sure you eat a frog first thing every morning is very good advice, and advice that I have huge difficulty in following. His idea was that you should tackle the thing that most repels you first thing in the morning. That is when you have the most energy and when you have the most time to do it. It also means that you can spend the rest of the day knowing that you’ve got the toughest job off the list and you save yourself a day of worrying that you should be working on something else.
+
+But while I can see the logic behind this with perfect clarity, I usually start the day with something that is either positively enjoyable, or at least is fairly interesting. I use my relatively high level of energy and creativity to come up with excuses for why I am not getting any frog swallowing done.
+
+I am going to make a concerted effort on this. I have created a list of frogs in need of swallowing and have them prioritised. I did this with Google Keep, a tool I am very familiar with which has a good set of features but not enough to become distracting. The next thing is to create a recurring task every workday which pops up and delivers a link to the list. I must spend at least 10 minutes on this, or clear at least one item. And if I can clear the list I will designate myself as hero of the day for the day.
+
 #### **Practice is a good practice**
 
 I think that classical musicians often start the day practicing their scales. At least that is my perception of how that kind of skill works. Of course playing a scale is a trivial thing for anyone on a piano, and I don't imagine it takes that long to learn on a more difficult instrument like a violin. But there still seems to be some value in repeating it regularly. Even apparently simple things benefit from repitition.
