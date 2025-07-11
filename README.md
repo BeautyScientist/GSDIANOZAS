@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Calmness**
+
+The 10 minute limit I give myself to write these articles stops me from checking it out. But I think I read that there was a study that demonstrated that calmness was correlated with higher productivity. But I don’t really need a study to prove it. I know very well from personal experience but high levels of stress and anxiety do not lead to high output. Calmness is a much better state of mind.
+
+So the question is how to achieve more calmness more often. This is something that a lot of people have given a lot ofthought to. I tried some breathing exercises once. I didn’t notice any benefit. But looking back on it, I think I’ve got the framework from a source that would rather over sold it.
+
+I have had much more success with simpler things. Avoiding having a cluttered desktop, both the real one and the screen based one, definitely aids in calmness. having good lists of all the things you’re working on so you don’t have to worry about forgetting any of them is good too. And reasonably frequent breaks work.
+
+But there is no doubt in my mind that the thing that contributes most to calmness is simply avoiding other people. When I worked in a highly corporate environment, my strategy was to arrive early and get through as much work as possible before everybody else turned up. The days when the only productive work I got done was before everybody else arrived.
+
+I don’t think I can go as far as the Buddhists who seem to regard avoiding relationships altogether as a positive thing. But there is no doubt that other people are often the biggest enemy of your calmness.. 
+
 #### **Eat That Frog**
 
 Mark Twain’s advice about making sure you eat a frog first thing every morning is very good advice, and advice that I have huge difficulty in following. His idea was that you should tackle the thing that most repels you first thing in the morning. That is when you have the most energy and when you have the most time to do it. It also means that you can spend the rest of the day knowing that you’ve got the toughest job off the list and you save yourself a day of worrying that you should be working on something else.
