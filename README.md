@@ -1037,7 +1037,7 @@ So let’s think of three broad categories of things I could be working on. I su
 
 That automatically helps. My health is in good shape. I don’t feel the need to fill in any lacunae in my knowledge right now. So let’s focus on wealth.
 
-And what I focus on wealth I instantly start thinking about what I need to do to improve my business. Is there anything I can do to grow it? Once I frame the request in those terms a very obvious candidate pops up to the surface. A couple of years ago During a busy spell I stopped working on my newsletter for my clients. The main reason was at that point I had more work than I could cope with. So now would be a great time to start creating content for it.
+And when I focus on wealth I instantly start thinking about what I need to do to improve my business. Is there anything I can do to grow it? Once I frame the request in those terms a very obvious candidate pops up to the surface. A couple of years ago During a busy spell I stopped working on my newsletter for my clients. The main reason was at that point I had more work than I could cope with. So now would be a great time to start creating content for it.
 
 One last thing – what should I call this mood of not knowing what to do that has just overcome? Loose end doesn’t really match. Negative procrastination doesn’t really work either. I think I’ll go for task turpour.
 
