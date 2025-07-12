@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Working Methods**
+
+My plan to write one of these articles every other day, and that each of them should take 10 minutes requires that I be flexible about how I go about it. For example I don’t stick to a rigid timescale. I can miss some and backfill them later. And I don’t have to write them all in the same way.
+
+I write some on my phone using a wand. These ones have to be shorter but I can do them more or less anywhere at any time. I also compose them using speech - which I think is the most efficient. Or I type them either straight into a text editor or using a program that forces me to keep typing on pain of losing my work.
+
+I don’t think there is any virtue in sticking to a single process or time of day. The trick is to just keep at it consistently over time.
+
+
+
+
 #### **Calmness**
 
 The 10 minute limit I give myself to write these articles stops me from checking it out. But I think I read that there was a study that demonstrated that calmness was correlated with higher productivity. But I don’t really need a study to prove it. I know very well from personal experience but high levels of stress and anxiety do not lead to high output. Calmness is a much better state of mind.
