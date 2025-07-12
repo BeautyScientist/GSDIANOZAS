@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **A tongue twister shows the benefits of calmness.**
+
+A couple of family members are beginning to struggle with their hearing. I tend to speak rather quickly, and so I am having to practice speaking more slowly. This is also helpful when using speech to text. Clearer diction also helps. So to that end, I thought it might be useful to practice some tongue twisters to improve my tongue muscles a bit.
+
+Not having really taken any notice of tongue twisters since I was a kid, I had forgotten how difficult they are. In fact, the first one I tried at first attempt seemed literally impossible.
+
+After a bit of thought it occurred to me that there must be a speed at which I can accurately read out a tongue twister. As indeed there was. Simply slowing down was enough to improve my accuracy to 100%. I also felt a sense of calm in doing so.
+
+I think this may be a rule that is generally applicable. Slow down to the speed at which you are genuinely comfortable and you stop making mistakes. And we all know that sorting out a mistake is the biggest enemy of calm going.
+
 #### **Working Methods**
 
 My plan to write one of these articles every other day, and that each of them should take 10 minutes requires that I be flexible about how I go about it. For example I don’t stick to a rigid timescale. I can miss some and backfill them later. And I don’t have to write them all in the same way.
