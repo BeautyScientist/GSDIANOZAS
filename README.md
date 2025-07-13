@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
 
+#### **Saturday night’s alright for fighting distraction.**
+
+If I’m not going out anywhere, I always think that Saturday night is a good time to catch up on films and other long form entertainment. The trouble is even here I find that distraction can make an evening considerably sub optimal. I think I spend nearly half my Saturday night nights when I’m free Idly surfing YouTube for something interesting to watch.
+
+It’s time this ended.
+
+So last night, I decided well in advance what I was going to watch. I also decided that I was going to write a review of it.
+
+This definitely had the desired effect. I had chosen to watch an opera. I hadn’t checked in advance how long it was. At three hours, it was a bit too much to swallow in one hit. But when I looked it turned out to have three acts. So that was lucky. I was able to settle on just the first act.
+
+Knowing I was planning to write about it, I focused much more intently than I might otherwise have done. I got my review written. All in all, I’m very pleased with the night. and as a bonus, I have two further nights planned. I think the key was knowing in advance what I wanted to do.
+
 #### **A tongue twister shows the benefits of calmness.**
 
 A couple of family members are beginning to struggle with their hearing. I tend to speak rather quickly, and so I am having to practice speaking more slowly. This is also helpful when using speech to text. Clearer diction also helps. So to that end, I thought it might be useful to practice some tongue twisters to improve my tongue muscles a bit.
