@@ -8,7 +8,16 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
-I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text document.
+I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
+
+#### **Making sure you work to your own priorities**
+
+It is difficult enough working out what your own priorities are. But there are other people we have to interact with their own priorities. They may not be especially good at working on those themselves. For example, I’ve woken up on a Monday morning with a full agenda for the week, including quite a lot of stuff, that matters quite a bit to me. Before I do anything I have a troublesome matter that is at the top of my inbox. It is there for reasons I don’t fully understand and would not be worth recording if I did. It isn’t something I’m going to be thinking about this time tomorrow. Let alone next week or the year after.
+
+The challenge is that I believe the protagonist who is obliging me to disrupt my workflow is at the very least wrong. But he gives every indication that he is malicious. I am in a position to fight back if I choose to. In fact at the moment that’s very little that I could do that would give me more pleasure. But the reality is it is a trivial matter. I should get it out of the way as quick as possible with the minimum thought possible.
+
+Wish me luck!
+
 
 #### **Saturday night’s alright for fighting distraction.**
 
