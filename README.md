@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Getting the bite-size right.**
+
+I am a quarter of the way to my goal of having written a book on overcoming distractions. It’s too soon to patch myself on the back. There’s still a lot of work ahead. But the approach I’m taking to do it so far is working pretty well. Every two days a task is added to my calendar. and I diligently spend 10 minutes working on the project. I find it very motivating to keep up this schedule.10 minutes is just the right bite size.
+
+It’s not just the schedule though. The other thing I have got just about right is that I can comfortably produce a meaningful amount of work towards the goal in those 10 minutes. I’ve got the bite-size just right. (There might be an even better length of time to allocate this project. But I’m not taking the risk by changing anything now.)
+
+I think this really is the key. I don’t make much progress every day. And the completion of this book is still very distantly in the future. But every time I start a session, I know I am keeping it to my plan and getting somewhere. It works. The trick is clearly to make sure you’ve got the right bite-size for a particular project.
+
 #### **Making sure you work to your own priorities**
 
 It is difficult enough working out what your own priorities are. But there are other people we have to interact with their own priorities. They may not be especially good at working on those themselves. For example, I’ve woken up on a Monday morning with a full agenda for the week, including quite a lot of stuff, that matters quite a bit to me. Before I do anything I have a troublesome matter that is at the top of my inbox. It is there for reasons I don’t fully understand and would not be worth recording if I did. It isn’t something I’m going to be thinking about this time tomorrow. Let alone next week or the year after.
