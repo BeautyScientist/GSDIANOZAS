@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Stay out of the rabbit hole**
+
+You don’t really need to explain what a rabbit hole is. We all know the feeling where you watch a video, read a news story or notice something interesting which grabs your attention. Hours later you have done a pile of research, discovered areas of human knowledge you didn’t know existed and developed opinions on things you never knew about before. You’re deep down the rabbit hole and nowhere near any of your actual goals.
+
+I try to avoid following the news or going anywhere now social media for as long as I can when I wake up. I know this is the best solution. But I’m weak.
+
+My alternative strategy is to try and pick stuff that is either not inherently appealing, or has some value. So for example rather than following anything to do with history, science or politics I try and seek out stuff related to productivity or improving my skills. This is a far from a perfect solution because rabbit hole is still a rabbit hole. even if it’s slightly nicer rabbit hole. But sometimes I can turn around By forcing myself too write out a justification for why this piece of software or kind of exercise might be a value to me. This can sometimes convince me to give it up and do some proper work. At the very least, at least I’m practising writing which is a skill that always benefits from work on it.
+
 #### **Mozart effect?**
 
 A long time ago , maybe as long as the 70s, there was talk about a thing called the Mozart effect. The idea was that classical music was so beneficial for your brain that made you more intelligent. And in fact, it was so good for you that you should play symphonies and concertos to your unborn child lost they were just dating to give them a good start in life.
