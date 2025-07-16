@@ -10,6 +10,20 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Mozart effect?**
+
+A long time ago , maybe as long as the 70s, there was talk about a thing called the Mozart effect. The idea was that classical music was so beneficial for your brain that made you more intelligent. And in fact, it was so good for you that you should play symphonies and concertos to your unborn child lost they were just dating to give them a good start in life.
+
+Sadly, either it didn’t work or we missed out on the opportunity of creating a generation of classical music loving geniuses by failing to follow the advice.
+
+But one aspect of that was that you could improve your work rate by listening to music while you worked. This in fact is very widely believed by a great many people. i’ve believed it myself for quite awhile. But I have to say the results in practice are mixed. Sometimes a musical background does seem to make things flow more smoothly. Other times I find myself listening to the music instead of doing the work.
+
+I haven’t looked into the research behind this. But I did read something by Daniel Kanahan, who is probably an expert in this area, who said that he had believed it but when he tested it on himself, he found it didn’t work.
+
+I’m quite open to the suggestion that I have been deluding myself. i’ve done so often enough in my life. But I still wasn’t quite sure if there wasn’t something to it. So I did some trials. I have a few tasks that have a pretty good idea of how long they take. My conclusion was that easy tasks can be done more quickly with music, and more difficult ones are harmed by it.
+
+My working hypothesis is that I get bored very easily. If I’m working on a boring job, the minor distraction from the music is helpful because it makes it less boring. So I stick at it. But if I need my full attention for something, the music can be a major distraction. Particularly good music.
+
 #### **Getting the bite-size right.**
 
 I am a quarter of the way to my goal of having written a book on overcoming distractions. It’s too soon to patch myself on the back. There’s still a lot of work ahead. But the approach I’m taking to do it so far is working pretty well. Every two days a task is added to my calendar. and I diligently spend 10 minutes working on the project. I find it very motivating to keep up this schedule.10 minutes is just the right bite size.
