@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Keeping up the streak**
+
+In the unlikely event of anybody paying this little project of mine the slightest attention, they may have noticed that I’ve been posting articles to blue sky more often than the stated strategy of posting every other day would suggest. The reason for this is that I had to prolonged period of very low energy in the spring related to recovering from a viral infection. I’ve been steadily backfilling the missing ones ever since. Until that is, today. I have finally caught up.
+
+The interesting thing is just how motivating maintaining a streak is. I noticed I was getting close to catching up about two weeks ago and I’ve been writing with a lot more enthusiasm since. there is something just so satisfying about setting a goal, and having tangible evidence of having achieved it.
+
+I think there are some factors as to why this particular project was worked so well with this particular approach. For a start, even on the busiest day you can usually find 10 minutes. The actual work I need to do can all be done in my head without any research . And the whole process is now very streamlined and so I don’t have to psych myself up to overcome any barriers. I’ve also got quite a lot of ways of writing now. I can use a keyboard, the wand on my phone and simply speaking to dictate my thoughts as I walk along.
+
+I am of course only a quarter of the way through my project, so I may hit some currently unforeseen obstacle. But I’m currently pretty confident I’m going to get there. It’s a good feeling.
+
 #### **Stay out of the rabbit hole**
 
 You don’t really need to explain what a rabbit hole is. We all know the feeling where you watch a video, read a news story or notice something interesting which grabs your attention. Hours later you have done a pile of research, discovered areas of human knowledge you didn’t know existed and developed opinions on things you never knew about before. You’re deep down the rabbit hole and nowhere near any of your actual goals.
