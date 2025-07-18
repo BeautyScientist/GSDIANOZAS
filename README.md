@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+
+#### **Optimal lunch?**
+
+Our blood sugar levels have a big impact on our mood and our effectiveness. Data indicates that judges handout stiffer sentences just before lunch. I doubt that they are aware that they are heading out harsher sentences as a result of glucose levels rather than misdemeanours.
+
+What I am sure about is that a large midday meal or snack makes it much harder to get anything done in the afternoon. In some cases it makes it impossible to even start. So I’ve been experimenting with different snack options. I recently hit on the idea of baked potatoes. These are carbohydrate rich, but I had a mind that may be they take longer to digest. And this would hopefully give a more even glucose level.
+
+I’m only at the start of this investigation at the moment. What I’ve done so far is it two small potatoes don’t provide enough to keep me going. two large potatoes on the other hand actually slowed me down because I think the process of digesting them was in itself enough to deplete my energy levels. But they are very tasty. So I think I shall continue the experiment.
+
+It’s beginning to come together, scientifically in my head now. I need the right number of calories. And I need the kind of calories that are digested and processed by my alementary canal in the way I want them to be.
+
 #### **Keeping up the streak**
 
 In the unlikely event of anybody paying this little project of mine the slightest attention, they may have noticed that I’ve been posting articles to blue sky more often than the stated strategy of posting every other day would suggest. The reason for this is that I had to prolonged period of very low energy in the spring related to recovering from a viral infection. I’ve been steadily backfilling the missing ones ever since. Until that is, today. I have finally caught up.
