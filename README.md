@@ -11,6 +11,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
 
+#### **Writing Is Better Than Scrolling**
+
+I think the most effective way I’ve found of overcoming distractions, and indeed procrastination, is to simply fire up either the Most Dangerous Writing App or Omniflow and just start writing. This has the great advantage also generating some writing which can be useful. But also fully absorbs my attention and focuses it on things I want to do rather than whatever titbit the YouTube algorithm or the latest social media happens to serve up.
+
+For example at the moment I am reviewing planking. This is something I started doing on a whim having read the title of an article in the Guardian. I picked what I thought was a fairly modest target of doing it for 45 seconds a day. This proved to be really tough, but I perservered because I don’t like to give up on anything I start. I have now developed the habit into one that I have no trouble keeping to.
+
+I have just checked on the benefits - which I hadn’t actually troubled to do. I discovered that I am doing the kind of routine that an enthusiastic sportsman might select. I probably need to dial back on it if anything. I also discover that one of the benefits, which is backed up by some research, is reducing blood pressure and improving your mood. I have been feeling better in those areas since I started planking. I hadn’t really made the connection - but maybe the two things are related?
+
+While I don’t need to write this kind of thing down - it’s not as if it is of any interest to anyone else, not even my future self - focusing on it in the way that writing forces you to does seem to improve the quality of my thinking.
+
 #### **Optimal lunch?**
 
 Our blood sugar levels have a big impact on our mood and our effectiveness. Data indicates that judges handout stiffer sentences just before lunch. I doubt that they are aware that they are heading out harsher sentences as a result of glucose levels rather than misdemeanours.
