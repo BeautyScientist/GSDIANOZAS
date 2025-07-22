@@ -10,6 +10,13 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **How Can You Make Curiosity Work **
+
+I’m a very curious person. By which I mean I am very interested in finding out new things and the answers to questions. I might also be a curious person in the sense of being a little unusual - but I’ll leave that for now. I think a lot of the things that I have done that I am pleased about are basically down to curiosity. So in a sense my successes are a side effect of my just being interested in things.
+
+This feature has turned massively to my disadvantage in the age of automated distraction. I am sure we’ve all been knocked off course by intriguing titles in articles and videos.
+
+So I need to think about ways to use curiosity to my advantage.
 
 #### **Writing Is Better Than Scrolling**
 
