@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Making your environment work for you rather than against you **
+
+I’ve managed to get back into the habit of reading books quite successfully simply By leaving my phone outside my bedroom when I go to bed. That way I have nothing else to distract me and I can get to turning the pages. I can usually only manage 10 to 15 minutes when I go to bed, but half an hour every morning means I make meaningful progress on whatever time I happen today, be interested in at the time. I haven’t had to exercise any willpower in the matter, apart from giving up my electronic box where all my friends live.
+
+I’ve had a similar if less spectacular success with making sure I only have one task open in a window on my laptop when I’m at my desk I use a Mac which has a great feature that enables you to have multiple desktops that you can switch between by swiping your fingers across the touchpad. This makes it really easy to switch from one task to another and leave all the tabs intact for when you come back to it.
+
+I don’t think I’m that different to most people, I certainly hope not, and that I’m very easy to distracted by what I see. But if I can’t say something, it’s much easier to ignore it. This isn’t always a good thing of course. But when it’s working for you, it works very well. I’m gonna make it a mini project today to see if there are any other ways I can streamline my life to keep distractions out of my field of view.
+
 #### **How Can You Make Curiosity Work**
 
 I’m a very curious person. By which I mean I am very interested in finding out new things and the answers to questions. I might also be a curious person in the sense of being a little unusual - but I’ll leave that for now. I think a lot of the things that I have done that I am pleased about are basically down to curiosity. So in a sense my successes are a side effect of my just being interested in things.
