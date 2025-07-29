@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Running Away from distractions**
+
+I had some unavoidable disruption to my schedule last week which left me away from home. I thought it would be a good idea to try and catch up over the weekend. Rather than return straightaway,  I checked into a hotel for a couple of nights to get away from routine distractions and really focus on some work for awhile.
+
+And I think it did work in the sense of I got more done than I would have done had I not checked in. But the actual amount I got done was rather less than I’d hoped. So I’ve come away a bit disappointed.
+
+But I’ve learnt some things. For a start, distractions are everywhere and you need energy to resist them. I should have had a good rest before setting off. The other thing that affects your energy levels is the amount of processed and sugary food you eat. I would have done better if I'd packed some raw vegetables and fruit. There are just way too many temptations available from The hospitality industry. (But I did really enjoy that bacon burger.)
+
+It’s also important to remember that your perception of time is terrible. When you are highly focused, the time seems to flyby. So so you have the illusion of having got a great deal done in a short amount of time. When you've literally paid for the time you are using you are much more conscious of its passage. So when you spend half an hour looking up a relatively trivial fact you notice it in a way you wouldn't othewise.
+
+Overall, it was probably a net benefit getting away from my routine for a while. But it wasn't a panacea. Being better organised would have yielded better results.
+
 #### **Educational videos are still a distraction, even if they are educational**
 
 I’ve just spent a little over six minutes watching a YouTube video entitled something along the lines of how to stop consuming and start creating. Its thesis is pretty much that all the time you are watching stuff on YouTube, even if it is positive and educational, your brain is in a passive and receiving mode. So despite it feeling good that you are learning stuff it is still distracting you from getting stuff done. In fact it might be worse than an out right entertaining distraction because it feels good and gives you the illusion of progress.
