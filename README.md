@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **At least something has paid off**
+
+One of the strategies I use to get things done which are important but not urgent is to schedule a certain amount of time for them in my calendar and just do them without really thinking too much about it. For example I’ve been watching to create a database which enable my team to work much more efficiently and better together. It’s still a long way from being completed, and will require many hours of work before it starts to really pay off. But I’ve managed to put in about 60 hours already without really even noticing. There are many hours yet to come.
+
+That’s late last night. I put in a 30 minute session. I noticed that I’m now very nearly at the stage I can start sharing it with my team. This means it’s got to the point where it will start paying back the time invested in it.
+
+what I’m finding works really well with this approach is that it’s very low stress. The job pops up on my calendar. I put in a half an hour. At the end of that half hour, I put it all back into good order to pick up again . And then I forget about it. When a milestone like the one that was just been reached crops up it is a pleasant surprise. I think that it is also an efficient way of working. But the main benefit is the low stress approach.
+
 #### **Running Away from distractions**
 
 I had some unavoidable disruption to my schedule last week which left me away from home. I thought it would be a good idea to try and catch up over the weekend. Rather than return straightaway,  I checked into a hotel for a couple of nights to get away from routine distractions and really focus on some work for awhile.
