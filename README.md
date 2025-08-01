@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Just Get Started**
+
+Having a curious mind, I am very prone to getting into a cycle where something attracts my attention. This leads on to something else interesting. With the internet available almost everywhere, I can literally do this for hours. It’s daily wired into my brain and it takes huge willpower to overcome it.
+
+The thing is, this is a very helpful thing when I am working on something that I value. Going into the background on stuff and taking it back to first principles is one of the ways of doing great work. And I really enjoy it.
+
+The only answer is to get onto a useful track first thing in the morning. Just get started. Once the ship is moving in the right direction momentum becomes your friend.
+
 #### **At least something has paid off**
 
 One of the strategies I use to get things done which are important but not urgent is to schedule a certain amount of time for them in my calendar and just do them without really thinking too much about it. For example I’ve been watching to create a database which enable my team to work much more efficiently and better together. It’s still a long way from being completed, and will require many hours of work before it starts to really pay off. But I’ve managed to put in about 60 hours already without really even noticing. There are many hours yet to come.
