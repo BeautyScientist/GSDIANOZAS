@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Mind the Metrics**
+
+One of the marvels of the modern world is away you can get access to data and statistics in very close to real time. This is great news for decision-making and planning when you can get the information you need quickly and efficiently. But as always, there is a downside. I find data interesting, and I particularly like data which tells me how well I’m doing. For example, I check my pension fund status daily. This has no benefit whatever. It’s already fully paid up, and my checking it makes it no more valuable.
+
+I do this with lots of things. The worst example is I frequently check the statistics on people who visit my blog. The number is always low. And all the time I’m checking I’m not creating the kind of content which might increase the number.
+
+It is of course good to know information about how well you are doing. And metrics can be tremendously helpful in focusing your efforts in the right direction. But the aim should be to seek the information you need to achieve your goals. Don’t waste time on stuff where all you’re doing is patting yourself on the back, or wallowing in misery at the evidence of your failure to get where you want to be. 
+
 #### **Just Get Started**
 
 Having a curious mind, I am very prone to getting into a cycle where something attracts my attention. This leads on to something else interesting. With the internet available almost everywhere, I can literally do this for hours. It’s daily wired into my brain and it takes huge willpower to overcome it.
