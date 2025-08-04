@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Writing is harder than reading**
+
+I’m very easily distracted by anything that looks interesting. Current affairs is a big thing, because by definition it’s information you don’t have yet. But I will just as happily follow-up a scientific concept I haven’t come across before, and obscure bit of history or even just something I remember and I want to check up if my memory is correct. “Oh look, a squirrel.”
+
+To overcome this I’ve tried to make a rule that I will write up everything that I read. So for example, I was intrigued by a YouTube video last Friday evening. So I required myself to write an account of what I learnt. This certainly worked in as far as I didn’t get distracted by anything else over the weekend. But I did find that writing what should have been some quick notes itself turned into a distraction all of its own. I didn’t keep track of it, but it must have taken at least three hours.
+
+I was actually quite pleased with the result, and I will put it on my blog. The exercise of turning thoughts into something that can be read, is quite a good one. Although I don’t think this blog will ever be of any value to me, or anyone else, The skill I practised in doing it is a useful one to have.
+
+But I shouldn’t fool myself. There were still better ways I could’ve been using my time. Three hours of writing is better than three hours watching YouTube videos. But it’s not as good as three hours solid achievement.
+
+The other thing I learnt was that writing is really a lot harder than reading. If I am going to do it, I should choose wisely what I’m going to do it about.
+
+
 #### **Mind the Metrics**
 
 One of the marvels of the modern world is away you can get access to data and statistics in very close to real time. This is great news for decision-making and planning when you can get the information you need quickly and efficiently. But as always, there is a downside. I find data interesting, and I particularly like data which tells me how well I’m doing. For example, I check my pension fund status daily. This has no benefit whatever. It’s already fully paid up, and my checking it makes it no more valuable.
