@@ -10,6 +10,22 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+“Obedience isn't virtue if it overrides conscience. This quote nails the difference: dogma obeys orders; wisdom does what’s right. True morality isn’t about being told—it’s about knowing and choosing. Be guided by reason, not just rules.”
+
+#### **A good night’s sleep is the key.**
+
+Important as goals, strategies and procedures are, there’s no doubt that The best way to get stuff done is to have plenty of energy. And the single factor which seems to affect that most, at least in my case, is getting a good night’s sleep.
+
+This morning is acase in point. I start my active day every day with 10 minutes writing. That’s what I’m doing right now. But having had a good night, I am well ahead of myself getting this 10 minute habit done.
+
+So what are the factors that govern whether or not I sleep well? It’s not easy to tease them out. But one absolute necessity is getting to bed early. I am terrible at this. My ideal is to be snuggled up to my pillow with a Trollope by 10 o’clock. I hardly ever manage this.
+
+I get off to sleep much more quickly if I read a book then if I scroll my phone. I have known this for years. But by that time of night, I am weak. I can’t see anyway around this apart from trying to develop some more willpower.
+
+The other thing that is under my control and seems to have an effect is how much I eat in the hours before bed. Big heavy meals and alcohol get me off to sleep initially, only to wake up in the middle of the night and stay awake sometimes for hours.
+
+I will keep these under observation and see how I can improve things.
+
 #### **Writing is harder than reading**
 
 I’m very easily distracted by anything that looks interesting. Current affairs is a big thing, because by definition it’s information you don’t have yet. But I will just as happily follow-up a scientific concept I haven’t come across before, and obscure bit of history or even just something I remember and I want to check up if my memory is correct. “Oh look, a squirrel.”
