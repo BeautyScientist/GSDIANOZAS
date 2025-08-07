@@ -12,6 +12,16 @@ I started off this investigation by simply seeing if I could write something wor
 
 “Obedience isn't virtue if it overrides conscience. This quote nails the difference: dogma obeys orders; wisdom does what’s right. True morality isn’t about being told—it’s about knowing and choosing. Be guided by reason, not just rules.”
 
+#### **The biggest distraction of all**
+
+Although my biggest battle in the war on distraction is beating things like the Internet, the media and interesting but unproductive projects, it’s also the biggest distraction of all.
+
+
+The thing that attracts most of our attention is ourselves. Everybody has an ego. And everybody’s ego needs feeding. So we need to spend some time reflecting on ourselves and how we’re doing. But boy, oh boy, do I overdo it. I spend way too much time Telling other people about my achievements, my opinions and my plans. The data indicates that this is more of a problem formen than women. But it is hardly something that women are immune to.
+
+
+Talking over other people, ignoring what they have to say and not probing what they think are all bad things themselves of course. But they’re also very unproductive ways of using your time. I’m very guilty of all this. As it happens, today is a day where I will be having more interactions with other people than usual. I will monitor How badly I handle these in interactions and see how I get on.
+
 #### **A good night’s sleep is the key.**
 
 Important as goals, strategies and procedures are, there’s no doubt that The best way to get stuff done is to have plenty of energy. And the single factor which seems to affect that most, at least in my case, is getting a good night’s sleep.
