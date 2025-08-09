@@ -12,6 +12,16 @@ I started off this investigation by simply seeing if I could write something wor
 
 “Obedience isn't virtue if it overrides conscience. This quote nails the difference: dogma obeys orders; wisdom does what’s right. True morality isn’t about being told—it’s about knowing and choosing. Be guided by reason, not just rules.”
 
+#### **Constraints are a good thing**
+
+One of the reasons my habit of writing articles every other day works so well is that I am reasonably strict about the constraint I’ve placed on myself that they can only take 10 minutes. This means that I don’t have any inhibitions about starting them because I know they’ll be done in 10 minutes. It also means that whilst I’m working on them, I know I’ve got to deliver before the alarm on my watch goes off.
+
+The counter example is watching YouTube videos. Especially since they’ve introduced shorts, it’s so easy just to start watching something to see if it’s as interesting as the title suggests. (It isn’t.) What started off as a quick diversion between Tasks turn into an hour or sometimes two hour long mish mash. Basically, a constraint means you get stuff done. No constraint means you fiddle around.
+
+I suppose the ultimate constraint is that we will have a finite lifespan. So we really ought to be focusing on the stuff we really want to get done all the stuff that just happens to cross our line of sight.
+
+So to take this to its ultimate conclusion, the most productive thing I can do is set a length of time to work on one’s priorities. That’s something that I don’t do. I should think about starting.
+
 #### **The biggest distraction of all**
 
 Although my biggest battle in the war on distraction is beating things like the Internet, the media and interesting but unproductive projects, it’s also the biggest distraction of all.
