@@ -10,7 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
-“Obedience isn't virtue if it overrides conscience. This quote nails the difference: dogma obeys orders; wisdom does what’s right. True morality isn’t about being told—it’s about knowing and choosing. Be guided by reason, not just rules.”
+#### **Break things down into bite sized chunks**
+
+I had a good example of the power of chunking this morning. I made the mistake of having my phone within reach when I woke up. Of course there’s no harm in having a quick look at what is going on. It only takes a couple of minutes to check the news. Some 20 couple of minutes later the first hour of the day had vanished.
+
+But the good news is that the work I had planned to start was itself quite well organised. I had a list to work through. Each item on the list was less than 10 minutes in duration. Once I started checking things off, it all started to flow quite nicely.
+
+It really is the view to exaggerate the benefits of breaking any task down into manageable chunks. When you think about it, that’s the only way of doing it. But the trick is to do the chunking first not while you’re actually working.
+
+This is all very clear because over the previous couple of days I had been literally doing that. I have a big project that I want to involve my team in. So I worked out a Kanban system to take us through the next couple of years. Once completed, it was actually a great beauty in its own right.
 
 #### **Constraints are a good thing**
 
