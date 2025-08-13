@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **Hacking Snacking**
+
+This may not be a common experience, but it will resonate with you if you have had it. Imagine you’re a freelancer, and you get unexpected bill one morning. This throws your finances for the month. But you get the same amount of money unexpectedly from another source in the afternoon. You finished the day feeling happy. But if you receive the payment in the morning and the bill in the afternoon you end the day feeling miserable.
+
+It doesn’t make sense mathematically, but it does make sense emotionally.
+
+I have a similar issue with snacks. A nice tasty snack after you achieve something feels great. Raiding the fridge all morning and most of the afternoon and finally getting down to some work as the sun begins to fall makes what you achieve in the evening somehow tainted.
+
+I think they’re probably some factors involved about blood sugar levels and motivation that on paper might be quite important. but the reality is that keeping strictly to no snack until you’ve got something done is the route to happiness.
+
 #### **Break things down into bite sized chunks**
 
 I had a good example of the power of chunking this morning. I made the mistake of having my phone within reach when I woke up. Of course there’s no harm in having a quick look at what is going on. It only takes a couple of minutes to check the news. Some 20 couple of minutes later the first hour of the day had vanished.
