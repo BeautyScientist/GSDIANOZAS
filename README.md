@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **A Distraction Free Day**
+
+I have an ambitious plan for today. I intend to do nothing but work for eight solid hours. It’s so happens that I have nobody else in the office. I have no calls scheduled.
+
+And although I have a large backlog, it is quite well organised. So I have a very clear idea of what I need to do. On top of this, I know very well I’m not going to get much done next week.
+
+So what do I need to do to make sure my pain works? Mainland will be avoiding snacks, and any kind of break, which might be difficult to get out of. So when I stop, I will stand and reflect rather than pick up something to read or open something online. And I’ll have a bit of paper, keeping track of my progress as a motivator. And I have a vision of getting to the end of this I’ll be able to do whatever I feel like.
+
+Let’s see how it goes.
+
+
 #### **Hacking Snacking**
 
 This may not be a common experience, but it will resonate with you if you have had it. Imagine you’re a freelancer, and you get unexpected bill one morning. This throws your finances for the month. But you get the same amount of money unexpectedly from another source in the afternoon. You finished the day feeling happy. But if you receive the payment in the morning and the bill in the afternoon you end the day feeling miserable.
