@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
 
+#### **A productive five minute fiddle about**
+
+The thing I have most trouble with is prioritisation. It is the most important thing any of us do. What we choose to spend our time on basically defines how we live. So making sure those choices align with how we want to live it’s pretty much the determining factor as to how good a life we have. I remember John Lennon’s quote that “life is what happens while you’re making other plans“. It’s hard to imagine anybody more successful than Lennon, but he obviously felt he should’ve done something different.
+
+My problem is that whenever I sit down and try and prioritise, I find it really hard to focus on the prioritisation bit and by myself just working on stuff I think about was prioritising. I’ve never really found a solution to this.
+
+But I have found is a hack that seems to be working. I’ve been doing prioritising in odd 2 to 5 minute blocks of time when I would otherwise have been watching the television or scrolling through stuff online. I’ve been trying to do this for years, but my recent breakthrough is using Trello. I’ve got a priority list on there that is basically a list of links to other documents. I can move Projects up and down the list or follow the link to have a look at the details of something I’m working on and then come straight back.
+
+It’s probably not the most efficient way of prioritising. But it does mean I can do it without having to focus particularly on prioritisation. It seems to be working.
+
+
 #### **A Distraction Free Day**
 
 I have an ambitious plan for today. I intend to do nothing but work for eight solid hours. It’s so happens that I have nobody else in the office. I have no calls scheduled.
