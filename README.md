@@ -8,7 +8,17 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
-I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text 
+I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
+
+#### **Holiday Time**
+
+I’m on a short holiday today and I have booked into a hotel on the south coast not from where I grew up. I have had a bracing walk on the seafront and I am enjoying a cup of tea. I have declared a brief truce in my war on disstraction, but I still want to get the most out of the time I am using and I certainly don’t want to upset my run on writing this book. 
+
+Hotels are the best things for letting you get on with what you want to do rather than what you have to do. Nearly everything is laid on for you. You don’t need to prepare any meals or clear up after them and people appear to refill your minibar and make your bed. I am taking advantage of it to read and write.
+
+The interesting thing is that I feel very comfortable keeping my time management practices in place for having fun just as much as getting things done. So I am keeping up the pomodoro technique for reading stuff and writing the things I am writing for fun. I don’t really distinguish between work and fun in fact. I don’t go as far as Noel Cowerd who used to say that work was more fun than fun. But I don’t get any pleasure out of a low level of activity. Basically focusing on something, if you can manage it, is more enjoyable than just letting things slide by. 
+
+So let’s get back to that detective story and see how quickly I can solve the intriguing problem the author has set me.
 
 #### **A productive five minute fiddle about**
 
