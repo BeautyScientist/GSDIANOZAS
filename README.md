@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Energy levels really matter**
+
+I had a very poor day productivity speaking yesterday. It was my first day back from holiday. My energy levels were at rock bottom. I just about managed to get the most urgent stuff done. In retrospect, I should probably have gone straight to bed after that. Instead I spent a lot of time watching YouTube videos. They weren’t even particularly interesting ones.
+
+The basic problem was, I had no energy. I think the main reason for this was that I had eaten a huge amount over my holiday. As is often the case, it’s made me very peckish. So I spent today snacking rather more than is good for me.
+
+My head is much clearer this morning and I think what I need to do is have a total fast. I need to get my blood sugar levels back under the control. I actually knew that yesterday. But willpower takes energy as well.
+
 #### **Holiday Time**
 
 I’m on a short holiday today and I have booked into a hotel on the south coast not from where I grew up. I have had a bracing walk on the seafront and I am enjoying a cup of tea. I have declared a brief truce in my war on disstraction, but I still want to get the most out of the time I am using and I certainly don’t want to upset my run on writing this book. 
