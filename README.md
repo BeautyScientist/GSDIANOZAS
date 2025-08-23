@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Scarcity**
+
+One of the reasons I have been able to successfully keep up this habit of updating this record of my struggle against distraction is that I am very strict about sticking to my 10 minute rule. I have 10, and only 10 minutes available and I publish whatever I’ve come up with in that time. The discipline works really well.
+
+I had a theoretically distraction free day yesterday which on paper gave me many hours to achieve things I want to get done. But somehow I managed to fritter away a large chunk of it. by contrast, earlier in the week I had some busy days but still managed to squeeze in some productive sessions.
+
+I suppose one solution would be to deliberately schedule lots of stuff to squeeze the available time down. This actually is very tempting. But what I really crave is uninterrupted time where I can focus on things that can’t be done quickly.
+
+As it happens, I have another free day today. I think I will simply set myself the challenge of how many contiguous blocks of 25 minutes focus I can manage without a break. I have got something of a personal best to beat here. I have on several occasions Managed six such sessions so if I just get to 7 I can treat that as an achievement.
+
+And just to be clear, I’m only allowed breaks of the most physiologically urgent variety. No snacks. No quick checks of the news. Not even glances out of the window. Let’s see how it goes.
+
 #### **Energy levels really matter**
 
 I had a very poor day productivity speaking yesterday. It was my first day back from holiday. My energy levels were at rock bottom. I just about managed to get the most urgent stuff done. In retrospect, I should probably have gone straight to bed after that. Instead I spent a lot of time watching YouTube videos. They weren’t even particularly interesting ones.
