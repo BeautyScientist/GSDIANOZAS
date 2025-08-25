@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Is dopamine the key?**
+
+
+I was Scrolling through YouTube this morning, as a way of avoiding doing some hard work. Almost the first video that the algorithm offered me was one entitled “how to stop scrawling on YouTube and get some hard work done”. It seems like the video that I should be watching.
+
+I actually only watch the first half of it. It was 30 minutes long, and the main message was that you shouldn’t spend time on that kind of activity. I will go back to it though, because it looks all interesting. The thesis behind the video Was that rather than managing attention or energy levels, as I’ve been trying to do, we should instead focus on dopamine.
+
+I’ve heard people talking about dopamine before. As an actual scientist, I’m very sceptical of ideas that are based on looking at studies in neuroscience and inferring from them that a particular neurotransmitter controls everything. Real biology is way more complicated than that. But having said that, the story he was telling did seem to chime in with what I either believe, or no to be the case about how to get things done. In particular, the way that once you start scrolling, you seem to end up doing more and more of it. And when you finally finish, you feel strangely unsatisfied.
+
+So I’m going to go back And finish off the video, and maybe rewatch it a few times and make some notes. If nothing else, the fact that it was a video that I was able to turn off, means I got working on this article earlier than I might have done. So I’m already winning.
+
 #### **Scarcity**
 
 One of the reasons I have been able to successfully keep up this habit of updating this record of my struggle against distraction is that I am very strict about sticking to my 10 minute rule. I have 10, and only 10 minutes available and I publish whatever I’ve come up with in that time. The discipline works really well.
