@@ -10,6 +10,23 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+
+#### **An interesting experiment**
+
+I saw an interesting video few days ago, which had some ideas I thought might be worth trying. 
+
+There was quite a lot of theory around it, but the recommendation was very simple. Your brain is most alert when you first get up. This can be enhanced a little bit further By exposure to light and fasting. It’s also good to get a decent nights sleep the night before , and to avoid doing anything taxing in the evenings.
+
+This sounded like a practical program to try out. So that’s what I did yesterday. I must say it was interesting. My first observation is that not snacking has some surprising effects. I hadn’t noticed it before, but I tend to consume social media at the same time as I consume cakes and things like that. So turned out that my snack fast also turned into a social media fast. this was rather more beneficial than I expected, because in between snacks I wasn’t thinking about stuff I’ve seen online and was able to focus more on the job in hand.
+
+The recommendation was to be in bed with a book, no other distractions, by 9 pm. I found I couldn’t quite manage that.
+
+Also rather disappointingly it wasn’t a tremendously productive day. I had a lot of unavoidable interruptions and although my energy levels were above average, it didn’t really translate into solid concentration. but I have to say it was quite enjoyable.
+
+I did wonder if skipping lunch would mean that I wouldn’t have my normal mid afternoon crash. That didn’t really turn out to be the case. I still slowed down. But I have a feeling that if I were to keep this up for sometime my bodies systems would adjust.
+
+So overall, it was quite an interesting experiment. I’m going to keep it going and see how it turns out.
+
 #### **Is dopamine the key?**
 
 
