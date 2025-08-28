@@ -10,6 +10,13 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **An interesting experiment day three**
+
+So I’ve just finished my third day of not snacking, or even lunching. I have been surprised how easy it is to keep to. Basically, if you don’t start eating, you don’t particularly feel the need to eat. This doesn’t make any sense. I wonder if this is something thing to do with my age. Maybe I would not have been able to cope with it When I was younger. But having said that, I almost never skipped breakfast. So maybe I never had a chance to find out. The other surprising side-effect which is proving to be consistent is that I don’t feel like distracting myself with social media if I don’t snack.
+
+So all in all, it’s been pretty good. I haven’t noticed any effect on my weight yet. But there aren’t many diets you notice the changing in three days anyway. And that wasn’t in any case my motivation. What I have found is that although my energy levels are higher and I get more done, I still get distracted by low value jobs and things that just interesting. So it isn’t a panacea. I still need to work on my willpower and organisation. But overall it has been a remarkably good initiative. I am going to try and keep it going over the weekend as well. This will probably be easy on Saturday. Maybe not so much on Sunday.
+
+The other problem I have that it hasn’t solved is my uneven sleeping pattern. I wonder if he earlier in the evening might help there?
 
 #### **An interesting experiment**
 
