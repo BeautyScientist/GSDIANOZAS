@@ -10,6 +10,23 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Interesting stuff is really distracting**
+
+Probably unwisely, I do a bit of amateur coding. I use it for some tasks that I need to do which aren’t covered by commercially available software. One bit that I use quite a lot only runs on windows XP. I’m working on replacing it but it is currently vital to my business. The one laptop I had that ran it broke down.
+
+This was a significant problem. I need it for several current projects that client had already paid for.
+
+In desperation, I tried it using Linux not even older laptop that I had lying around. It worked! The say was saved.
+
+If only I could’ve left it there.
+
+I wondered if another old computer could be resurrected. Yes indeed it could. So I now have two surprisingly efficient extra computers. Did I stop there and get back to proper work? I’m afraid not. I was also intrigued if I could run Linux on my main laptop that I do most I work on in parallel with its existing operating system. Drew a blank on this one. Four hours later.
+
+It also turns out that Linux is catnip to my brain. There are so many things you can do with it. I only scratch the surface in a pretty much full day of googling, GPTing, and experimenting.
+
+The positive way of looking at this is that I would not have had the skills to solve my problem without decades of wasting time on stuff that isn’t really that key to anything in particular. But another way of looking at it is that my insatiable curiosity cost me Around two days. And I would’ve enjoyed playing with Linux much more if I had had the willpower to shunt it back to my leisure time rather than my work time.
+
+
 #### **An interesting experiment day three**
 
 So I’ve just finished my third day of not snacking, or even lunching. I have been surprised how easy it is to keep to. Basically, if you don’t start eating, you don’t particularly feel the need to eat. This doesn’t make any sense. I wonder if this is something thing to do with my age. Maybe I would not have been able to cope with it When I was younger. But having said that, I almost never skipped breakfast. So maybe I never had a chance to find out. The other surprising side-effect which is proving to be consistent is that I don’t feel like distracting myself with social media if I don’t snack.
