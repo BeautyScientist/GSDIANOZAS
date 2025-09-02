@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Bedtember**
+
+I had a great weekend, but unfortunately it played havoc with my sleep patterns. This meant I started the week completely exhausted. As a result, I had a very unproductive Monday. I just about had the wits to decide that as Monday was the first day of September I was going to resolve to get to bed by 9 pm every day of the month.
+
+I didn’t actually succeed with my resolution on the first day. But I did get between the sheets earlier than I often do and mercifully fell in a deep sleep almost immediately. It is amazing the difference a good nights sleep makes. I am already feeling better and have solved a knotty problem that alluded me for hours yesterday.
+
+I have come to the conclusion that the single most important thing to do not just for avoiding distraction but just for enjoying life is to sleep properly. This does seem to be something that isn’t entirely under our control. But that doesn’t mean to say that there’s nothing you can do about it.
+
+One thing I see advised is to not take your phone to bed. This is generally good advice. It’s way easier to doze off whilst reading an e-book or a physical book than it is a fascinating YouTube video. The only caveat to that is that if you do wake up in the middle of the night it can be easier to find something soothing to get you back off to sleep online. So I keep it nearby, just not completely within reach.
+
+I’m going to be on the lookout for other strategies for improving my sleep.
+
+
 #### **Interesting stuff is really distracting**
 
 Probably unwisely, I do a bit of amateur coding. I use it for some tasks that I need to do which aren’t covered by commercially available software. One bit that I use quite a lot only runs on windows XP. I’m working on replacing it but it is currently vital to my business. The one laptop I had that ran it broke down.
