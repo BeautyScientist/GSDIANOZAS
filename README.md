@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **A distraction free laptop?**
+
+I’ve recently had to deal with a problem that some legacy software that I use no longer runs on the most up-to-date computers. My solution had been to run it on an out of computer. But my out of date computer broke down irreparably.
+
+I managed to solve this problem by resorting to using Linux on an even more out of date computer. I was quietly quite pleased with my resourcefulness. But my genius for finding ways to distract myself kicked in as well. I spent way more time sorting out the details than was strictly necessary.
+
+But it did give me an idea. I discovered that Linux is a very flexible platform. And it opens up a way of possibly solving the biggest problem with laptops, which is that they are absolutely loaded with distractions. Would it be possible to create a distraction free laptop which only had the capability to write stuff on, and which didn’t do anything else.
+
+I have a feeling that it is. The strategy would be to install all the tools and resources you need to write. And having done so, ruthlessly delete all the other capabilities.
+
+Well, I think it is possible. But I also think inevitably if I started on such a project, I would waste way more time on it than it deserved.
+
+
 #### **Bedtember**
 
 I had a great weekend, but unfortunately it played havoc with my sleep patterns. This meant I started the week completely exhausted. As a result, I had a very unproductive Monday. I just about had the wits to decide that as Monday was the first day of September I was going to resolve to get to bed by 9 pm every day of the month.
