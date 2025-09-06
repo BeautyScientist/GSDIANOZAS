@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **400 Year Old Learning Trick**
+
+I was procrstinating the other day and came across a Youtube video offering the best tool for improving your ability to learn. I would normally have ignored such obvious hyperbole. But two things retained my attention. The first was that it was by a Youtuber who I have watched before who normally makes good points. He also said it was over 400 years old - which intrigued me.
+
+I can always be seduced away from productive work on the off-chance of a minor productivity gain. So I gave it a spin. 
+
+The trick apparently was to write an essay - a form that was pioneered by Montaigne over 400 years ago. Aside from the obvious clickbaitery, it was a good point. In effect these articles that I write are mini-essays in overcoming distraction. And they work.
+
 #### **A distraction free laptop?**
 
 I’ve recently had to deal with a problem that some legacy software that I use no longer runs on the most up-to-date computers. My solution had been to run it on an out of computer. But my out of date computer broke down irreparably.
