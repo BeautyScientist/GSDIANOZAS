@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Manage Attention Not Time**
+
+If you think in terms of attention management rather than time management, you get very different ideas of what you should do with your time. I started this morning, very unwisely, checking the news via YouTube. This led me to spend 10 minutes watching a report of an interesting and significant event. I was just waking up and that was a reasonable use of the ten minutes between being asleep and being fully awake.
+
+But of course a news story can be thought provoking and my thoughts were duly provoked. I switched to starting on my dayś work. But the news story kept resonating. I managed to avoid the temptation to go back to it, but it was still distracting. I had intended to play a few minutes of Freecell. This is objectively a less valuable thing to do. But I am not going to spend the next couple of hours obsessing over my long term Freecell strategy nor hurrumphing with indignation at the way the game is set up.
+
+We all need breaks, but it is well to plan to do something that isn´t too distracting during those breaks. The visit to YouTube didn´t just trigger my outrage about the gross injustices in the world that for some reason I can´t prevent myself thinking through the options for putting them right. It also tempted me with a potential improvement to my computer setup and teased me with some intriguingly titled short videos.
+
+Those short videos, particularly ones with names that ask a question to which I would like to know the answer, really are catnip to my easily distracted chipmunk of a brain. I am tempted to spend some time seeing if I can disable them. (See how this works?)
+
 #### **400 Year Old Learning Trick**
 
 I was procrstinating the other day and came across a Youtube video offering the best tool for improving your ability to learn. I would normally have ignored such obvious hyperbole. But two things retained my attention. The first was that it was by a Youtuber who I have watched before who normally makes good points. He also said it was over 400 years old - which intrigued me.
