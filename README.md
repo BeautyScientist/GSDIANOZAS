@@ -10,6 +10,20 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Coping with a crisis**
+
+I had a whole load of involuntary distractions yesterday. An illness in a family member required me to do a pile of driving that was totally unplanned and distracted my attention from what I wanted to be working on.
+
+It would have been easy enough to write this off to the inevitable chances of life that can’t be avoided. And the actual time I had to spend coping with the problems obviously was something that couldn’t be avoided. But it’s in the nature of medical emergencies that you have lots of time where you are simply waiting around. I resolved to try and claw back as much of the day as I could.
+
+I am just reviewing how well I did. I set an unrealistic goal to begin with. My aim was to get as much done despite the disruption as I could and to end the day with as much done as I would have done had it been a normal day. I didn’t manage to do that - but I think sometimes an unachievable goal is better than no goal at all. I did manage to get some urgent things out of the way before the first car journey - but that was the most stressful point of the day. It turns out that working when stressed is very inefficient. The message there is take steps to mitigate stress. The other thing I got wrong was eating unwisely. This disrupted my energy levels.
+
+But I did manage to get some routine work out of the way in the afternoon. My assumption had been that I could get as much done in an hour wherever I was. It turned out that you can’t - unfamiliar surroundings have obvious problems like you don’t know where the plugs are and you aren’t as comfortable as normal. But the strangeness of the surroundings also creates a distraction. I achieved about 60% of what I hoped. Not great, but not nothing.
+
+But I did discover that car journeys don’t have to be complete wastes of time. It turns out that you can turn on voice memos handless via Siri. So was able to record stuff while driving. 
+
+I also felt more in control and more able to cope with the crisis. So not a great day, but one with some compensations.
+
 #### **Manage Attention Not Time**
 
 If you think in terms of attention management rather than time management, you get very different ideas of what you should do with your time. I started this morning, very unwisely, checking the news via YouTube. This led me to spend 10 minutes watching a report of an interesting and significant event. I was just waking up and that was a reasonable use of the ten minutes between being asleep and being fully awake.
