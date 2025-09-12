@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Jujitsu time management**
+
+
+There is one of those rolling news stories that grabs the attention running right now. It’s already cost me at least 30 minutes this morning and it’s not even 9 o’clock yet. I am very prone to this kind of thing. The importance of the story is not particularly great. But he’s one of those things where new details keep emerging and the temptation to hit the refresh button on the news page to catch up with the latest is a very strong one.
+
+I am going to try the jujitsu technique of using my enemies strengths to my own advantage on this one. So rather than try and ignore it, I’m going to relish it. so today I am going on a media fast until 7 pm when my favourite news broadcast is scheduled. It’s a bit like not eating before a nice meal. So I’m gonna have to avoid blue sky, YouTube and the normal news websites. In this way, I get both an uninterrupted day to focus on my real goals and something to look forward to.
+
+Let’s see how this plan pans out.
+
+
 #### **Coping with a crisis**
 
 I had a whole load of involuntary distractions yesterday. An illness in a family member required me to do a pile of driving that was totally unplanned and distracted my attention from what I wanted to be working on.
