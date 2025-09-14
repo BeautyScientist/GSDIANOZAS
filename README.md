@@ -10,6 +10,22 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Does dopamine hit you on the way down as well as the way up?**
+
+
+I don’t really have a set pattern of working. I try and adopt the way the works best for the situation and the mood I am in. But the closest I’ve got to a default is the classic Pomodoro technique. This recommends a 25 minute working session and a five minute break. I find this generally works pretty well. There aren’t many things that you can’t make a decent bit of progress on in 25 minutes of concentrated effort. The thing always lets me down though is that I am sometimes reluctant to get back after the five minute break.
+
+I’ve always put that down to my lack of willpower and general poor character. But I came across a YouTube video yesterday which had an alternative suggestion. A dopamine spike caused by a session of social media say, is followed by a dopamine dip. So you don’t go back to your baseline dopamine level you drop below it. And this is what makes returning to work and appealing. You need a bigger hit.
+
+I can’t vouch for the biochemistry. It doesn’t sound totally unbelievable. But equally, it does sound rather hard to demonstrate in an experiment.
+
+ But it did seem to resonate with my experience. it would certainly explain why I have a very bad track record of just getting a couple of hours done on a Sunday. Sunday is the day I catch up on the news. Whilst this is a good practice – I like to be informed – it isn’t worth a whole day. but I have been times when most of Sunday has vanished into researching details of the latest news story.
+
+As an experiment I tried skipping the five minute breaks on a Pomodoro session this Sunday morning. I have to say, it worked pretty well. I got more work done before nine and I often get done over the whole weekend. 
+
+I’ll try it out a bit more in the coming week.
+
+
 #### **Jujitsu time management**
 
 
