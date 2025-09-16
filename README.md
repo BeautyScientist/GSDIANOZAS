@@ -10,6 +10,21 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Getting a good night’s sleep**
+
+
+Over the last week I have had some very bad nights from the point of view of getting any sleep, and some very good ones. Thinking through the kind of days I’ve had confirms what I’ve long suspected. The biggest single factor in how well a day goes is how well I have slept the night before. If anything, I haven’t realised quite how big a factor it is.
+
+So having made the rare discovery of something that I am almost 100% sure of, the obvious question arises of how I can make sure I have the best night sleep that is available on any given night. This is a much tougher question that it sounds like when you first pose it.
+
+I think there is one thing that is beyond doubt. Actually getting into bed is important. I’ve found that my level of willpower is at his weakest in the evening. so distractions such as interesting YouTube videos, television programs and discussions on social media are at their most potent at this point.
+
+I don’t know what I can do about that. But at least I can be aware of it.
+
+If I can get to bed early, I can still fritter away this advantage by getting absorbed in my phone or laptop. So I need to keep them in another room. The thing that sends me off to sleep most effectively is listening to an audiobook. But reading a physical book is pretty good too. Both of those are activities I would like to do more of.
+
+It all sounds very easy written down, doesn’t it.
+
 #### **Does dopamine hit you on the way down as well as the way up?**
 
 
