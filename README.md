@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Why I welcome AI slop on YouTube**
+
+My biggest problem with attention management is that I’ve basically been operating with the brain of a squirrel. I have a very low threshold for finding something so fascinating that I give it my entire attention. The objects of my attention rarely turn out to merit it. For many years my attention catnip has been YouTube. The algorithm of the site has learned very well how to grab me.
+
+But something has been happening recently, which has helped me a lot. YouTube is now full of AI slop. Presumably part of this process involves gaming the names of the videos to make them alluring to idiots like me. This has had the effect of making me much more suspicious before I click on something. And that Short moment of thought before taking action is turning out to give me a much better chance of escaping back into the real world of things I really need to find out about.
+
+I wondered if there was a way of automatically inserting a delay. It turns out somebody has already thought of this. There is an app available that does exactly that. But I don’t think I will be taking advantage of it. I think building self discipline is a better approach, and the new shortcomings of YouTube make that much easier.
+
+
 #### **Getting a good night’s sleep**
 
 
