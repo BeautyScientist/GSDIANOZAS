@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **What’s the ideal length for a Pomodoro session?**
+
+The recommended length of time for a Pomodoro session is 25 minutes. I find this un appealing as a length of time from the point of view of getting lots of different things done. If you’ve got three hours clear that gives you six different things you can work on. That doesn’t seem to be enough to me. Also, committing to 25 minutes is quite difficult. It’s enough for me to be resistant to it. 10 minute sessions on the other hand, well I can always find 10 minutes. And spreading 10 minute sessions over a whole day means I can cover lots of different projects. 
+
+That’s exactly what I did yesterday. I had a fairly clear day. So I resolved to make use of it By a general advance across the whole front.
+
+Well, it didn’t really work. Although starting a 10 minute session is easier than starting a 25 minute one, you still do have to get out of one frame of mind into another. You don’t notice it in the instance, but over a day it melts up. I found myself completely exhausted by the end of it. On top of that, although intellectually I know I did make some good progress it just didn’t feel like it.
+
+I have to say that I keep trying experiments to get away from the 25 minute Pomodoro. But every time I do, I nearly was conclude I would’ve been better off sticking with the 25 minute prescription.
+
 #### **Why I welcome AI slop on YouTube**
 
 My biggest problem with attention management is that I’ve basically been operating with the brain of a squirrel. I have a very low threshold for finding something so fascinating that I give it my entire attention. The objects of my attention rarely turn out to merit it. For many years my attention catnip has been YouTube. The algorithm of the site has learned very well how to grab me.
