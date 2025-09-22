@@ -10,6 +10,20 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### ** In the future, the ability to speak will be more important than the ability to write**
+
+In the future, the ability to speak will be more important than the ability to write
+
+In my life so far, I have always prioritised my writing skills over my speaking skills. It was logical. Communication was done via books notes letters and later emails. You passed exams by sitting for an hour looking hopefully at a sheet of paper. The more of it you could fill the better you did.
+
+But I am beginning to realise that the world is changing. Last night I got out my phone more or less on a whim. I then composed a brief note to myself about adopting a new personal philosophy. I was able to generate much more quickly than I would’ve been able to write it. And the finished article was completely free of spelling and grammatical errors.
+
+It’s not something I particularly want to communicate to anybody else. But it is something I might want to refer back to. So having a written transcript is helpful. I’m sure artificial intelligence will solve this Monday, maybe soon, but at the moment text search is still the king of retrieving information. But if that text can be generated more efficiently in the first place by dictating rather than writing on paper or keyboard, then I think the advantage lies with the people able to articulate vocally rather than on paper.
+
+The other advantage of dictating over writing is the one that is currently most attracting me. It’s much easier to concentrate on what you’re working on when you are talking into a microphone than when you are typing at a keyboard.
+
+I think with a bit of practice I can improve my writing speed by dictation to the extent that I can produce documents more quickly whilst going for a walk – which is my most effective way of avoiding distraction.
+
 #### **What’s the ideal length for a Pomodoro session?**
 
 The recommended length of time for a Pomodoro session is 25 minutes. I find this un appealing as a length of time from the point of view of getting lots of different things done. If you’ve got three hours clear that gives you six different things you can work on. That doesn’t seem to be enough to me. Also, committing to 25 minutes is quite difficult. It’s enough for me to be resistant to it. 10 minute sessions on the other hand, well I can always find 10 minutes. And spreading 10 minute sessions over a whole day means I can cover lots of different projects. 
