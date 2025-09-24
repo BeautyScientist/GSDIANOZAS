@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **I need to shop on my pencil**
+
+I watched a YouTube video yesterday which made the point that if you want to learn something the best way to do so is to take notes on it. It was specifically talking about reading books in the context of passing examinations. But of course nowadays books are far from the only source of knowledge. So why not extend the same concept to YouTube videos?
+
+I like this idea because I enjoy writing. But given the large number of alternative ways of creating written text nowadays I have found that it is something I have done less and less of. But it does have a lot of advantages. For a start a sheet of paper does not generally come with a load of adverts and links to other interesting things to distract you. You’re also almost forced to engage more with what you’re doing because you have to use your brain to control your fingers, turn the page and generally do something a lot more active than simply watching.
+
+I didn’t actually take notes during that video. That would’ve been rather meta. But I did take notes on my thoughts about it afterwards. And I then used those notes to type out a review.
+
+It seems to me that this is a good way of bringing some control to my YouTube addiction. If I make it a rule that I have to review every video I watch that will be a great way of making sure I only spend time on ones that are actually worth the effort.
+
+I might even learn something.
+
+
 #### **In the future, the ability to speak will be more important than the ability to write**
 
 In the future, the ability to speak will be more important than the ability to write
