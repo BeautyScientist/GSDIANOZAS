@@ -10,7 +10,7 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
-#### **I need to shop on my pencil**
+#### **I need to sharpen my pencil**
 
 I watched a YouTube video yesterday which made the point that if you want to learn something the best way to do so is to take notes on it. It was specifically talking about reading books in the context of passing examinations. But of course nowadays books are far from the only source of knowledge. So why not extend the same concept to YouTube videos?
 
