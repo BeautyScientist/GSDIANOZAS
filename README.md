@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Can I find a good use for my old Filofax?**
+
+About five years ago, I bought a Filofax. My normal habit is to take notes in ringbound reporters notebooks. These are quick and easy to use, can be carried around and I generally quite handy. The problem with them is that they get very messy and it’s sometimes hard tell the difference between a crucial piece of information scribble down to void in forgotten and idle doodles done to pass the time
+
+They also become very scruffy and un appealing to look at. My theory had been that keeping notes in a Filofax would be more efficient. Sadly, this did not prove to be the case. I found it difficult to write in the Filofax itself. And although I enjoyed setting up all the folders and tabs it offered, in practice they just got in the way. After awhile I just gave up and went back to my crackly old reporters the notebooks.
+
+But I’ve just had another go with it. This time I’ve decided to radically simplify it. All the tabs have gone. It’s now a simple set of papers with the most recent ones at the front and blank paper for future use at the back. I have also made the most remarkable discovery that if you fold the entire thing so that the most recent bit of paper is at the front it’s just as easy to write in as a reporter notebook. My plan is to simply add new documents to the front and that older ones gradually moved to the back and when they reach the bottom, I can decide whether they should be kept or disposed of.
+
+The most remarkable discovery of all is that it is possible using this folding technique to write in bed by the light of my E reader.
+
+I have high hopes of using this as a way of avoiding having to pick my phone up and be distracted by all the stuff on it that is specifically designed to distract.
+
+
 #### **I need to sharpen my pencil**
 
 I watched a YouTube video yesterday which made the point that if you want to learn something the best way to do so is to take notes on it. It was specifically talking about reading books in the context of passing examinations. But of course nowadays books are far from the only source of knowledge. So why not extend the same concept to YouTube videos?
