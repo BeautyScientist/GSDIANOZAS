@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **How a combination of AI and pencils is helping me avoid distractions**
+
+As a stoic sage, or at least someone who aspires to be a stoic sage, I regard life as a struggle. It doesn’t hugely matter what that struggle is. The point is how I respond to it. So I don’t regard AI as a good thing or a bad thing. It is however a thing. And it is a thing that we are all having to respond to.
+
+One very unexpected consequence for me has been that I now use a lot more paper, which I usually write on with a pencil. There’s a number of reasons for this. The initial one was that I found that planning on paper works better. I have also discovered that the AI programs I use cope very well with translating handwriting into text. But the most important discovery is that it is way way better to construct prompts for very difficult things that you want the AI to do for you in handwriting.
+
+A great place and time to do this is the first thing in the morning before I get out of bed. Paper of course already has the intrinsic property of not being full of adverts. But the ability to get serious work done without having to use the technology that has already been completed subverted to grabbing your attention is a huge extra bonus.
+
 #### **Can I find a good use for my old Filofax?**
 
 About five years ago, I bought a Filofax. My normal habit is to take notes in ringbound reporters notebooks. These are quick and easy to use, can be carried around and I generally quite handy. The problem with them is that they get very messy and it’s sometimes hard tell the difference between a crucial piece of information scribble down to void in forgotten and idle doodles done to pass the time
