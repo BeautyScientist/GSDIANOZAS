@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **I love my phone. I hate my phone.**
+
+I have started going to bed with my e-reader, my organiser (I need I need to stop calling it my Filofax, I’m not a yuppie), and a couple of well sharpened pencils. I also have a laptop running with a highly minimal Linux set up. It works, but it isn’t a joy to use. This means that when I wake up at four in the morning like I did this morning I can read, I can do some writing and I can even do some work at a pinch. I did all of those things.
+
+It all worked fine until I went for a cup of tea and decided to reward myself with 10 minutes on the phone. Needless to say that was closer to an hour. But on the other hand, using my phone on my daily walk as I am doing right now enables me to compose this article. I can and do get more important things done whilst getting some exercise and enjoying the morning sun.
+
+So I have good grounds to hate my phone and equally good grounds to love it. But perhaps the real story is I would love my life better if I developed stronger willpower.
+
+
 #### **How a combination of AI and pencils is helping me avoid distractions**
 
 As a stoic sage, or at least someone who aspires to be a stoic sage, I regard life as a struggle. It doesn’t hugely matter what that struggle is. The point is how I respond to it. So I don’t regard AI as a good thing or a bad thing. It is however a thing. And it is a thing that we are all having to respond to.
