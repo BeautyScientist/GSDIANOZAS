@@ -10,7 +10,7 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
-#### ** YouTube is Soap opera**
+#### **YouTube is Soap opera**
 
 I’ve just spent a very agreeable three quarters of an hour reading Maigret, journalling and getting Claude to correct my French. This is the way I want to live my life. Before that I spent three quarters of an hour on YouTube trying to find something of interest in particular whether there have been any news. I ended up mainly getting a suckered into conspiracy theories.
 
