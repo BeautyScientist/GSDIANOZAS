@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### ** YouTube is Soap opera**
+
+I’ve just spent a very agreeable three quarters of an hour reading Maigret, journalling and getting Claude to correct my French. This is the way I want to live my life. Before that I spent three quarters of an hour on YouTube trying to find something of interest in particular whether there have been any news. I ended up mainly getting a suckered into conspiracy theories.
+
+I think the reason YouTube is so compelling, apart from the fact that it is colourful, moves and is really easy to access, is that it combines the two elements I find most compelling. It has both novelty, and the “what happens next” quality“ of a Soap opera. I know that ‘Candace Owens‘ is a contrived character. But despite this she still manages to make me want to know what her next move is going to be. She was the one that grabbed my attention this morning. But they all work in the same way. Being aware of the trick that is being pulled doesn’t seem to stop it working on me.
+
+I think the only solution is cold Turkey. If I keep on following the news I’m going to be continually drawn into narratives – often fictitious narratives – which no quarters matter how transparent still seem to have the ability to grab my attention.
+
+
+
 #### **I love my phone. I hate my phone.**
 
 I have started going to bed with my e-reader, my organiser (I need I need to stop calling it my Filofax, I’m not a yuppie), and a couple of well sharpened pencils. I also have a laptop running with a highly minimal Linux set up. It works, but it isn’t a joy to use. This means that when I wake up at four in the morning like I did this morning I can read, I can do some writing and I can even do some work at a pinch. I did all of those things.
