@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Linux Distraction Free Working Environment**
+
+It won't last forever, but at the moment someone in the office is working from home a lot of the time leaving me with a spare desk. I've now set it up as my low tech working space where I use predominantly pencil and paper. I've got an A4 folder that I have designated as my desk organiser, and an A5 organiser (like a Filofax) that I carry around with me. These two paper systems do have compatability issues. If I want to use A4 in my A5 organiser I have to fold it in half. And if I want to transfer something from my A5 organiser to my A4 one, it ends up with quite a lot of holes in it.
+
+But the simplicity of the system is its strength. In the desktop version I've got three dividers where I can put papers into do today, do tomorrow or do next week. The A5 has less bandwidth, so it doesn't have any dividers at all. I simply work through the paper starting at the front and as it gets full up I dispose of or recycle papers from the back.
+
+I've got an old iMac from (I think) 2013 that is running Linux Mint. Slowly. This means I can refer to internet based stuff. But it isn't remotely tempting as a machine to play on. I can use it for wordprocessing too - as I am at the moment. 
+
+I have been using it for about a week and the system still needs tweaking and getting used to. But it is proving its worth.
+
+
 #### **Just Me and My Phone**
 
 I’ve been experimenting a lot with different ways of working lately. I’ve found that in many ways the humble pencil is a good way of simply getting ideas organised. Speech to text is getting really good and can enable me to generate writing quickly and while I am walking. Using a program that forces me to type continuously at pain of losing what I have just typed is a great way of getting drafts drafted. 
