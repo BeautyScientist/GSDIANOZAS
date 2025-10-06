@@ -10,6 +10,12 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
 
+#### **Just Me and My Phone**
+
+I’ve been experimenting a lot with different ways of working lately. I’ve found that in many ways the humble pencil is a good way of simply getting ideas organised. Speech to text is getting really good and can enable me to generate writing quickly and while I am walking. Using a program that forces me to type continuously at pain of losing what I have just typed is a great way of getting drafts drafted. 
+
+But right now I am simply writing straight on my phone with a stylus. It’s sore slow, but it works. And it’s an effective way of stopping my phone from distracting me
+
 #### **Distraction is other people**
 
 I make the mistake this morning of putting off my regular morning walk until later. This gave other people the opportunity to get up and get in my way. In consequence, I was printed from starting this article by about 10 minutes. Not a huge amount of time, but I’m probably starting it at about the time I should’ve been finishing it.
