@@ -8,7 +8,17 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
-I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down text.
+I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
+
+**Low Distraction Desk in Action**
+
+My low distraction desk is now very much up and running and I am using my pencil a lot more than I have done for many years. So it is fitting that I should do at least one of my articles using this approach.
+I suppose if I was truly returning to the analogue Garden of Eden I would keep this article on paper and not trouble to upload it. In fact I am going to see how well I can convert it to digital. You are reading the result.
+Note: Some words were challenging to decipher due to the handwriting style, but this should be an accurate transcription of the content.
+
+
+
+
 
 #### **Linux Distraction Free Working Environment**
 
