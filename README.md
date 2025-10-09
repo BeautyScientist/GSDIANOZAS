@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **How to start the day**
+
+Before I had a smart phone, I would start the day in bed reading whatever book I was currently on. I would typically spend 30 minutes or so on it, long enough to drink a cup of tea and let it settle. I was always happy with this approach. It went out the window sometime in 2008 when I first signed up to Twitter. I am now in the process of bedding in the habit of not taking my phone to bed. But I find I can’t go back to my old ways. Somehow the first half hour of consciousness is no longer suitable for passive reading.
+
+I’ve replaced it with active reading and notetaking. At the moment I’m reading a book in French and journalling it as I go along. I also write some notes about whatever’s in my mind at the time. I might well also draft out a plan for the day. I have just started doing some simple maths sums as well. This is all made possible By a simple organiser. I just need to make sure I have enough paper in it when I go to bed.
+
+I actually think this is an improvement on both mindless scrolling through social media and simply reading a book. It gets my brain working. It improve my level of organisation. It’s even having a marginal effect on my level of French comprehension.
+
+There is currently just one thing lacking. I need to get a pencil sharpener with an integrated holder so that I can sharpen up my pencil without creating the wrong kind of mess in my bed.
+
 **Low Distraction Desk in Action**
 
 My low distraction desk is now very much up and running and I am using my pencil a lot more than I have done for many years. So it is fitting that I should do at least one of my articles using this approach.
