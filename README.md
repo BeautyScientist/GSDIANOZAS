@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Cellulose not silicon**
+
+My willpower steadily declines as the day goes on. So last night instead of getting an early night, I decided to have a quick look to see if there was anything interesting on YouTube. There wasn’t. It was absolutely full of AI slop. Rather than stopping me from looking, this had the effect of l intensifying my efforts to find something to entertain me.
+
+As a result, I got to bed late. I didn’t read anything. And I woke up late the following morning. Luckily, I had kept my rule of not ringing any technology to bed. So on waking I was able to get some uninterrupted reading done, and then plan out my day on paper.
+
+I am rapidly coming to the conclusion that great is silicon is, cellulose is the better technology for living a good life. I have had a couple of ideas and drawn up a plan for the day. But most importantly, a couple of hours later I can still remember them. I would’ve had no clue had I been working on a screen. I actually think AI is going to help. Paper has some long-term disadvantages – it accumulates, a deteriorates and it’s hard work to keep track of and index. But now that AI can almost reliably read handwriting, most of these problems can be solved.
+
+
 #### **How to start the day**
 
 Before I had a smart phone, I would start the day in bed reading whatever book I was currently on. I would typically spend 30 minutes or so on it, long enough to drink a cup of tea and let it settle. I was always happy with this approach. It went out the window sometime in 2008 when I first signed up to Twitter. I am now in the process of bedding in the habit of not taking my phone to bed. But I find I can’t go back to my old ways. Somehow the first half hour of consciousness is no longer suitable for passive reading.
