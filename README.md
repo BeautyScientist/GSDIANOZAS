@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Newspapers - will we miss them?**
+
+The newsagent near me is probably not a tremendously profitable business despite having me as a regular customer. Its main selling point is that it is where you can get magazines and newspapers, and both of those are in a steady long term decline. I bought one yesterday largely out of nostalgia. 
+
+I used to regularly buy a paper and would consume a big chunk of it and do the crossword too. It was in its way a distraction from more profitable uses of my time. But it was finite - so there was a point when I had finished reading it. And it was curated to bring me stuff I would not have found on my own.
+
+Overall, it was a better source of information than infinite scrolling. It was flawed and inconvenient though. I was reading someone else’s agenda. And all that paper had to be disposed of. When they finally disappear I don’t think I’ll miss them.
+
+
 #### **Cellulose not silicon**
 
 My willpower steadily declines as the day goes on. So last night instead of getting an early night, I decided to have a quick look to see if there was anything interesting on YouTube. There wasn’t. It was absolutely full of AI slop. Rather than stopping me from looking, this had the effect of l intensifying my efforts to find something to entertain me.
