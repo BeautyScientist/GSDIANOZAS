@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Should I use tabs on my organiser?**
+
+I have been having a lot of success avoiding distractions by using my organiser and a pencil instead of phone based apps. I don’t take this success for granted. I have actually had the organiser for about five years and only now am I getting any value from it. The great advantage of paper is also it’s great disadvantage. It occupies a physical space in the real world. This makes it difficult to ignore in the way you can ignore something on the screen. This means you cannot continually add to lists effectively to infinity. But it also means you can’t skimp on keeping the paper organised.
+
+One of the mistakes I made when I first got to the organiser was to use all the tabs it came supplied with. This made it confusing and hard to manage. It has worked much better since I disposed of the tabs. But this intern has created a problem that I have lots of bits of paper of varying degrees of importance. To keep the organiser organised I need to work through it periodically. I’m also finding it quite hard to find stuff now I have around 50 sheets to manage.
+
+I think I’m going to have to reinstate the tabs. This will make it easier to manage my existing paper, but will make the organiser more difficult to use in the first place. I hope this improves things. But I might be making a terrible mistake.
+
 #### **Newspapers - will we miss them?**
 
 The newsagent near me is probably not a tremendously profitable business despite having me as a regular customer. Its main selling point is that it is where you can get magazines and newspapers, and both of those are in a steady long term decline. I bought one yesterday largely out of nostalgia. 
