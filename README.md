@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **My distraction free morning routine**
+
+So for the last couple of weeks my morning routine has been to read 3 pages of French and write a few sentences in French. I rather optimistically call this my “journal en français”. If I have time I get AI to translate it and correct it. 
+
+I then write out a fair copy.
+
+Following that I fill an A5 sheet with whatever enters my head. I call these my Jazz Notes because they are free form and improvised.
+I am finding this a better start to the day than my previous habit of doom scrolling. I still have a nagging doubt that the world might be doing something I am missing out on. But apart from that - it’s a very wholesome habit.​​​​​​​​​​​​​​​​
+
+
 #### **Should I use tabs on my organiser?**
 
 I have been having a lot of success avoiding distractions by using my organiser and a pencil instead of phone based apps. I don’t take this success for granted. I have actually had the organiser for about five years and only now am I getting any value from it. The great advantage of paper is also it’s great disadvantage. It occupies a physical space in the real world. This makes it difficult to ignore in the way you can ignore something on the screen. This means you cannot continually add to lists effectively to infinity. But it also means you can’t skimp on keeping the paper organised.
