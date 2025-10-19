@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **The cure to infinite scrolling**
+
+I am undergoing a personal renaissance of the pencil at the moment. I’m finding that handwritten pencil working can be a lot more efficient than going straight to the keyboard. The require a few reasons why this is proving to be the case. One of the most interesting is simply that writing a note on a piece of paper is a finite process. At some point you will either run out of things to write or paper to write them on.
+
+This is a great advantage to me because I generally combine the worst traits of a perfectionist and a ditherer simultaneously. I can spend ages revisiting and rewriting a document that is already as good as it was ever going to be. I think this is a special case of the problem of infinite scrolling. Just as you never get to the end of a social media thread, you never get to the point where a document can’t be further enhanced. In my case, the result of this is a huge number of very nearly finished bits of writing.
+
+I’m not sure where this is going to end up. I am beginning to wonder whether I should do at least the first draft of any substantial bit of writing in writing. Maybe that is taking it too far. But I’ve already decided that I am no longer going to use electronic to-do list. For those at least, the extra work of writing them out is rewarded by preventing the to-do list from getting too long.
+
+I will be giving this more thought overcoming weeks.
+
 #### **My distraction free morning routine**
 
 So for the last couple of weeks my morning routine has been to read 3 pages of French and write a few sentences in French. I rather optimistically call this my “journal en français”. If I have time I get AI to translate it and correct it. 
