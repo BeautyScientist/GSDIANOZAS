@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Is AI the answer to chronic distraction?**
+
+I have been having a lot of success over the last few weeks avoiding social media in favour of pencil and paper. But the weird thing about that is that what originally pushed me in that direction was AI. I found that it was much easier to write prompts out by hand then to try to do them either on the AI‘s page or in a Word processor.
+
+That writing by hand engages more of your brain is something that researchers worked out long ago, and is something the most of us notice simply by doing it. But up to recently I found the extra speed and convenience of word processing and other keyboard based activities simply trumped the extra concentration needed.
+
+But AI seems to have upset that equation. I can now draft some notes by hand and get the AI to turn them into text. It’s quite a game changer. In fact, I’m finding you ways of working which take me away from my laptop altogether. For example, I fancied brushing up on my calculus that I haven’t used for many years. I got the AI to set me some simple problems and worked them out on paper. It was quite fun. It isn’t difficult to see how I could use the same technique to learn something that I might actually need to use. 
+
+If I am typical, which I imagine I am, it might well be the case that people spend less time online and looking at screens as a direct result of the capabilities of AI. This can only be a good thing.
+
 #### **The cure to infinite scrolling**
 
 I am undergoing a personal renaissance of the pencil at the moment. I’m finding that handwritten pencil working can be a lot more efficient than going straight to the keyboard. The require a few reasons why this is proving to be the case. One of the most interesting is simply that writing a note on a piece of paper is a finite process. At some point you will either run out of things to write or paper to write them on.
