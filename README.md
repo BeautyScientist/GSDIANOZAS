@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **A couple of distracted days**
+
+I had an unavoidably disrupted weekend. But I’ve completely failed to bounce back in the first two days of the week. On both Monday and Tuesday I spent a large proportion of the day on pointless YouTube videos. These things happen, but it’s important to learn from them. Thinking about it this morning, with a bit more mental clarity than I’ve managed over the last few days, I think I can see why I went wrong. The biggest issue was staying up too late working.
+
+It’s easy to get into a cycle whereby things that you should’ve done in the day you try and get done in the evening. The evening is a terrible time for doing urgent work. You end up staying up late and not sleeping well when you finally do get to bed. I need to make it a strict rule that I’m in bed by nine. And I need to close my eyes and go to sleep when I get there.
+
+The other problem was that I had a wide range of things I needed to work on. So I tried to do 10 minute Pomodoro‘s so that I could cover all of them. The trouble with that is if you’re a bit tired then it’s harder to start the next session and you end up doing very few of them.
+
+
+A better strategy would’ve been to do a 25 minute followed by a 10 minute one. I keep meaning to try this, but I’ve never got around to it. I think I will give it a go today.
+
 #### **Is AI the answer to chronic distraction?**
 
 I have been having a lot of success over the last few weeks avoiding social media in favour of pencil and paper. But the weird thing about that is that what originally pushed me in that direction was AI. I found that it was much easier to write prompts out by hand then to try to do them either on the AI‘s page or in a Word processor.
