@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Does time monitoring help?**
+
+I’ve had three days in a row where I have been hugely distracted by YouTube. One of those YouTube videos was about a possible solution to spending too much time watching YouTube videos. It suggested that a good way of taking control of the way you use your time is to aggressively keep note of what you are doing. 
+
+It made two claims. The first one was the obvious one. If you know where your time is going you can make a better decisions about how you’re using it. It also said that the mere act of keeping track of it had the effect of focusing you on more important work. 
+
+Both of these claims sound quite plausible. So I thought I’d give them a go. It’s already 8 o’clock and so I’ve been following this regime for just over three hours. And it is certainly true that I’ve got more done this morning than I had previous mornings.
+
+There was a time when I would have found the idea of monitoring my activities during the day completely repugnant. Weirdly, I’m quite enjoying it so far. I think this might be because I’m sort of halfway between where I used to be and where I want to be. So I can see progress, and the possibility for more progress. That’s quite a nice spot to be in.
+
 #### **A couple of distracted days**
 
 I had an unavoidably disrupted weekend. But I’ve completely failed to bounce back in the first two days of the week. On both Monday and Tuesday I spent a large proportion of the day on pointless YouTube videos. These things happen, but it’s important to learn from them. Thinking about it this morning, with a bit more mental clarity than I’ve managed over the last few days, I think I can see why I went wrong. The biggest issue was staying up too late working.
