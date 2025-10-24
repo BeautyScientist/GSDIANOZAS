@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked down 
 
+#### **Results of one day of a time tracking**
+
+As a scientist, I’m a great fan of diligently creating data and carefully analysing it before drawing any conclusions. But that’s not always the way I work. It’s not always the best way to work. The data I got from just one days time tracking, in fact, not even the full day, made it very clear to me that I was wasting a lot of time and transitioning from one task to another. I decided I needed to do something radically different straight away.
+
+So today I started off with three hours solidly focusing on my biggest current problem, which happened to be a very long and recalcitrant inbox and to-do list. It’s disappointing how much you get done in three hours. I had visions of clearing everything. But I did make a very big and noticeable dent in it.
+
+If I could have carried on and done another three hour session shortly afterwards, I might have achieve the goal I’ve failed to meet for several weeks of getting my inbox down to 0. In fact there were a number of unavoidable and avoidable distractions that reduce my productivity for the rest of the day. But even in a dithering mode I was able to get two inbox zero by late afternoon.
+
+So how did today compare with previous days? Overall, I think I got as much done in the first three hours as I would normally get done in a full day. I was very much back to normal after the initial burst. It will take a bit more experimenting to see if this is a typical pattern. But there is one very good outcome. It’s now the weekend and I’m not taking anything home the that is urgent to get done for Monday morning.
+That’s an achievement in itself.
+
+
 #### **Does time monitoring help?**
 
 I’ve had three days in a row where I have been hugely distracted by YouTube. One of those YouTube videos was about a possible solution to spending too much time watching YouTube videos. It suggested that a good way of taking control of the way you use your time is to aggressively keep note of what you are doing. 
