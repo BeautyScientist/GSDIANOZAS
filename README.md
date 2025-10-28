@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Time tracking – why did I give it up so quickly?**
+
+I tried tracking my time in detail last week. In one day it completely transformed how I felt about how I was working. It led me making some fundamental changes, which are working well. But I also stopped time tracking more or less straight away. I think this is a bit like when you are problem-solving, and you think you found the answer. The temptation is to stop thinking at that point. I really need to get back to time tracking again so I will sort it up today. As somebody with a tidy mind it’s a bit unsatisfying to have some Pages missing right at the beginning of a record. but I can’t go back to where I was now anyway.
+
+My tracking system is very basic. I have a hard backed roughly A5 sized notebook. I write down what I am working on on the left-hand side, with a commentary on it on the right. The theory is that I leave it to the end of the day to review. In practice I find that I am referring back to it quite regularly. There’s a notion in science that you can’t measure something without affecting it. This is certainly true of time tracking. You can’t write it down what you’re doing without thinking about what you’re doing. And that inevitably affects what you are doing. 
+
+Overall the effects it has seem to be beneficial as well. So why did I give it up after only two pages? I think ingrained habits are hard to overcome. but I think this time tracking habit is one that I want to ingrain.
+
+
+
 #### **Taking full advantage of the clocks going back**
 
 In theory, it makes no difference what time you get up. You still have the same amount of hours in the day and the same requirement for sleep. So if you get up and have a later it just means you go to bed an hour later. And this is broadly true. The idea that early birds are more productive than night owls isn’t really a strong one.
