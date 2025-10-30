@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Getting away from infinite to-do list**
+
+I have been using my A5 paper organiser a lot over the last month. I am finding it a refreshing alternative to electronic options for a lot of things. This basically boils down to the fact that you can only get so much information onto a sheet of paper. This is a great way of avoiding information overload. The other big advantage of pieces of paper is that they don’t disappear and you can’t forget about them.
+
+To create some time to develop my paper system, I’ve been shunting all my non-urgent Emails onto Trello. This has finally caught up with me. I now find myself with around 200 emails to process. Many of them weren’t urgent when I shunted them. But they have become so.
+
+I think what this is telling me is that I’m not dealing with my emails quickly enough. There is an old saw which says that when presented with an email you should do it, delay it delegate it, or delete it. I think that’s a very good strategy. I really should’ve followed it. But I’m beginning to wonder if the delay option should be open ended.
+
+
 #### **Time tracking – why did I give it up so quickly?**
 
 I tried tracking my time in detail last week. In one day it completely transformed how I felt about how I was working. It led me making some fundamental changes, which are working well. But I also stopped time tracking more or less straight away. I think this is a bit like when you are problem-solving, and you think you found the answer. The temptation is to stop thinking at that point. I really need to get back to time tracking again so I will sort it up today. As somebody with a tidy mind it’s a bit unsatisfying to have some Pages missing right at the beginning of a record. but I can’t go back to where I was now anyway.
