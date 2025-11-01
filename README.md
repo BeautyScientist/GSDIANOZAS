@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Managing dopamine?**
+
+My biggest distraction at the moment is YouTube videos. I’ve got much better, but I still lose the odd hour to inane content that adds little to my life. A good example was one yesterday with the alluring title “how to make doing hard things irresistible ”.
+
+It was rather long winded and the conclusion was rather disappointing. We wake up with a big store of dopamine, and we steadily deplete it during the day. You could have substituted the word energy for dopamine and the conclusion would’ve been much the same. Basically, start with the most important stuff and get it done before you tire out. But dismissive as I am of the content of the video, it is a good point.
+
+When I thought about it, it occurred to me that I do tend to schedule things I enjoy doing first thing in the morning rather than things that required doing or things that require a lot of brain power. This this is a bit perverse. The thing that most drags me down during a typical day is the nagging feeling that there are things that need to be done that I haven’t got done yet.
+
+I do have a strategy for dealing with this. I have a Page with all these things that I no demand my attention. I date these lists. I had a look and realised I hadn’t updated it in several days. I really need to make sure that I update it at least daily and spend some serious time early in the day to clearing it. So that’s what I shall do now.
+
 #### **Getting away from infinite to-do list**
 
 I have been using my A5 paper organiser a lot over the last month. I am finding it a refreshing alternative to electronic options for a lot of things. This basically boils down to the fact that you can only get so much information onto a sheet of paper. This is a great way of avoiding information overload. The other big advantage of pieces of paper is that they don’t disappear and you can’t forget about them.
