@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Managing YouTube**
+
+Oscar World said he could resist anything except temptation. I know what he means. The temptation I can’t resist at the moment is YouTube videos. It is a difficult problem. There is a lot of useful information on YouTube, which I put to Good use a lot of the time. But there’s also a load of content that is superficial appealing, but turns out to be not very worthwhile. And to discovering that halfway through the video is not very satisfying. 
+
+But yesterday I hit all an idea that might solve this. Like many people I often watch YouTube on my television set. In fact, that is the main thing I use my television set for nowadays.
+
+The television interface for YouTube is pretty good. But it isn’t great for actually finding good stuff to watch. So the idea I had, was make a rule to only watch videos on the television, but only look for videos on my phone or laptop. So when I am tempted during working hours to hop on to YouTube I will only seek out videos to watch or curate my existing list. And when I’m on the television, I will only watch stuff from my existing list.
+
+I’ve already started working on this, and early indications are that it will work well. The only snag I see is the shorts. They are my catnip. I think I’m going to have to use willpower to overcome them.
+
+
+
 #### **Managing dopamine?**
 
 My biggest distraction at the moment is YouTube videos. I’ve got much better, but I still lose the odd hour to inane content that adds little to my life. A good example was one yesterday with the alluring title “how to make doing hard things irresistible ”.
