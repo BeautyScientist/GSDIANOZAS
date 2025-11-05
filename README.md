@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Praising pencils**
+
+Some Projects take on the life of their own. My transfer from using online to-do lists and such like things, has turned into something rather bigger. I have discovered that using a paper organiser and pencil is a much better way of organising my work.
+
+My original motivation was to avoid the temptation of browsing the Internet. And that remains the big advantage. But I also find that writing things out even though it takes longer seems to be very beneficial. I feel much more on top of my workload now than I did just a few months ago. But I also have a much better option for entertaining myself when I’m not working. My organiser contains sections where I can practice my French, and where I can revise my maths.
+
+If those don’t sound very entertaining or engaging, well that’s sort of the point. I am quite capable of burning away an hour on social media or YouTube. In fact, two hours is quite doable as well. While I enjoy learning French and maths, they aren’t anywhere near as addictive.
+
+So it has turned out that pencils have proved to be a lot more valuable than I initially thought.
+
+
 #### **Managing YouTube**
 
 Oscar World said he could resist anything except temptation. I know what he means. The temptation I can’t resist at the moment is YouTube videos. It is a difficult problem. There is a lot of useful information on YouTube, which I put to Good use a lot of the time. But there’s also a load of content that is superficial appealing, but turns out to be not very worthwhile. And to discovering that halfway through the video is not very satisfying. 
