@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Valid Distractions**
+
+
+I have been making some pretty good progress at avoiding distractions. Keeping these notes has been a great help in that direction. But right now, I’m in the rather ironical situation where I’m being distracted by the need to write this a note.
+
+I’ve woken up after a good night sleep, and I am energetically putting together a plan of work for my team to get an important objective out of the way by the end of the day. But rather than focus on that, I’ve changed track to keep on track with my writing about distractions.
+
+I do of course have the option of skipping this for today and doing it tomorrow. Is that what I should have done? Having made the decision to write this note anyway it is too late. But I already regret it. I think the best thing is to strike while the iron is hot. That’s what I’ll do next time.
+
 #### **Praising pencils**
 
 Some Projects take on the life of their own. My transfer from using online to-do lists and such like things, has turned into something rather bigger. I have discovered that using a paper organiser and pencil is a much better way of organising my work.
