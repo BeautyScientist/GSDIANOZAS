@@ -10,6 +10,19 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **My latest strategy for beating YouTube fails**
+
+The theory was that If instead of watching YouTube videos I bookmarked the ones that looked worthwhile rather than watching them straight away. That way I can schedule dedicated time to video watching, with a pencil and paper handy to take notes, whilst still having the fun of popping onto YouTube for a few minutes between Tasks.
+
+Writing it down, it still feels like it should’ve worked.
+
+But the actual result is that I now have a long list of interesting looking videos, whilst having spent a huge amount of time watching ones that seemed less valuable. It turns out I have the willpower to put off doing stuff that looks useful. But I don’t have the willpower to resist the trivial when I should be doing something more important.
+
+There might well be an important lesson about my psychology, possibly many other people psychology, in there. I will add wondering about that to my list of things I might get around to someday.
+
+In the short run, I don’t want to repeat the mistake today. So I have completely banned myself from both YouTube and blue sky until after my evening meal. Let’s see how that goes.
+
+
 #### **Valid Distractions**
 
 
