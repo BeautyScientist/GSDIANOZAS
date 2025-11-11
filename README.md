@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Less is more to avoid distractions**
+
+I had one of those episodes that seem to be quite common to a lot of people last night. I woke at two in the morning and could not get back to sleep. Had my phone been handy, I would quite likely have spent that time scrolling through social media or watching videos.
+
+But my phone wasn’t handy. My pencil the paper on the other hand, we’re very handy. So I started just jotting down some notes and doing some doodles. I’d read an account of the comet I 3/Atlas earlier in the day.(I am a chemist.) I was intrigued by an aspect of the chemistry and spent a good half hour trying to work out how it all worked. I think I fell asleep in about an hour and a half, but I really enjoyed looking at my doodles this morning and recreating my thought process. 
+
+I don’t think I am ever going to become an astronomer but even though I enjoyed the process of thinking about stuff completely divorced from my day-to-day life. The whole incident was without any real consequence, with the exception that I think I will be more motivated to leave my phone out of reach at bedtime than before.
+
 #### **My latest strategy for beating YouTube fails**
 
 The theory was that If instead of watching YouTube videos I bookmarked the ones that looked worthwhile rather than watching them straight away. That way I can schedule dedicated time to video watching, with a pencil and paper handy to take notes, whilst still having the fun of popping onto YouTube for a few minutes between Tasks.
