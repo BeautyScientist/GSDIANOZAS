@@ -10,6 +10,20 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Writing Techniques That I Use**
+
+I’ve got various ways I write stuff. Recently I’ve been favouring doing a completely paper draft so I have more time to think. I also dictate while walking, which also gives plenty of time for reflection. But I also use a programme called FlowState which is the ultimate in distraction free text generation. It runs in a full screen with no menus. You set for how long you intend to write for - for example I have set it for 10 minutes for this bit of writing - and off you go.
+
+The unique twist is that if you stop typing, all the work you have done fades before your eyes. (There is a bit of workaround in that you can continually press space and then backspace. This gives you time to think if you need it. But you can’t go away and do something else and then come back to it.)
+
+This is a very effective way of avoiding distractions. I find the idea of losing even a couple of sentences quite horrifying. It is also a good way of overcoming mental blocks to particular things you are working on. This can be a great procrastination buster. It is also a good way of getting intrinsically boring writing done as well. What it isn’t good for is producing really good writing. You get plenty of words down. But they aren’t always chosen as well as you might like nor arranged in the best order.
+
+But it has proved a useful tool for lots of stuff I’ve written.
+
+I am wondering if I can combine all three techniques. So the idea would be to go for a walk and talk through the thing I am writing, then sit down with a pencil and paper and do a very rough draft of the ideas I have come up with. Then finally do a draft against the clock with an idea of the finished product and some notes handy to make sure nothing gets missed.
+
+I’ll give it a try.
+
 #### **Less is more to avoid distractions**
 
 I had one of those episodes that seem to be quite common to a lot of people last night. I woke at two in the morning and could not get back to sleep. Had my phone been handy, I would quite likely have spent that time scrolling through social media or watching videos.
