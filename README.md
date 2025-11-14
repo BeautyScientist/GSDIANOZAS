@@ -67,7 +67,7 @@ So it has turned out that pencils have proved to be a lot more valuable than I i
 
 #### **Managing YouTube**
 
-Oscar World said he could resist anything except temptation. I know what he means. The temptation I can’t resist at the moment is YouTube videos. It is a difficult problem. There is a lot of useful information on YouTube, which I put to Good use a lot of the time. But there’s also a load of content that is superficial appealing, but turns out to be not very worthwhile. And to discovering that halfway through the video is not very satisfying. 
+Oscar Wilde said he could resist anything except temptation. I know what he means. The temptation I can’t resist at the moment is YouTube videos. It is a difficult problem. There is a lot of useful information on YouTube, which I put to Good use a lot of the time. But there’s also a load of content that is superficial appealing, but turns out to be not very worthwhile. And to discovering that halfway through the video is not very satisfying. 
 
 But yesterday I hit all an idea that might solve this. Like many people I often watch YouTube on my television set. In fact, that is the main thing I use my television set for nowadays.
 
