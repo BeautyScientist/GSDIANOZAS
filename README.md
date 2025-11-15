@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
+#### **Choosing better distractions**
+
+
+I’m still spending way more time on YouTube and blue sky than is really healthy. But I’m spending way less. Using filters and blocks and literally no effect at all. Getting a good night sleep helped a lot. Another highly effective strategy has been to find things to do instead. 
+
+I am now keeping a journal in French. I am hoping it will improve my proficiency in that language. But I already know that it keeps me away from screens efficiently. I have started revising my calculus, and discovered that in order to do so I need to revise my algebra. Again, I don’t know if this is a particularly valuable learning exercise. But it is at least as diverting as playing freecell which is another time sink of mine.
+
+I think that finding good ways to use your time is a bit of a two for one deal. Not only do you avoid the distractions that Silicon Valley has lined up for you, you also get to do something a bit more worthwhile. I think my next move will be to start journalling a bit more. I already routinely fill half an A5 Page every morning. I think a longer reflection on the day in the evening might be useful as well.
+
+If I do start that, the first thing I will do is think of other ideas for useful non-screen activities..
+
 #### **Writing Techniques That I Use**
 
 I’ve got various ways I write stuff. Recently I’ve been favouring doing a completely paper draft so I have more time to think. I also dictate while walking, which also gives plenty of time for reflection. But I also use a programme called FlowState which is the ultimate in distraction free text generation. It runs in a full screen with no menus. You set for how long you intend to write for - for example I have set it for 10 minutes for this bit of writing - and off you go.
