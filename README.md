@@ -10,8 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
-#### **Choosing better distractions**
+#### **Three hours of focus beats a day of fiddling about**
 
+
+I usually write these articles early in the morning. But I was busy with something urgent. Having got that out of the way I then found myself unable to focus and was struggling to concentrate on anything in particular. 
+
+But late in the afternoon I decided I would get just one solid hour of work done and give up the day as a bad job. This solid hour lasted two hours, and did another one in the evening. Reviewing the day, I pretty much got what I regard as a reasonable day’s work done in four hours.
+
+If only I could get into the habit of solidly focusing from when I get up, I could take the afternoon off. 
+
+I wonder if this is possible?
+
+#### **Choosing better distractions**
 
 I’m still spending way more time on YouTube and blue sky than is really healthy. But I’m spending way less. Using filters and blocks and literally no effect at all. Getting a good night sleep helped a lot. Another highly effective strategy has been to find things to do instead. 
 
