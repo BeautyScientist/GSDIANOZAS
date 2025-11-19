@@ -12,6 +12,19 @@ I started off this investigation by simply seeing if I could write something wor
 
 #### **Three hours of focus beats a day of fiddling about**
 
+#### **’Dopamine Down’**
+
+I had a rather disastrous day in terms of controlling my attention span yesterday. I just couldn’t get off of YouTube during the day. I tried to catch up in the evening. It turned out to be even worse. I didn’t get to bed until nearly midnight after an astonishingly long binge of politics, pop music and so-called self-help videos.
+
+As is usually the case with these things, most of what I found diverting and entertaining at the time as that’s not a trace in my memory even less than a 24 hours later. But there was one that seemed to describe exactly what I was going through. A young YouTuber suggested that Short format content is really bad for your brain.
+
+His contention was that neurotransmitters such as dopamine having been created by emotionally stimulating short form content then need to be broken down. This is itself a process that requires energy.
+
+He claimed that this was analogous to a hangover. Like most of the talk of chemistry on YouTube self-help videos that wasn’t really any proper scientific evidence presented. But as it happened, it fitted in pretty closely with my observations on the day. I went to bed late very stimulated By grasshopper style jumping from one video to another. I then found it very hard to get to sleep. I’ve woken up the next morning late and feeling rather lacking in energy.
+
+So my project for today is to completely avoid all short form stimulation and instead keep a careful note, in pencil on paper, of how the day pans out. If this stimulation hangover idea seems to be credible based on my personal experiences that could be very useful guide to activity in the future.
+
+If it exists, I’m going to call it a “dopamine down“.
 
 I usually write these articles early in the morning. But I was busy with something urgent. Having got that out of the way I then found myself unable to focus and was struggling to concentrate on anything in particular. 
 
