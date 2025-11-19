@@ -10,8 +10,6 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
 
-#### **Three hours of focus beats a day of fiddling about**
-
 #### **’Dopamine Down’**
 
 I had a rather disastrous day in terms of controlling my attention span yesterday. I just couldn’t get off of YouTube during the day. I tried to catch up in the evening. It turned out to be even worse. I didn’t get to bed until nearly midnight after an astonishingly long binge of politics, pop music and so-called self-help videos.
@@ -25,6 +23,8 @@ He claimed that this was analogous to a hangover. Like most of the talk of chemi
 So my project for today is to completely avoid all short form stimulation and instead keep a careful note, in pencil on paper, of how the day pans out. If this stimulation hangover idea seems to be credible based on my personal experiences that could be very useful guide to activity in the future.
 
 If it exists, I’m going to call it a “dopamine down“.
+
+#### **Three hours of focus beats a day of fiddling about**
 
 I usually write these articles early in the morning. But I was busy with something urgent. Having got that out of the way I then found myself unable to focus and was struggling to concentrate on anything in particular. 
 
