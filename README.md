@@ -8,7 +8,23 @@ I was having a particularly bad day with this and decided it was time to try and
 
 So here’s the plan. Let’s try splitting the day up into timed sessions. Well these sessions are running. I focus on one particular thing I want to get done. At the end of the session ideally I stopped straight away. But I have given myself a latitude to finish off a specific thing I’m working on while I’m doing it. The length of these sessions will vary with the time I have available, and my judgement of my level of concentration achievable at that point. They can go as low as five minutes. They could be several hours. But typically, I will go for 10 minutes for clearing stuff that needs to be done. And 25 minutes for more worthwhile work. The 25 minutes is the length of time recommended by the Pomodoro method, which has inspired this exercise. I find that is a good time for getting a lot of stuff done.
 
-I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, marked 
+I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
+
+#### **No short form content and no snacks experiment**
+
+I am writing this on the evening of an experiment in attention management. I’ve had a couple of weeks when I have found concentrating on my work to be unusually difficult. I’ve also spent a lot of time (and money come to that) snacking. When unable to focus I’ve tended to watch a lot of YouTube videos - though I’ve also found time for Bluesky, Freecell and taking rather more interest in cloud formations than anyone who isn’t a weatherman ought to.
+
+Yesterday was particularly bad, with me racking up several hours watching videos and falling badly behind with my work. I rounded the day off by having a very late night followed by a poor night’s sleep. As is the way with such behaviour, I didn’t even remember much from the videos that I watched. Nearly all were shortform - I was continually telling myself that this would be the last one.
+
+But one of them did stick in my mind. It was entitled something along the lines ‘why shortform videos are even worse than you think’. And if it was true, then they geninuinely are worse than I think. The idea was that short form videos, particularly the more contentious ones, overstimulate your neurotransmitters like dopamine. This dopamine has to be brought back down to normal levels. And the energy involved in doing this saps energy away from other activities leaving you tired and listless and not good for much. Except watching more videos.
+
+So today I resolved that I was going to watch no videos at all. I also had a secondary objective to cut down on the snacking. These things are linked because I am in the habit of watching YouTube videos while I eat. 
+
+I found to my surprise that it wasn’t that difficult to resist the temptation after all. In fact apart from at lunchtime and briefly late in the afternoon I was able to keep focusing on my work, and when I took breaks I did useful things like tidying my files and keeping my organiser up to date.
+
+I also clocked up a very respecatable if not spectacular amount of work. 
+
+You can’t read too much into a single day. And I did change two variables at once. It is possible that my increased focus came from avoiding snacks rather than avoiding YouTube. And there is in any case a natural variability in these things. I might have been due a good day to make up for a week and a half of bad days. But it feels like an experiment that is worth pursuing.
 
 #### **’Dopamine Down’**
 
