@@ -10,6 +10,23 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **High Focus Session**
+
+I’ve just started trying out Andrew Hubberman’s recommendation for a high focus session. He suggests 90 mins, with 15 minutes warming up at the beginning of the session and  15 minute wind down at the end. These are to be scheduled in the day when your alertness is at its peak. You can enhance your alertness with caffeine, though this only keeps you awake. It doesn’t actually improve your ability to focus. What does is focusing on a single point for a few seconds.
+
+This is a very different prescription from the pomodoro method. For a start it is a much longer session. Also, it has time allocated for preparing yourself mentally before you get going and lets you down softly at the end.
+
+It sounded interesting so I have given it a go a couple of times. I’ve added the use of ambient music to it. 
+
+How am I finding it so far?
+
+Well the warm up is good. It not only gets your brain into the desired state before you starting working, in my case it also overcame my reluctance to actually start in the first place. The duration is good too. I think an hour is a good stretch of time that allows you to make significant progress on a job. 
+
+The wind up at the end gives you a chance to reflect on what you’ve done and think about ways to improve it in the future. You can also shut down tabs, put away papers and generally get back to normal.
+
+So far, I like it.
+
+
 #### **’Has YouTube been making me fat?’**
 
 For reasons I’ve explained elsewhere, four days ago I started severely cutting down on the amount of short form YouTube content I watch. Generally, I use YouTube as a diversion in between jobs. It seemed like a good option. I hadn’t really thought about this, but I often timed YouTube sessions with snacks. So my plan of cutting down on YouTube content had the unexpected side effect of reducing my intake of salt, sugar and particularly processed carbohydrates.
