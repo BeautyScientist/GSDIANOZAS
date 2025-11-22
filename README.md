@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **’Has YouTube been making me fat?’**
+
+For reasons I’ve explained elsewhere, four days ago I started severely cutting down on the amount of short form YouTube content I watch. Generally, I use YouTube as a diversion in between jobs. It seemed like a good option. I hadn’t really thought about this, but I often timed YouTube sessions with snacks. So my plan of cutting down on YouTube content had the unexpected side effect of reducing my intake of salt, sugar and particularly processed carbohydrates.
+
+This has had a bigger effect than I might’ve expected. I am down nearly a kilogram in weight from when I started avoiding YouTube. I’ve also been feeling calmer and getting more done.
+
+The course in the general muddle of our daily lives it isn’t really possible to pin down reliably what is caused and effect. It is quite possible that I would’ve had this same weight loss and productivity gain regardless of which videos I’ve been watching. And it doesn’t seem rather far-fetched to imagine that what I am looking at on my screen has an effect on my metabolism. But equally, life is complicated and maybe that is exactly how it works.
+
+In any event, this seems like an experiment with pursuing further.
+
+
 #### **No short form content and no snacks experiment**
 
 I am writing this on the evening of an experiment in attention management. I’ve had a couple of weeks when I have found concentrating on my work to be unusually difficult. I’ve also spent a lot of time (and money come to that) snacking. When unable to focus I’ve tended to watch a lot of YouTube videos - though I’ve also found time for Bluesky, Freecell and taking rather more interest in cloud formations than anyone who isn’t a weatherman ought to.
