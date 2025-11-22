@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Algebra as a Cure for Brain Fog**
+
+When your willpower and general character is as poor as mine there is only one way to avoid constant scrolling and time wasting, and that’s to come up with something to do instead. One thing I am finding very helpful in that respect at the moment is doing algebra. It seems to be just engaging enough to keep me distracted from the much bigger distractions available on all the screens that fill all the spaces in my life.
+
+I tracked down a basic algebra tutor online and uploaded it to my ereader. I also printed out some of the exercises and added them to my organiser. I have been working through them. The early ones were a bit boring but now I’ve got to point where I don’t know how to do them and have to think about them, they are a lot more challenging and I can’t leave them until I have solved them. (I reached the point of not knowing how to solve them without a lot of work embarrasingly quickly for a professional scientist.)
+
+I think this works because although algebra does occupy your brain, it doesn’t occupy much of it. So I think it is giving the rest of my brain a rest. There also isn’t much in the way of emotion involved. So it doesn’t stimulate the fight and flight response or overload your feelings. So although in a way it is a distraction in its own right just like a YouTube video, it is nowhere near as draining. I don’t think it has any particular use for any practical purposes nowadays. But it is a thing of beauty in its own right.
+
 #### **High Focus Session**
 
 I’ve just started trying out Andrew Hubberman’s recommendation for a high focus session. He suggests 90 mins, with 15 minutes warming up at the beginning of the session and  15 minute wind down at the end. These are to be scheduled in the day when your alertness is at its peak. You can enhance your alertness with caffeine, though this only keeps you awake. It doesn’t actually improve your ability to focus. What does is focusing on a single point for a few seconds.
