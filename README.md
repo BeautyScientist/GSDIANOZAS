@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Short Form YouTube Videos Are As Bad As Caffeine for Keeping Me Awake**
+
+In my battle against distraction my main focus has been on getting a good night’s sleep.    The main factors in this seem to be getting out in the light early in the day, avoiding caffeine from the afternoon, avoiding processed carbohydrates all day but particularly in the evening and having a relatively light evening meal. And less obviously, avoiding short form YouTube videos and inflammatory social media that have the tendency to wind me up. And the most obvious one of all - getting to bed early.
+
+So yesterday I had achieved nearly of these things and was ready for bed at my optimal hour. But at the point I was ready for bed - in my bed clothes and everything - I felt like just having a quick look at YouTube. I didn’t watch anything that was especially shocking or emotionally manipulatve. But I did watch a lot. In the end I was flicking from one video to another for nearly two hours. 
+
+I wasn’t too concerned. I didn’t feel like this binge had had much effect on me. And yet, I woke up at 3 in the morning and couldn’t get back to sleep for nearly 2 hours. During this period I had a look at what I had watched a few hours before. It was a pitiful list of the most inane drivel you can imagine. Why did I choose to find out the origin story of the Mork and Mindy show? (Spin off from Happy Days if you are interested). How has my life been enhanced from seeing a black and white video of the Bee Gees as teenagers singing Please Please Me badly. And I don’t even remember watching the one about what a state formed by the union of all the Scandanavian countries would be like. 
+
+It seems that even unstimulating content late at night can be overstimulating. From now on I am going to treat YouTube like caffeine and restrict it to the morning.  
+
 #### **Algebra as a Cure for Brain Fog**
 
 When your willpower and general character is as poor as mine there is only one way to avoid constant scrolling and time wasting, and that’s to come up with something to do instead. One thing I am finding very helpful in that respect at the moment is doing algebra. It seems to be just engaging enough to keep me distracted from the much bigger distractions available on all the screens that fill all the spaces in my life.
