@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Making watching the news an event**
+
+You know when there’s a big sporting event or a finale to a popular television series, people sometimes ask others not to spoil the result or the ending before they’ve caught up with it. I am going to try to use a similar mindset to keep myself off social media and YouTube during the day. Back before the Internet was a thing I used to keep up with current events by watching the Channel 4 News at 7:00pm, that being quite often the place I first heard about major events.
+
+I miss that.
+
+So, I have decided to try and reposition Channel 4 news as my source of news by keeping off of Bluesky during the day and avoiding YouTube apart from videos that I have previously saved to watch later or other lists. This will give me the old curiosity about what has happened today and allow me to fully appreciate the story.
+
+It will also have some pretty desirable side effects. For a start I won’t lose time researching news stories that are breaking when the details are still a bit sketchy. (This is usually when the culprit for a violent crime isn’t yet revealed.) It also means that I avoid distractions during the day. I think this is a much better strategy than trying to simply block the platform. (Though I am doing that as well as it happens, but there doesn’t seem to be a foolproof way of doing so short of disconnecting the electricity). Working for a desirable outcome is better.
+
+I’ve given it a try today - and apart from the habitual moving the cursor to the icons for YouTube and Bluesky, which hopefully will fade with time, I am finding it quite easy so far.
+
 #### **Short Form YouTube Videos Are As Bad As Caffeine for Keeping Me Awake**
 
 In my battle against distraction my main focus has been on getting a good night’s sleep.    The main factors in this seem to be getting out in the light early in the day, avoiding caffeine from the afternoon, avoiding processed carbohydrates all day but particularly in the evening and having a relatively light evening meal. And less obviously, avoiding short form YouTube videos and inflammatory social media that have the tendency to wind me up. And the most obvious one of all - getting to bed early.
