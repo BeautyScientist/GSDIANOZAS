@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **YouTube and Bluesky Ban**
+
+So the biggest time sink in my life has been Bluesky and YouTube. Actually Bluesky isn’t too bad, but I am really susceptible to the YouTube algorithm. Especially recently, the algorithm is really tuned into the stuff I like. The prevelance of AI slop discouraged me for a while, but I think we’ve all got used to it and can now spot it quickly and avoid it. In my case, that actually makes using the site more enjoyable as I like the challenge of spotting the rubbish before I click on it.
+
+I thought that phasing them out of my normal working day would be a difficult and traumatic business, much like giving up a class A drug. But it doesn’t seem to be the case at all. In fact I am only on day 3 of my new policy and I have very few urges to backslide, and even those aren’t very powerful.
+
+I have a feeling that if I do give in, it will be straight back to square one and I’ll blow an hour or more on pointless scrolling. But so far I am finding the temptation resistable and I am really enjoying being more on top of the work than I have been for several years. This ought to translate into more money as well, though I find this aspect strangely unmotivating. (I really should - I have staff who have a vested interest in my keeping the cash rolling in.)
+
+I believe in carefully analysing what goes right and what goes wrong. I refer to this as continuous improvement in my work life and stoic philosophy in my private one. But I am at a bit of a loss to explain either why this obvious change for the better is not proving as difficult or stressful as I expected, nor why it has taken me so long to do something that now seems absolutely obvious. I must ponder this more.
+
 #### **Making watching the news an event**
 
 You know when there’s a big sporting event or a finale to a popular television series, people sometimes ask others not to spoil the result or the ending before they’ve caught up with it. I am going to try to use a similar mindset to keep myself off social media and YouTube during the day. Back before the Internet was a thing I used to keep up with current events by watching the Channel 4 News at 7:00pm, that being quite often the place I first heard about major events.
