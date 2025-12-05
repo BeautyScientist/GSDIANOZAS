@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Taking Notes Makes YouTube More Interesting and Less Addictive**
+
+As a result of some of the random events that life throws at us I found myself waiting in a hospital with a couple of hours to spare and nothing to keep my mind occupied. So I bought a notebook and some pencils and did some work. This left me with a notebook that was nearly empty and no particular purpose for it. 
+
+I had put it down near my television and so when I was next watching - I mainly watch YouTube - I decided to take some notes. The result was quite a revelation. For a start I paid more attention. This is a good thing. Secondly I remembered what I had watched more clearly. It was an explanation of why Asian maths education is better if you are interested.
+
+I have now designated it as a notebook for taking notes on interesting videos and broadcasts.
+
 #### **YouTube and Bluesky Ban**
 
 So the biggest time sink in my life has been Bluesky and YouTube. Actually Bluesky isn’t too bad, but I am really susceptible to the YouTube algorithm. Especially recently, the algorithm is really tuned into the stuff I like. The prevelance of AI slop discouraged me for a while, but I think we’ve all got used to it and can now spot it quickly and avoid it. In my case, that actually makes using the site more enjoyable as I like the challenge of spotting the rubbish before I click on it.
