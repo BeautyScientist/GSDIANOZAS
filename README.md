@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Does Thinking Out Loud Work Better?**
+
+I’ve noticed that working on paper is a good way of thinking. This is, I think, a quite well known fact. The effort of using your fingers and having stuff in front of your eyes that you are looking at seems to engage more of your brain than just thinking in isolation. I dare say there is some neuroscience behind it, and I think it is something that most people would probably understand intuitively to be the case.
+
+It has certainly been working for me recently. Which made me wonder - does talking out loud while you are thinking have similar beneficial effects? This isn’t quite as obvious, but you do have the extra work from your vocal chords and the need to form actual sentences?
+
+I thought I would give it a try. So on my walk this morning, when I was well out of the way of other people, I gave it a try. It was very weird at first. But after about 10 minutes I was beginning to think that it might be working. The result of my vocalising was a plan to use the day to do two things at once. I want to focus some deep work on a particular problem I need to solve, and I also want to have a general review and to close off lose ends and get as much out of the way and off my mind so I can relax properly at Christmas. I resolved that I would do the deep work in 25 minutes every hour on the hour, and use the 35 minutes remaining in each hour for the less challenging sorting out and tidying up jobs which don’t require much concentration but which get me prepared to work more effectively next week.
+
+I am working through this right now - the first deep work session is ticked off  and I am now working through the other list. 
+
+So first thought - yes thinking out loud does seem to be beneficial. Of course it does have the problem that you have to find somewhere away from other people to do it.
+
 #### **Taking Notes Makes YouTube More Interesting and Less Addictive**
 
 As a result of some of the random events that life throws at us I found myself waiting in a hospital with a couple of hours to spare and nothing to keep my mind occupied. So I bought a notebook and some pencils and did some work. This left me with a notebook that was nearly empty and no particular purpose for it. 
