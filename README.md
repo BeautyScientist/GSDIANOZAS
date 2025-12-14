@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### ** Why I wish I had watched Chicago last nigh**
+
+In my battle against distraction, I am finding more and more that things that divide my attention are the biggest menace. I have two great examples from the last 24 hours.
+
+My plan last night has been to watch the musical “Chicago“ but it turned out nobody else in the house wanted to. I got as far as having it on the screen ready to start, but for some reason I decided that musicals aren’t something to watch on your own. So I switched to YouTube to finish an interesting video I had started watching earlier in the day. I was captured by the algorithm and ended up staying in the grip of a short form content until around 1 o’clock in the morning.
+
+Even when I finally got between the sheets, I felt wide-awake. Mercifully, I did fall asleep quite quickly despite that. Waking up the next morning I had mercifully only Left pencil and paper within grabbing distance.
+
+I set about working on an algebra problem that has been vexing me for a few days. I was getting nowhere, so I thought I would try the next couple of problems in the exercises I’m working through. It sometimes helps to do that. The fresh ones were very easy and I should have polished them off in a few minutes. But in my rush to get back to them problem I managed to mess both of them up.
+
+The conclusion I have drawn is that dividing attention is something that my brain is quite capable of doing on its own. Online algorithms are bad and a menace. But if you get away from them, you still have a battle ahead to keep your focus on what you’re really trying to do.
+
 #### **Does Thinking Out Loud Work Better?**
 
 I’ve noticed that working on paper is a good way of thinking. This is, I think, a quite well known fact. The effort of using your fingers and having stuff in front of your eyes that you are looking at seems to engage more of your brain than just thinking in isolation. I dare say there is some neuroscience behind it, and I think it is something that most people would probably understand intuitively to be the case.
