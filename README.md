@@ -10,7 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
-#### **Why I wish I had watched Chicago last nigh**
+#### **Don’t try to get things right try to make them beautiful**
+
+I have been trying to substitute alternative activities to scrolling and keeping up with the latest news. One of those activities is solving simple maths problems from elementary textbooks. This is my alternative to Sudoku and similar. I soon rediscovered my schoolboy fault of making silly errors. Although this is no longer a problem because I don’t have a scary math teacher checking my answers, it still bothered me.
+
+But I’m not a school boy anymore, so I thought I would apply the kind of thinking I use as an adult to this problem. When I got something wrong, I carefully analysed exactly what the cause of that error was. I found that a lot of of it was down to simply trying to write too quickly and misreading my own writing.
+
+So I have now slowed down and write out each question as neatly as I can and explain all my steps. My accuracy has improved greatly.
+
+I think that insight would have made a difference to my maths level at school. But it isn't a specific numbers thing. I have a tendency to rush things in general - which is great when it works. But I often have to undo stuff that I've got wrong. I should probably slow down on quite a few of my activities and try to make them look good rather than finished.
+
+#### **Why I wish I had watched Chicago last night**
 
 In my battle against distraction, I am finding more and more that things that divide my attention are the biggest menace. I have two great examples from the last 24 hours.
 
