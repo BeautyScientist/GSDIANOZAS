@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Getting Back to regularly reading a physical book**
+
+I haven’t been reading enough lately. I am reading a lot more than I was last year, but I still haven’t got back to reading for a couple of hours every day like I used to do before the internet started competing for my attention. I wonder if to get really good at reading I need to spend 10,000 hours reading books? Or maybe I just need to spend 10,000 hours reading Malcom Gladwell books.
+
+I’ve always been a bit sceptical of the 10,000 hour hypothesis. It seems to me very unlikely that every different skill and every different person is resolvable into a formula as simple as that. But it is certainly the case that to get good at something and to get good at something does require putting in the hours. It is the only way your brain’s wiring gets to be in the exact configuration it needs to be to do what you want to do well - and reading is no different. In fact I think reading is one of those things that requires a lot of practice. It only feels easy because we do so much of it. It isn’t something that we have evolved to do.  
+
+So I feel that being distracted by screens doesn’t just cut down my reading time - which is already bad enough. It is also imperceptibly reducing my reading skills level.
+
+I am going to try and do what I do with this book I am writing in 10 minute bursts. I am going to claw out a ten minute session every day when I read a physical book. The obvious time to do this is when I have my cup of tea at the start of my work day. I never miss the tea, so let’s see if I can get an ingrained habit where I never miss the paper.
+
 #### **Don’t try to get things right try to make them beautiful**
 
 I have been trying to substitute alternative activities to scrolling and keeping up with the latest news. One of those activities is solving simple maths problems from elementary textbooks. This is my alternative to Sudoku and similar. I soon rediscovered my schoolboy fault of making silly errors. Although this is no longer a problem because I don’t have a scary math teacher checking my answers, it still bothered me.
