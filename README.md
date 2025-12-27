@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Latitude Leads to Lassitude**
+
+I don’t really wake up properly until I’ve been out for a walk in the Sun. Which is fine most of the year, but in the high latitude where I live the Sun doesn’t rise until about 8 am at this time of year. This makes it difficult to simply wake up and get my boots on. What I often find, and what I found this morning, is that if I wake up before the sun rises it’s very easy to get hooked on whatever big news story is running.
+
+That’s exactly what happened this morning. No doubt the thing that got us all excited we’ll fade in the memory soon enough. But those precious early morning minutes will never come back again.
+
+The shortest day is only a few days away. I can then look forward to 6 months where things steadily get better. So that’s a cheery thought.
+
 #### **Getting Back to regularly reading a physical book**
 
 I haven’t been reading enough lately. I am reading a lot more than I was last year, but I still haven’t got back to reading for a couple of hours every day like I used to do before the internet started competing for my attention. I wonder if to get really good at reading I need to spend 10,000 hours reading books? Or maybe I just need to spend 10,000 hours reading Malcom Gladwell books.
