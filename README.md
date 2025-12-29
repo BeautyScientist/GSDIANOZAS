@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Don't think about things, do them**
+
+I have been watching videos by a YouTuber called Newel of Knowledge, who is a bit eccentric but whose advice seems at least on the surface to be useful. So I am putting some of his ideas into practice. The one that particularly struck me yesterday was that if you keep putting things off you end up thinking about them a lot more than if you simply got them done. The drawback with this is that the task or problem then ends up burning away a lot more brain power. He called in cognitive load - he has a lot of phrases like this - and it does make sense that if you are busy then the last thing you want to do from a time management point of view is to waste your precious grey cells unneccesarily.
+
+To try and put this idea into practice I’ve come up with a cunning plan. I have a list of all the things I am working on - which is good. But I have to regularly rewrite it which is bad. So I am going to switch to using index cards, which will have one activity on them. I can then rearrange the cards every morning and make sure that the urgent and imortant tasks and the ones I need to think about lead all the rest. 
+
+This will also have the effect of giving me an idea of my workload simply from the number of cards. I’ll start today - let’s see how it goes.
+
 #### **Down the rabbit hole with Silver**
 
 I am just recovering from spending a large chunk of time researching a subject of no intrinsic value to me.
