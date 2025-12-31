@@ -10,6 +10,17 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Using Playlists To Keep Control of my YouTube Habit**
+
+I have found a useful way of taming my YouTube addiction. I have decided that I am going to separate looking for interesting content on YouTube from consuming content on YouTube. 
+
+I’ve got two YouTube accounts. The one I use primarily for business and personal development is a premium account where I don’t get adverts. I also have a fun free one that I use for entertainment. There’s quite a bit overlap to be honest, but it does mean that I can write comments on the fun one that I wouldn’t want to associate with my business activities and vice versa.
+
+So what I do now is sometimes I’ll scroll through YouTube looking for interesting stuff. But I don’t watch it, I just assign it to a playlist. I can do this at any idle moment and I don’t end up spending hours watching ‘just one more’. When I do want to be entertained I can start by curating my saved  items into a playlist. So the experience is more intentional.
+
+It also, as it happens, solves one of my problems. I like to listen to stuff while going to sleep but I find I lose my place with audiobooks or podcasts. It is much less of a problem with YouTube videos.
+ 
+
 #### **Don't think about things, do them**
 
 I have been watching videos by a YouTuber called Newel of Knowledge, who is a bit eccentric but whose advice seems at least on the surface to be useful. So I am putting some of his ideas into practice. The one that particularly struck me yesterday was that if you keep putting things off you end up thinking about them a lot more than if you simply got them done. The drawback with this is that the task or problem then ends up burning away a lot more brain power. He called in cognitive load - he has a lot of phrases like this - and it does make sense that if you are busy then the last thing you want to do from a time management point of view is to waste your precious grey cells unneccesarily.
