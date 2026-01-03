@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Avoiding distraction during a crisis**
+
+New Year is settling in and I am hoping to use the Brake from my normal habits to create some new ones. This is the first normal weekend of the year so this is the time to establish how 2026 is going to work for me. But there’s already a problem and that I wake up this morning to discover a war has started. Wars can be great attention hogs – quite apart from all the other obvious drawbacks. i’m going to have to take special measures to avoid exceptional distractions.
+
+I think my best option is to have a news blackout throughout the day until 7 pm. It feels a bit like when somebody is trying to avoid hearing the score of a football match before they’ve watched the game. But it does make sense. When there is big news going on the broadcasters, and all the other people who comment on these things, indulge in endless speculation. It is very easy to get carried away by this.
+
+I suppose I should really be grateful that I am in a position to manage these things. The participants in the war of course will not have that luxury. I wish them luck and hope things are return to normal soon.
+
 #### **Using Playlists To Keep Control of my YouTube Habit**
 
 I have found a useful way of taming my YouTube addiction. I have decided that I am going to separate looking for interesting content on YouTube from consuming content on YouTube. 
