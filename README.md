@@ -10,6 +10,12 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **I cure endless scrolling by writing an essay**
+
+So I have watched all the videos caught up with all the news and read a bit of the analysis. It would be very easy to spend the rest of the day seeking out more details and more opinions. Instead, I got my pencil out and wrote out my thoughts on the big news. It wasn’t the kind of thing that could be published in a major journal, but I was quite pleased with it nonetheless. I have reached a conclusion. I can move on to other things.
+
+There are plenty of activities I could have spent the time on which would have been better for me. But I have at least avoided continual scrolling and looking for sensation. It might even be both interesting and possibly useful in the future to look back on what I’ve just written as a reminder of what I thought at the time and how far off the mark I was. So whilst not ideal, I don’t think I have wasted too much time. I hope the World will respect my desire for peace and Tranquility in the future. But if it does insist on creating newsworthy crises, I think I’m better prepared to deal with them in the future.
+
 #### **Avoiding distraction during a crisis**
 
 New Year is settling in and I am hoping to use the Brake from my normal habits to create some new ones. This is the first normal weekend of the year so this is the time to establish how 2026 is going to work for me. But there’s already a problem and that I wake up this morning to discover a war has started. Wars can be great attention hogs – quite apart from all the other obvious drawbacks. i’m going to have to take special measures to avoid exceptional distractions.
