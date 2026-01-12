@@ -10,6 +10,24 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Trump forces me to introduce attention rationing**
+
+The idea of these articles I write every other day is to look at what I’m doing and inferred general principles from those activities. The idea is that they should help me work out the best way of both getting things done and enjoy my life. I didn’t really envisage I would ever have to make reference to current affairs.
+
+But right now, to my surprise I find it impossible to ignore the news. At a time of writing, President Trump has kidnapped a head of state, and is threatening war against Columbia, Mexico and is adopting a very aggressive stance towards Canada. Last year he instigated a trade war against most of the planet (except Russia). He is also engaged in an attack on a big chuck of his own people. Although it is probably the least astonishing of his actions, he is also threatening to seize Greenland from Denmark. This is the one that is attracting my attention most, because it opens up the possibility of British and American troops firing at each other. 
+
+There is quite a lot of attention grabbing stuff there. and while the broadbrush of the situation is remarkable enough, when you drill down into the details, the astonishment continues at all levels.
+
+What on earth is going on?
+
+I think political commentators and historians will be working on it for years. My feeling is that Trump‘s motivation is simply attention. He is indifferent to the consequences of his actions. He just wants people looking at him. He has no particular goal in mind. This explains the expansiveness of his ambitions compared to the narrowness of his vocabulary.
+
+He is waging a war on the world to gain all the attention. And in my case, he’s winning his hands down at the moment. The trouble is you really can’t ignore him. That his actions are reckless does not stop them having consequences.
+
+It gives me no choice. I am putting myself on an attention war footing. From now on, I am rationing myself to one Trump bulletin a day of no more than 10 minutes. This is the only option to keeping my life on track. These measures will remain in force until Donald is deposed, dials it down or dies.
+
+
+
 #### **I cure endless scrolling by writing an essay**
 
 So I have watched all the videos caught up with all the news and read a bit of the analysis. It would be very easy to spend the rest of the day seeking out more details and more opinions. Instead, I got my pencil out and wrote out my thoughts on the big news. It wasn’t the kind of thing that could be published in a major journal, but I was quite pleased with it nonetheless. I have reached a conclusion. I can move on to other things.
