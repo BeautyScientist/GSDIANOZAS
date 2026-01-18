@@ -10,6 +10,18 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **A Better Way of Watching YouTube**
+
+I have just watched a video about how writing can help you become more intelligent. And it means actual writing on paper with a pen or pencil. It turns out that while typing is a great way to create a lot of words quickly, as I am doing right now, it doesn’t have the friction you need to actually think clearly about what you are writing.
+
+When you write on paper you are engaging your semantic, visual and motor senses all at the same time. This means much more of your brain is working on what you are creating and this means you bring a lot more of your intelligence to bear on it. You are also building more and better developed memories.
+
+This is why watching self help videos, and even rewatching them, isn’t a great way of helping yourself. It would be much better to get some ideas down on paper, and draw them as pictures if possible, if you want to really get to grips with a problem. 
+
+This means working much harder of course. And none of us like to do that. Also, it means you don’t generate stuff you can use. You can’t email your team a hastily written page of notes and doodles. You certainly can’t send something like that to a customer. So it is very tempting, and much less time and effort, to simply run your fingers across the keyboard and come up with the finished product.
+
+I think I will try an experiment. Rather than blocking YouTube altogether I am going to have scheduled breaks in it every 15 minutes. After which I will make notes on what I have just watched before I pick it up again. If I can’t come up with some compelling notes on the video, I’ll find another one to watch.
+
 #### **Beating distraction with hard sums**
 
 When I was at school, I showed a modest aptitude towards mathematics. This was strong enough to get me into the top stream in maths. But having got there, I was at the bottom. At the time I found this quite discouraging. And ever since, although my maths is still above average, I feel a bit of a fraud. I can cope with most of the number based problems that life throws up. But only By sitting quietly in the corner with a calculator and paper.
