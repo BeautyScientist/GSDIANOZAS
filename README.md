@@ -10,6 +10,21 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Beating distraction with hard sums**
+
+When I was at school, I showed a modest aptitude towards mathematics. This was strong enough to get me into the top stream in maths. But having got there, I was at the bottom. At the time I found this quite discouraging. And ever since, although my maths is still above average, I feel a bit of a fraud. I can cope with most of the number based problems that life throws up. But only By sitting quietly in the corner with a calculator and paper.
+
+Whilst this is not exactly a pressing problem, I would quite like to be able to do mental arithmetic quickly and efficiently like my peers in my maths group at school were able to. So given that my pressing problem is avoiding distraction, I have taken to working through a textbook solving the problems it sets. Anything other than scrolling.
+
+(I haven’t chosen any especially difficult maths to work on. I’m using a book designed for teaching maths to engineers. Engineers are honest but simple folk, and I think probably about my level.)
+
+
+This wasn’t particularly part of the project, but I’ve been working without a calculator. Originally this was simply because I don’t have a standalone calculator. Are you the one that comes to my phone. And I don’t have the will power to resist surfing if it is within reach. This means I sometimes have to do some hard sums. For example, this morning I needed to work out the square root of every number between zero and 10.
+
+This initially struck me as impossible. But I persevered. It turned out that by using looking for patterns combined with breaking everything down to small steps at the level of my ability I was actually able to solve this one. Is required a lot of paper. I also discovered that I needed to write out all my steps carefully so I could see what I was doing. I also needed to take pains to write the numbers carefully so I didn’t misread them.
+
+All in all, it was quite a good exercise in problem-solving and perseverance. I have missed a few eye catching videos and blood pressure raising new stories. But I think I’ve got the best of the deal.
+
 #### **Trump forces me to introduce attention rationing**
 
 The idea of these articles I write every other day is to look at what I’m doing and inferred general principles from those activities. The idea is that they should help me work out the best way of both getting things done and enjoy my life. I didn’t really envisage I would ever have to make reference to current affairs.
