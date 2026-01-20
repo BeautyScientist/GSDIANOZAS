@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Breaking the link between scrolling and snacking**
+
+When I need a break I often combine a quick scroll on the internet with a snack. It’s a potent mix. I get a burst of dopamine from the latest outrageous news story and a burst of glucose from the over processed carbohydrates. I think my logic many years ago when I first fell into this habit must have been to get them both over and done with. But I think the reality is that both reinforce the other. So not only do I get a high from learning a quirky fact or a new shortcoming of the people I disagree with politically, I reward it with some sugar.
+
+The trouble is that what should be breaks in my productive time have become so seductive that I spend way too much time on them. And although I find them compelling, I don’t find them rewarding. I don’t look back fondly on all the packets of peanuts I’ve enjoyed or all the memes I’ve shared. On the other hand I do enjoy the sense of achievement of having got something difficult done.
+
+It’s become a real problem. I have decided to at least break the link. I have started not allowing myself to scroll and snack at the same time. The ultimate goal is to eliminate them both. But I think I need to break the link between them first. Moving forward I am only going to allow myself to snack while I am reviewing and prioritising on paper, or when I am writing about my productivity procedures. (Which is what I am doing right now - thank you Lindt 70% Cocoa chocolate.)
+
+Let’s see how it goes.
+
 #### **A Better Way of Watching YouTube**
 
 I have just watched a video about how writing can help you become more intelligent. And it means actual writing on paper with a pen or pencil. It turns out that while typing is a great way to create a lot of words quickly, as I am doing right now, it doesn’t have the friction you need to actually think clearly about what you are writing.
