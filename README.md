@@ -10,6 +10,14 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **What I do on my morning walk**
+
+One of my most solid habits is getting a walk in first thing in the morning when I wake up, or when the sun rises in the darker parts of winter. The original motivation for this was to see if the advice that early exposure to sunlight improves your mood during the day and makes getting a good night’s sleep easier. It’s something to do with cortisol. I have no reason to doubt that this is indeed the case. But I would continue with the habit even if it weren’t. I find it is a good way to start the day and I often come back with an idea to work on or with a good idea of my priorities for the day.
+
+But I have also found that with care I can seed my brain with what I want to think about on my walk. For example if I feel like making some progress on French I can listen to some french on my phone. I often think about subjects for articles on this project. And recently I have been developing a clear, slow and loud speech pattern to cope with the declining hearing of elderly family members.
+
+I do this by reciting poems. As is often the case with this sort of thing, a bit of mission creep has developed. I now have a set of poems that I know well enough by heart to recite whenever I feel like practicing my ‘deaf parents’ voice. But I am enjoying the process so much, I have started learning a new one. I think I may try and build up a repertoire.
+
 #### **My plan to use YouTube better**
 
 I’ve just done the perfect experiment on whether short form content is the concentration destroyer some sources have suggested it to be. I’ve spent a day when I successfully avoided it, and was productive and slept well. I followed this with a day when I for some reason I was unable to resist it and ended the day shattered, with little in the way of achievement to show for it and promptly woke up at 2:00 am in the morning craving to get on to YouTube to find out the latest events in the current big news story.
