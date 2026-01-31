@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **My plan to use YouTube better**
+
+I’ve just done the perfect experiment on whether short form content is the concentration destroyer some sources have suggested it to be. I’ve spent a day when I successfully avoided it, and was productive and slept well. I followed this with a day when I for some reason I was unable to resist it and ended the day shattered, with little in the way of achievement to show for it and promptly woke up at 2:00 am in the morning craving to get on to YouTube to find out the latest events in the current big news story.
+
+So that is confirmation enough for me. From now on short form content is bad and to be avoided. That’s easier said than done, but I have overcome worse temptations in the past and improved my enjoyment of life as a result.
+
+So now I have resolved on this course of action, I must make sure to follow through on it. I think I will make it a rule to never watch a YouTube video on my phone. I will allow myself to scroll it and select videos to watch later. I prefer watching YouTube on my television anyway. I think I need to add a further tweak to this setup. I will only allow myself to watch once I have curated what I have chosen. So I’ll initially shunt enverything into a watch later list, and subsequently categorise them into the lists I already have set up. And of course, this means I can also delete ones that have lost their appeal with the passage of time. 
+
+If this works, it could potentially free up a lot of time to do stuff that’s actually worthwhile, mainly writing. I always have more ideas for stuff to write than I have hours available to actually write. But this might be a way of freeing up some of the time I am currently losing to distractions. Let’s see how it goes.
+
 #### **Trump Distraction Syndrome**
 
 It turns out that simply knowing about something doesn’t translate into doing something about it. I have had a week that was way less productive than it could have been largely because I have been waking up between 4 and 5 in the morning wide awake, and then falling back to sleep again at around 6:30. I then wake up at around 8:30 and don’t really wake up until much later so my proper day doesn’t get off the ground until about 10. 
