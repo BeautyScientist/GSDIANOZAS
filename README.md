@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **My Fight Against Distraction - Is it itself becoming a Distraction**
+
+I’ve been doing better than usual in my war on distraction lately, with the most successful strategy being spending more time using paper and pencil to get work done and trying to only go on the laptop to get specific things done. This is a good strategy because it shifts the laptop into something I use for work rather than something I use for entertainment. If you are looking for one single change that has a big impact, that is the one I’d suggest picking as your first choice.
+
+But it has had some undesirable side effects. One of them is to hit my habit of writing regularly on avoiding distraction. I used to get regular reminders to write these 10 minute notes and to add them to my book of them, which is intended to be an 80,000 word work monitoring my battle with distraction which can potentially be of help to others but I think will certainly be of use to me in the future.  
+
+Well I haven’t cancelled the reminders that duly appear every other day - but as I no longer live on my laptop they don’t have the impact they used to have. I have tried writing these notes and transcribing them. I might revisit this as it is in itself a good skill to acquire. But at the moment I can’t get my ideas into the right format in a single 10 minute session the way I can when I type them directly. 
+
+I think I will try and carry on doing them on the laptop, but they have moved from being a good distraction replacing a bad distraction to being a distraction from other more valuable work. I’ll have to think this through. 
+
 #### **What I do on my morning walk**
 
 One of my most solid habits is getting a walk in first thing in the morning when I wake up, or when the sun rises in the darker parts of winter. The original motivation for this was to see if the advice that early exposure to sunlight improves your mood during the day and makes getting a good night’s sleep easier. It’s something to do with cortisol. I have no reason to doubt that this is indeed the case. But I would continue with the habit even if it weren’t. I find it is a good way to start the day and I often come back with an idea to work on or with a good idea of my priorities for the day.
