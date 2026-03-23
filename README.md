@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### ** I am falling out of love with time boxing**
+
+I have found the Pomodoro technique, in various forms, very useful over the years. And combined with time boxing it can be a very effective way of managing a days work. But it is far from perfect. And it has one particular drawback which is that it imposes unnatural breaks on your workflow. This has been proving a particular problem for me recently. I have been working more on paper. This is partly because I have been doing bigger projects. It is also affected by By my discovery that using AI is more efficient if you plan out your prompts on paper before committing them to the Computer.
+
+But the main reason is simply that I don’t feel the need for it so much. I’ve got much better at sitting down to a task and working through it to its natural conclusion. ultimately, time boxing and similar approaches are a solution to the problem many people have, and which I’ve certainly had a lot in the past, that their mind tends to drift if they don’t have a framework. If your mind isn’t drifting, then you don’t need the framework.
+
+I haven’t given up on it altogether. I can still imagine it has its uses. And I may will need it again. But right now, I can get  by fine without it.
+
+The only thing I’m still using it for for the moment is literally what I’m doing right now is writing these notes.
+
 #### **My Fight Against Distraction - Is it itself becoming a Distraction**
 
 I’ve been doing better than usual in my war on distraction lately, with the most successful strategy being spending more time using paper and pencil to get work done and trying to only go on the laptop to get specific things done. This is a good strategy because it shifts the laptop into something I use for work rather than something I use for entertainment. If you are looking for one single change that has a big impact, that is the one I’d suggest picking as your first choice.
