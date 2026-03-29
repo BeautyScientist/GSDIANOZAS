@@ -10,7 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
-#### ** I am falling out of love with time boxing**
+#### **I Need To Plan Like A Military Operation**
+
+I had the most ridiculously unproductive day yesterday. I spent about 6 hours just checking YouTube for the latest on the war before getting started. I never did get started. I am beginning to wonder if I just call up the American embassy and offer to join the staff, as I must be pretty close to being as well briefed as the professionals are.
+
+It is said that the difference between amateur and professional war enthusiasts is the former look at strategy and tactics while the latter are concerned with logistics. I think this might be the case with time management as well. I have a pretty good general idea of what I want to be doing with my time. But I have a feeling I haven’t got the logistics quite right yet. Even on a good day, my approach is to get started doing the real work as soon as possible. 
+
+It might well be better to arrange things so that I have what I need, and little or nothing else, to hand before I start work. I already do something along these lines where I don’t have any devices to hand when I go to bed so I get straight to sleep. I should probably arrange my desks - I have the benefit of having two available - for exactly what I want to do. I should probably spend some time with nothing by a pencil and paper within reach planning out how it will work.
+
+#### **I am falling out of love with time boxing**
 
 I have found the Pomodoro technique, in various forms, very useful over the years. And combined with time boxing it can be a very effective way of managing a days work. But it is far from perfect. And it has one particular drawback which is that it imposes unnatural breaks on your workflow. This has been proving a particular problem for me recently. I have been working more on paper. This is partly because I have been doing bigger projects. It is also affected by By my discovery that using AI is more efficient if you plan out your prompts on paper before committing them to the Computer.
 
