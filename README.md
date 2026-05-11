@@ -10,6 +10,15 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Endless Scrolling Makes Me Stupid, Endless Editing Makes Me Vain**
+
+I saw some time management advice once that said, “Don’t read blogs and for heaven’s sake don’t write them.” As is my standard operating system with good advice, I ignored it completely. 
+In my defence there was a point in my life where my blog was both successful in terms of readership in its niche and attracted enough business to keep me afloat, so it wasn’t entirely a vanity project.
+
+It wasn’t entirely not a vanity project either. I did rather fancy myself as a “good writer”. My blog posts were genuinely excellent in my head before I actually wrote them. But rather than accept that the Platonic form of an ideal blog post was unachievable in the real world, I would just keep editing them until I gave up. I concluded that a perfect post that represented my true talent was eluding me because of lack of time.
+
+I didn’t need more time. I needed more humility. I’ve found that switching to paper hasn’t improved my writing, but it does make me humble. 
+
 #### **I Need To Plan Like A Military Operation**
 
 I had the most ridiculously unproductive day yesterday. I spent about 6 hours just checking YouTube for the latest on the war before getting started. I never did get started. I am beginning to wonder if I just call up the American embassy and offer to join the staff, as I must be pretty close to being as well briefed as the professionals are.
