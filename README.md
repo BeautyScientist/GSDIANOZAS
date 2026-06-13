@@ -10,6 +10,16 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **10 Minute Bursts**
+
+I went back to my old tactic of doing 10 minute bursts yesterday to catch up on some things that were stacking up on my to do list. It always feels like it is working well when I am actually working the system - and in many ways it does work well. I don’t have to concentrate on getting one thing done so it feels easier. And I can see progress being made on several fronts. One thing I also add to the list is organising and tidying - and seeing my desk getting physically less cluttered is encouraging.
+
+But at the end of the day - which in this case I mean literally not metaphorically - there never seems to be much to show for the hours that have been invested. This I could live with on the grounds that I will get there in the end, and steady progress is the best kind of progress.
+
+But there is something which isn’t so obvious until you take the time to reflect. It is really tiring to be continually changing focus, and it takes time as well. So the gaps between the different sessions mount up and you get steadily less capable as the day goes by. 
+
+It is often good and sometimes necessary to stretch yourself across the whole area of your activity. But it is not something that should be done often and it certainly shouldn’t be the main way of working. 
+
 #### **Endless Scrolling Makes Me Stupid, Endless Editing Makes Me Vain**
 
 I saw some time management advice once that said, “Don’t read blogs and for heaven’s sake don’t write them.” As is my standard operating system with good advice, I ignored it completely. 
