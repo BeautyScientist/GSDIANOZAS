@@ -10,6 +10,28 @@ So here’s the plan. Let’s try splitting the day up into timed sessions. Well
 
 I started off this investigation by simply seeing if I could write something worth rereading later in 10 minutes. When this proved to be possible, I resolved to do exactly that every other day. And a little later still I decided that I would try to write a book length piece of writing. I don’t imagine this will be a book that will ever be published. But it might be something I would enjoy reading in the future. The main goal though is simply to produce something of that scale in a series of very short bursts spread out over all the other busyness of my life. The entire focus has been on producing the content. So the final result will be a very simple, if quite long, account of how I beat/failed to beat distraction.
 
+#### **Joanna Wiebe - How People Try To Distract You**
+
+A few days ago, I watched a YouTube video made by Joanna Weibe whose job it is to create the kind of content that holds your attention and prevents you from getting on with anything productive.
+
+It was a very well put together video and it was very clearly structured to get over the information that she was setting out, as you'd expect from someone whose job is copywriting. But the first thing that struck me was, the fact that she was willing to make this video at all. It was a bit like somebody writing a book about how they murdered somebody.
+
+She was quite clear that teams of people sit in offices behind screens in Silicon Valley using the best available data and research to craft stuff that just keeps us scrolling. I think we all know this, but it is a bit surpising to come face to face with them. In fact, I don't think this is something she'd be willing to discuss if she thought there was the remotest prospect that revealing the techniques would enable people to counter them.
+
+It was also very revealing that she found that she herself was just as easily manipulated as anybody else by the very techniques she was describing, and that she often spends hours on her phone when she wants to be doing something else.
+
+And that she has to take specific countermeasures to regain her attention. 
+
+So basically, the video was, this is how we do it. There's not much you can do about it, and here are the ways I use to avoid being manipulated. But even these don't work that well. Overall a rather depressing message.
+
+But it was very well presented, and it was very clear, and I can remember her face and her voice and how enjoyable it was for the 15 minutes I spent watching the video.
+
+Now, as it happens, I'm composing this post by dictation whilst walking in the field. And I don't have access to my notes. I did take some notes on what she saying when I was listening to it. But, here I sm several days later and I've completely forgotten the important details. That does set me up for another experiment.
+
+Can I go back and reproduce her arguments from my notes? Or will I have to rewatch the video to recall the information?
+
+But there is one conclusion I can draw already. When you're watching shortform videos on YouTube, the information drains out the back of your head very nearly as quickly as it floats in.
+
 #### **10 Minute Bursts**
 
 I went back to my old tactic of doing 10 minute bursts yesterday to catch up on some things that were stacking up on my to do list. It always feels like it is working well when I am actually working the system - and in many ways it does work well. I don’t have to concentrate on getting one thing done so it feels easier. And I can see progress being made on several fronts. One thing I also add to the list is organising and tidying - and seeing my desk getting physically less cluttered is encouraging.
